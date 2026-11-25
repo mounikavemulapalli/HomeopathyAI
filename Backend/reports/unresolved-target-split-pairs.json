@@ -1,0 +1,13 @@
+[
+  {
+    "file": "database/kent_master_db.json",
+    "id": "KENT_SLEEP_LOOSE",
+    "chapter": "SLEEP",
+    "rubric": "LOOSE",
+    "first": "cupr-",
+    "firstGrade": 1,
+    "next": "n",
+    "nextGrade": 1,
+    "candidate": "cupr-n"
+  }
+]

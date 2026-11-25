@@ -1,0 +1,123 @@
+.totality-grid-container {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+}
+
+.remedy-header-scroll-container {
+  overflow-x: auto;
+  margin-bottom: 15px;
+  white-space: nowrap; /* Ensures items stay in one line */
+}
+
+.remedy-header-buttons {
+  display: inline-flex; /* Allows horizontal scrolling */
+  gap: 10px;
+  padding-bottom: 5px; /* Space for scrollbar */
+}
+
+.remedy-badge {
+  background-color: #e0e0e0;
+  border-radius: 20px;
+  padding: 8px 15px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  min-width: 80px; /* Ensure badges have a minimum width */
+  justify-content: center;
+}
+
+.remedy-name {
+  font-weight: bold;
+}
+
+.remedy-score {
+  background-color: #f0f0f0;
+  border-radius: 50%;
+  padding: 3px 7px;
+  font-size: 0.8em;
+}
+
+.grid-scroll-container {
+  overflow-x: auto;
+}
+
+.totality-grid-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 600px; /* Ensure table has a minimum width for scrolling */
+}
+
+.totality-grid-table th,
+.totality-grid-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+  min-width: 80px; /* Consistent cell width */
+}
+
+.category-header {
+  background-color: #f2f2f2;
+  text-align: left;
+  position: sticky;
+  left: 0;
+  z-index: 1;
+}
+
+.category-cell {
+  background-color: #f9f9f9;
+  text-align: left;
+  font-weight: bold;
+  position: sticky;
+  left: 0;
+  z-index: 1;
+}
+
+/* Color codes for scores */
+.score-green {
+  background-color: #e6ffe6; /* Light green */
+  color: #006600;
+}
+
+.score-blue {
+  background-color: #e6f7ff; /* Light blue */
+  color: #004d99;
+}
+
+.score-yellow {
+  background-color: #fffacd; /* Lemon Chiffon */
+  color: #cc9900;
+}
+
+.score-orange {
+  background-color: #ffe0b3; /* Light orange */
+  color: #e67300;
+}
+
+.score-red {
+  background-color: #ffcccc; /* Light red */
+  color: #cc0000;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .remedy-badge {
+    min-width: 60px;
+    padding: 6px 10px;
+  }
+
+  .remedy-name,
+  .remedy-score {
+    font-size: 0.9em;
+  }
+
+  .totality-grid-table th,
+  .totality-grid-table td {
+    padding: 6px;
+    min-width: 60px;
+    font-size: 0.9em;
+  }
+
+  .category-cell {
+    min-width: 100px; /* Adjust category cell width for better readability */
+  }
+}

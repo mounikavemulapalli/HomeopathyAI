@@ -1,0 +1,98 @@
+﻿const fs = require("fs");
+const path = require("path");
+
+const filePath = path.join(__dirname, "services", "RepertoryEngine.js");
+let code = fs.readFileSync(filePath, "utf8");
+
+// 1. Replace _applyChapterLockAndClean with safe chapter-variant matching & non-empty fallback
+const helperStart = code.indexOf("  // [UNIVERSAL_CHAPTER_LOCK_AND_CLEAN_SEARCH]");
+const analyzeStart = code.indexOf("  async analyzeCase(");
+
+if (helperStart !== -1 && analyzeStart !== -1 && analyzeStart > helperStart) {
+  const safeHelper = [
+    "  // [UNIVERSAL_CHAPTER_LOCK_AND_CLEAN_SEARCH]",
+    "  _getLockedChaptersForSymptom(symptomInput, interp = {}) {",
+    "    const rawText =",
+    '      typeof symptomInput === "string"',
+    "        ? symptomInput",
+    '        : String((symptomInput && (symptomInput.value || symptomInput.symptom)) || "");',
+    "    const lower = rawText.toLowerCase();",
+    "",
+    "    if (Array.isArray(interp && interp.allowedChapters) && interp.allowedChapters.length > 0) {",
+    "      return interp.allowedChapters.map((c) => String(c).toUpperCase());",
+    "    }",
+    "    if (interp && interp.primaryChapter) {",
+    "      return [String(interp.primaryChapter).toUpperCase()];",
+    "    }",
+    "",
+    "    if (/\\b(leucorrh|menses|menstrual|vagina|uterus|ovary|female|discharge)\\b/i.test(lower)) {",
+    '      return ["GENITALIA FEMALE", "FEMALE", "MENSES", "LEUCORRHOEA"];',
+    "    }",
+    "    if (/\\b(back|lumbar|sciatic|spine|coccyx|cervical|scapulae)\\b/i.test(lower)) {",
+    '      return ["BACK", "SCIATICA", "EXTREMITIES"];',
+    "    }",
+    "    if (/\\b(sleep|dream|ghost)\\b/i.test(lower)) {",
+    '      return ["SLEEP", "MIND", "DREAM"];',
+    "    }",
+    "    if (/\\b(sweat|perspir)\\b/i.test(lower)) {",
+    '      return ["PERSPIRATION", "SWEAT", "GENERAL"];',
+    "    }",
+    "    return null;",
+    "  }",
+    "",
+    "  _applyChapterLockAndClean(rubrics, symptomInput, interp = {}) {",
+    "    if (!Array.isArray(rubrics) || rubrics.length === 0) return [];",
+    "    const lockedChapters = this._getLockedChaptersForSymptom(symptomInput, interp);",
+    "",
+    "    const dedup = (arr) => {",
+    "      const seen = new Map();",
+    "      for (const r of arr) {",
+    '        const chap = String((r && r.chapter) || "").trim().toUpperCase();',
+    '        const norm = String((r && (r.rubric || r.name)) || "")',
+    "          .toLowerCase()",
+    '          .replace(/[^a-z0-9]+/g, " ")',
+    "          .trim();",
+    '        const key = norm ? (chap + "::" + norm) : String(r && r.id);',
+    "        const prev = seen.get(key);",
+    "        if (!prev || (Number(r && r.score) || 0) > (Number(prev && prev.score) || 0)) {",
+    "          seen.set(key, r);",
+    "        }",
+    "      }",
+    "      return Array.from(seen.values());",
+    "    };",
+    "",
+    "    const strictFiltered = rubrics.filter((r) => {",
+    '      const chap = String((r && r.chapter) || "").toUpperCase();',
+    '      const rub = String((r && (r.rubric || r.name)) || "").trim();',
+    "      const rubLower = rub.toLowerCase();",
+    "",
+    "      if (rub.length <= 2) return false;",
+    '      if (/^(on|in|at|to|of|by|for|and|or)$/i.test(rubLower)) return false;',
+    "      if (/\\btestes\\b/i.test(rubLower)) return false;",
+    "",
+    "      if (Array.isArray(lockedChapters) && lockedChapters.length > 0 && chap) {",
+    "        const matchesLock = lockedChapters.some(",
+    "          (lc) => chap.includes(lc) || lc.includes(chap)",
+    "        );",
+    "        if (!matchesLock) return false;",
+    "      }",
+    "",
+    "      return true;",
+    "    });",
+    "",
+    "    const cleanedStrict = dedup(strictFiltered);",
+    "    if (cleanedStrict.length > 0) return cleanedStrict;",
+    "",
+    "    // Safe fallback: never return empty if input rubrics existed",
+    "    const minimalClean = rubrics.filter((r) => {",
+    '      const rub = String((r && (r.rubric || r.name)) || "").trim();',
+    "      return rub.length > 2 && !/^(on|in|at|to|of)$/i.test(rub.toLowerCase());",
+    "    });",
+    "    return dedup(minimalClean.length > 0 ? minimalClean : rubrics).slice(0, 10);",
+    "  }",
+  ].join("\n");
+
+  code = code.slice(0, helperStart) + safeHelper + "\n\n" + code.slice(analyzeStart);
+  fs.writeFileSync(filePath, code, "utf8");
+  console.log("Updated _applyChapterLockAndClean with safe chapter matching and non-empty fallback.");
+}

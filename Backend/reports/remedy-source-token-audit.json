@@ -1,0 +1,4646 @@
+{
+  "reportType": "Read-only Remedy Source Token Audit",
+  "createdAt": "2026-10-22T12:10:25.704Z",
+  "projectRoot": "C:\\Users\\bhanu\\Downloads\\HomeopathyAi\\Backend",
+  "registryFile": "data\\remedyRegistry.json",
+  "registryEntryCount": 612,
+  "sourceSummary": {
+    "kent_master_db.json": {
+      "exists": true,
+      "records": 68230
+    },
+    "bbcr_master_db.json": {
+      "exists": true,
+      "records": 28787
+    },
+    "boger_master_db.json": {
+      "exists": true,
+      "records": 34088
+    },
+    "clarke_master_db.json": {
+      "exists": true,
+      "records": 14147
+    }
+  },
+  "totalSourceRecordsAcrossFiles": 145252,
+  "targetResults": [
+    {
+      "canonicalName": "ANISUM STELLATUM",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Anis.",
+        "ANIS.",
+        "anis"
+      ],
+      "registryAliases": [],
+      "sourceTokenCounts": {
+        "kent_master_db.json": {
+          "ANIS.": 0,
+          "ANIS": 0
+        },
+        "bbcr_master_db.json": {
+          "ANIS.": 0,
+          "ANIS": 0
+        },
+        "boger_master_db.json": {
+          "ANIS.": 0,
+          "ANIS": 0
+        },
+        "clarke_master_db.json": {
+          "ANIS.": 0,
+          "ANIS": 0
+        }
+      },
+      "exactOrAliasMatchCount": 0,
+      "sampleMatches": [],
+      "status": "UNRESOLVED_REQUIRES_SOURCE_VERIFICATION"
+    },
+    {
+      "canonicalName": "BISMUTHUM OXIDUM",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Bism-ox.",
+        "BISM-OX.",
+        "bism-ox"
+      ],
+      "registryAliases": [],
+      "sourceTokenCounts": {
+        "kent_master_db.json": {
+          "BISM-OX.": 0,
+          "BISM-OX": 0
+        },
+        "bbcr_master_db.json": {
+          "BISM-OX.": 0,
+          "BISM-OX": 0
+        },
+        "boger_master_db.json": {
+          "BISM-OX.": 0,
+          "BISM-OX": 0
+        },
+        "clarke_master_db.json": {
+          "BISM-OX.": 0,
+          "BISM-OX": 0
+        }
+      },
+      "exactOrAliasMatchCount": 0,
+      "sampleMatches": [],
+      "status": "UNRESOLVED_REQUIRES_SOURCE_VERIFICATION"
+    },
+    {
+      "canonicalName": "CAINCA",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Cain.",
+        "CAIN.",
+        "cain"
+      ],
+      "registryAliases": [],
+      "sourceTokenCounts": {
+        "kent_master_db.json": {
+          "CAIN.": 0,
+          "CAIN": 0
+        },
+        "bbcr_master_db.json": {
+          "CAIN.": 0,
+          "CAIN": 0
+        },
+        "boger_master_db.json": {
+          "CAIN.": 0,
+          "CAIN": 0
+        },
+        "clarke_master_db.json": {
+          "CAIN.": 0,
+          "CAIN": 0
+        }
+      },
+      "exactOrAliasMatchCount": 0,
+      "sampleMatches": [],
+      "status": "UNRESOLVED_REQUIRES_SOURCE_VERIFICATION"
+    },
+    {
+      "canonicalName": "CALTHA PALUSTRIS",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Calt.",
+        "CALT.",
+        "calt"
+      ],
+      "registryAliases": [],
+      "sourceTokenCounts": {
+        "kent_master_db.json": {
+          "CALT.": 0,
+          "CALT": 0
+        },
+        "bbcr_master_db.json": {
+          "CALT.": 0,
+          "CALT": 0
+        },
+        "boger_master_db.json": {
+          "CALT.": 0,
+          "CALT": 0
+        },
+        "clarke_master_db.json": {
+          "CALT.": 0,
+          "CALT": 0
+        }
+      },
+      "exactOrAliasMatchCount": 0,
+      "sampleMatches": [],
+      "status": "UNRESOLVED_REQUIRES_SOURCE_VERIFICATION"
+    },
+    {
+      "canonicalName": "CETRARARIA ISLANDICA",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Cet.",
+        "CET.",
+        "cet"
+      ],
+      "registryAliases": [],
+      "sourceTokenCounts": {
+        "kent_master_db.json": {
+          "CET.": 0,
+          "CET": 0
+        },
+        "bbcr_master_db.json": {
+          "CET.": 0,
+          "CET": 0
+        },
+        "boger_master_db.json": {
+          "CET.": 0,
+          "CET": 0
+        },
+        "clarke_master_db.json": {
+          "CET.": 0,
+          "CET": 0
+        }
+      },
+      "exactOrAliasMatchCount": 0,
+      "sampleMatches": [],
+      "status": "UNRESOLVED_REQUIRES_SOURCE_VERIFICATION"
+    },
+    {
+      "canonicalName": "CHENOPODIUM ANTHELMINTICUM",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Chen-an.",
+        "CHEN-AN.",
+        "chen-an"
+      ],
+      "registryAliases": [],
+      "sourceTokenCounts": {
+        "kent_master_db.json": {
+          "CHEN-AN.": 0,
+          "CHEN-AN": 0
+        },
+        "bbcr_master_db.json": {
+          "CHEN-AN.": 0,
+          "CHEN-AN": 0
+        },
+        "boger_master_db.json": {
+          "CHEN-AN.": 0,
+          "CHEN-AN": 0
+        },
+        "clarke_master_db.json": {
+          "CHEN-AN.": 0,
+          "CHEN-AN": 0
+        }
+      },
+      "exactOrAliasMatchCount": 0,
+      "sampleMatches": [],
+      "status": "UNRESOLVED_REQUIRES_SOURCE_VERIFICATION"
+    },
+    {
+      "canonicalName": "CITRUS LIMONUM",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Cit-l.",
+        "CIT-L.",
+        "cit-l"
+      ],
+      "registryAliases": [],
+      "sourceTokenCounts": {
+        "kent_master_db.json": {
+          "CIT-L.": 0,
+          "CIT-L": 0
+        },
+        "bbcr_master_db.json": {
+          "CIT-L.": 0,
+          "CIT-L": 0
+        },
+        "boger_master_db.json": {
+          "CIT-L.": 0,
+          "CIT-L": 0
+        },
+        "clarke_master_db.json": {
+          "CIT-L.": 0,
+          "CIT-L": 0
+        }
+      },
+      "exactOrAliasMatchCount": 0,
+      "sampleMatches": [],
+      "status": "UNRESOLVED_REQUIRES_SOURCE_VERIFICATION"
+    },
+    {
+      "canonicalName": "COCAINUM MURIATICUM",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Cocain-m.",
+        "COCAIN-M.",
+        "cocain-m"
+      ],
+      "registryAliases": [],
+      "sourceTokenCounts": {
+        "kent_master_db.json": {
+          "COCAIN-M.": 0,
+          "COCAIN-M": 0
+        },
+        "bbcr_master_db.json": {
+          "COCAIN-M.": 0,
+          "COCAIN-M": 0
+        },
+        "boger_master_db.json": {
+          "COCAIN-M.": 0,
+          "COCAIN-M": 0
+        },
+        "clarke_master_db.json": {
+          "COCAIN-M.": 0,
+          "COCAIN-M": 0
+        }
+      },
+      "exactOrAliasMatchCount": 0,
+      "sampleMatches": [],
+      "status": "UNRESOLVED_REQUIRES_SOURCE_VERIFICATION"
+    },
+    {
+      "canonicalName": "CUPRUM NITRICUM",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Cupr-n.",
+        "CUPR-N.",
+        "cupr-n"
+      ],
+      "registryAliases": [],
+      "sourceTokenCounts": {
+        "kent_master_db.json": {
+          "CUPR-N.": 0,
+          "CUPR-N": 0
+        },
+        "bbcr_master_db.json": {
+          "CUPR-N.": 0,
+          "CUPR-N": 0
+        },
+        "boger_master_db.json": {
+          "CUPR-N.": 0,
+          "CUPR-N": 0
+        },
+        "clarke_master_db.json": {
+          "CUPR-N.": 0,
+          "CUPR-N": 0
+        }
+      },
+      "exactOrAliasMatchCount": 0,
+      "sampleMatches": [],
+      "status": "UNRESOLVED_REQUIRES_SOURCE_VERIFICATION"
+    },
+    {
+      "canonicalName": "IRIS GERMANICA",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Ir-g.",
+        "IR-G.",
+        "ir-g"
+      ],
+      "registryAliases": [],
+      "sourceTokenCounts": {
+        "kent_master_db.json": {
+          "IR-G.": 0,
+          "IR-G": 0
+        },
+        "bbcr_master_db.json": {
+          "IR-G.": 0,
+          "IR-G": 0
+        },
+        "boger_master_db.json": {
+          "IR-G.": 0,
+          "IR-G": 0
+        },
+        "clarke_master_db.json": {
+          "IR-G.": 0,
+          "IR-G": 0
+        }
+      },
+      "exactOrAliasMatchCount": 0,
+      "sampleMatches": [],
+      "status": "UNRESOLVED_REQUIRES_SOURCE_VERIFICATION"
+    },
+    {
+      "canonicalName": "MAGNETIS POLI AMBO",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Mag-p-a.",
+        "MAG-P-A.",
+        "mag-p-a"
+      ],
+      "registryAliases": [
+        "MAGNETIS POLI. AMBO."
+      ],
+      "sourceTokenCounts": {
+        "kent_master_db.json": {
+          "MAG-P-A.": 0,
+          "MAG-P-A": 0,
+          "MAGNETIS POLI. AMBO.": 0
+        },
+        "bbcr_master_db.json": {
+          "MAG-P-A.": 0,
+          "MAG-P-A": 0,
+          "MAGNETIS POLI. AMBO.": 0
+        },
+        "boger_master_db.json": {
+          "MAG-P-A.": 0,
+          "MAG-P-A": 0,
+          "MAGNETIS POLI. AMBO.": 0
+        },
+        "clarke_master_db.json": {
+          "MAG-P-A.": 0,
+          "MAG-P-A": 0,
+          "MAGNETIS POLI. AMBO.": 0
+        }
+      },
+      "exactOrAliasMatchCount": 0,
+      "sampleMatches": [],
+      "status": "UNRESOLVED_REQUIRES_SOURCE_VERIFICATION"
+    },
+    {
+      "canonicalName": "PHASEOLUS NANUS",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Phase.",
+        "PHASE.",
+        "phase"
+      ],
+      "registryAliases": [],
+      "sourceTokenCounts": {
+        "kent_master_db.json": {
+          "PHASE.": 0,
+          "PHASE": 0
+        },
+        "bbcr_master_db.json": {
+          "PHASE.": 0,
+          "PHASE": 0
+        },
+        "boger_master_db.json": {
+          "PHASE.": 0,
+          "PHASE": 0
+        },
+        "clarke_master_db.json": {
+          "PHASE.": 0,
+          "PHASE": 0
+        }
+      },
+      "exactOrAliasMatchCount": 0,
+      "sampleMatches": [],
+      "status": "UNRESOLVED_REQUIRES_SOURCE_VERIFICATION"
+    },
+    {
+      "canonicalName": "SOLANUM OLERACEUM",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Sol-o.",
+        "SOL-O.",
+        "sol-o"
+      ],
+      "registryAliases": [],
+      "sourceTokenCounts": {
+        "kent_master_db.json": {
+          "SOL-O.": 0,
+          "SOL-O": 0
+        },
+        "bbcr_master_db.json": {
+          "SOL-O.": 0,
+          "SOL-O": 0
+        },
+        "boger_master_db.json": {
+          "SOL-O.": 0,
+          "SOL-O": 0
+        },
+        "clarke_master_db.json": {
+          "SOL-O.": 0,
+          "SOL-O": 0
+        }
+      },
+      "exactOrAliasMatchCount": 0,
+      "sampleMatches": [],
+      "status": "UNRESOLVED_REQUIRES_SOURCE_VERIFICATION"
+    },
+    {
+      "canonicalName": "STACHYS BETONICA",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Stach.",
+        "STACH.",
+        "stach"
+      ],
+      "registryAliases": [],
+      "sourceTokenCounts": {
+        "kent_master_db.json": {
+          "STACH.": 0,
+          "STACH": 0
+        },
+        "bbcr_master_db.json": {
+          "STACH.": 0,
+          "STACH": 0
+        },
+        "boger_master_db.json": {
+          "STACH.": 0,
+          "STACH": 0
+        },
+        "clarke_master_db.json": {
+          "STACH.": 0,
+          "STACH": 0
+        }
+      },
+      "exactOrAliasMatchCount": 0,
+      "sampleMatches": [],
+      "status": "UNRESOLVED_REQUIRES_SOURCE_VERIFICATION"
+    },
+    {
+      "canonicalName": "TANNINUM",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Tann.",
+        "TANN.",
+        "tann"
+      ],
+      "registryAliases": [],
+      "sourceTokenCounts": {
+        "kent_master_db.json": {
+          "TANN.": 0,
+          "TANN": 0
+        },
+        "bbcr_master_db.json": {
+          "TANN.": 0,
+          "TANN": 0
+        },
+        "boger_master_db.json": {
+          "TANN.": 0,
+          "TANN": 0
+        },
+        "clarke_master_db.json": {
+          "TANN.": 0,
+          "TANN": 0
+        }
+      },
+      "exactOrAliasMatchCount": 0,
+      "sampleMatches": [],
+      "status": "UNRESOLVED_REQUIRES_SOURCE_VERIFICATION"
+    },
+    {
+      "canonicalName": "TUSSILAGO FRAGRANS",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Tus-f.",
+        "TUS-F.",
+        "tus-f"
+      ],
+      "registryAliases": [],
+      "sourceTokenCounts": {
+        "kent_master_db.json": {
+          "TUS-F.": 0,
+          "TUS-F": 0
+        },
+        "bbcr_master_db.json": {
+          "TUS-F.": 0,
+          "TUS-F": 0
+        },
+        "boger_master_db.json": {
+          "TUS-F.": 0,
+          "TUS-F": 0
+        },
+        "clarke_master_db.json": {
+          "TUS-F.": 0,
+          "TUS-F": 0
+        }
+      },
+      "exactOrAliasMatchCount": 0,
+      "sampleMatches": [],
+      "status": "UNRESOLVED_REQUIRES_SOURCE_VERIFICATION"
+    },
+    {
+      "canonicalName": "ZINCUM CYANATUM",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Zinc-c.",
+        "ZINC-C.",
+        "zinc-c"
+      ],
+      "registryAliases": [],
+      "sourceTokenCounts": {
+        "kent_master_db.json": {
+          "ZINC-C.": 0,
+          "ZINC-C": 0
+        },
+        "bbcr_master_db.json": {
+          "ZINC-C.": 0,
+          "ZINC-C": 0
+        },
+        "boger_master_db.json": {
+          "ZINC-C.": 0,
+          "ZINC-C": 0
+        },
+        "clarke_master_db.json": {
+          "ZINC-C.": 0,
+          "ZINC-C": 0
+        }
+      },
+      "exactOrAliasMatchCount": 0,
+      "sampleMatches": [],
+      "status": "UNRESOLVED_REQUIRES_SOURCE_VERIFICATION"
+    }
+  ],
+  "incompleteTrailingHyphenTokensTop250": [
+    {
+      "token": "kali-",
+      "occurrences": 432,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_ANGER_IRASCIBILITY_SEE_IRRITABILITY_AND_QUARRELSOME",
+          "chapter": "MIND",
+          "rubric": "ANGER , irascibility (See Irritability and Quarrelsome)",
+          "grade": 1,
+          "followingTokens": [
+            "ar",
+            "kali-n",
+            "lach"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_ANXIETY",
+          "chapter": "MIND",
+          "rubric": "ANXIETY",
+          "grade": 3,
+          "followingTokens": [
+            "p",
+            "Kali-s",
+            "Lyc"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_ANXIETY_EVENING",
+          "chapter": "MIND",
+          "rubric": "ANXIETY > evening",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "kali-i",
+            "kali-n"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_ANXIETY_NIGHT",
+          "chapter": "MIND",
+          "rubric": "ANXIETY > night",
+          "grade": 1,
+          "followingTokens": [
+            "ar",
+            "kali-bi",
+            "kali-c"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_EXCITEMENT_EXCITABLE_BAD_NEWS_AFTER",
+          "chapter": "MIND",
+          "rubric": "EXCITEMENT , excitable > bad news, after",
+          "grade": 1,
+          "followingTokens": [
+            "p",
+            "lach",
+            "nat-c"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_EXCITEMENT_EXCITABLE_EMOTIONAL_AILMENTS_FROM",
+          "chapter": "MIND",
+          "rubric": "EXCITEMENT , excitable > emotional, ailments from",
+          "grade": 2,
+          "followingTokens": [
+            "p",
+            "lyss",
+            "nat-m"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "nat-",
+      "occurrences": 367,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_ANXIETY_BED_IN",
+          "chapter": "MIND",
+          "rubric": "ANXIETY > bed, in",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "nat-m",
+            "nit-ac"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CONFUSION_OF_MIND_SEE_CONCENTRATION_WAKING_ON",
+          "chapter": "MIND",
+          "rubric": "CONFUSION of mind (See Concentration) > waking, on",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "puls",
+            "rhod"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CONFUSION_OF_MIND_SEE_CONCENTRATION_READING_WHILE",
+          "chapter": "MIND",
+          "rubric": "CONFUSION of mind (See Concentration) > reading, while",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "nux-m"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CONVERSATION_AGG_SEE_TALKING",
+          "chapter": "MIND",
+          "rubric": "CONVERSATION agg. (See Talking)",
+          "grade": 1,
+          "followingTokens": [
+            "p",
+            "ph-ac",
+            "plat"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CHRIST_THINKS_HIMSELF_TO_BE_DEVILS_SEES",
+          "chapter": "MIND",
+          "rubric": "Christ , thinks himself to be > devils, sees",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "op",
+            "stram"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_EXCITEMENT_EXCITABLE_MORNING",
+          "chapter": "MIND",
+          "rubric": "EXCITEMENT , excitable > morning",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "nat-m",
+            "nat-s"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "carb-",
+      "occurrences": 237,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_ANXIETY_BED_IN",
+          "chapter": "MIND",
+          "rubric": "ANXIETY > bed, in",
+          "grade": 1,
+          "followingTokens": [
+            "an",
+            "cham",
+            "hep"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_ANXIETY_BED_IN_2",
+          "chapter": "MIND",
+          "rubric": "ANXIETY > bed, in_2",
+          "grade": 1,
+          "followingTokens": [
+            "an",
+            "chin-s",
+            "ign"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CONFUSION_OF_MIND_SEE_CONCENTRATION_INTOXICATED_AS_IF",
+          "chapter": "MIND",
+          "rubric": "CONFUSION of mind (See Concentration) > intoxicated, as if",
+          "grade": 2,
+          "followingTokens": [
+            "v",
+            "dig",
+            "glon"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CONFUSION_OF_MIND_SEE_CONCENTRATION_MENTAL_EXERTION_FROM",
+          "chapter": "MIND",
+          "rubric": "CONFUSION of mind (See Concentration) > mental exertion, from",
+          "grade": 2,
+          "followingTokens": [
+            "v",
+            "caust",
+            "cocc"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CHRIST_THINKS_HIMSELF_TO_BE_IMAGES_PHANTOMS_SEES_SEE_FACES_FIGURES_MEN_SPECTRES_VISIONS",
+          "chapter": "MIND",
+          "rubric": "Christ , thinks himself to be > images, phantoms, sees (See Faces , Figures , Men , Spectres , Visions )",
+          "grade": 2,
+          "followingTokens": [
+            "v",
+            "crot-h",
+            "hep"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CHRIST_THINKS_HIMSELF_TO_BE_NIGHT",
+          "chapter": "MIND",
+          "rubric": "Christ , thinks himself to be > night",
+          "grade": 1,
+          "followingTokens": [
+            "v",
+            "cham",
+            "chin"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "nux-",
+      "occurrences": 189,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_ANXIETY_FUTURE_ABOUT",
+          "chapter": "MIND",
+          "rubric": "ANXIETY > future, about",
+          "grade": 2,
+          "followingTokens": [
+            "v",
+            "ph-ac",
+            "puls"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CONFUSION_OF_MIND_SEE_CONCENTRATION_OPEN_AIR_IN",
+          "chapter": "MIND",
+          "rubric": "CONFUSION of mind (See Concentration) > open air, in",
+          "grade": 3,
+          "followingTokens": [
+            "m",
+            "Petr",
+            "Acon"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_DEATH_DESIRES_SEE_LOATHING_OF_LIFE_SENSATION_OF",
+          "chapter": "MIND",
+          "rubric": "DEATH , desires (See Loathing of Life) > sensation of",
+          "grade": 1,
+          "followingTokens": [
+            "v",
+            "op",
+            "sil"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CHRIST_THINKS_HIMSELF_TO_BE_HIDEOUS",
+          "chapter": "MIND",
+          "rubric": "Christ , thinks himself to be > hideous",
+          "grade": 1,
+          "followingTokens": [
+            "v",
+            "stry"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CHRIST_THINKS_HIMSELF_TO_BE_FIGURES_SEES",
+          "chapter": "MIND",
+          "rubric": "Christ , thinks himself to be > figures, sees",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "ph-ac",
+            "plb"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_DOUBTFUL_RECOVERY_OF_SOUL_S_WELFARE_OF",
+          "chapter": "MIND",
+          "rubric": "DOUBTFUL , recovery, of > soul's welfare, of",
+          "grade": 1,
+          "followingTokens": [
+            "v",
+            "sel",
+            "stram"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "nit-",
+      "occurrences": 175,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_ABUSIVE",
+          "chapter": "MIND",
+          "rubric": "ABUSIVE",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "plb",
+            "ran-b"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_DESPAIR",
+          "chapter": "MIND",
+          "rubric": "DESPAIR",
+          "grade": 2,
+          "followingTokens": [
+            "ac",
+            "puls",
+            "rhus-t"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_DISCONTENTED_DISPLEASED_DISSATISFIED_ETC",
+          "chapter": "MIND",
+          "rubric": "DISCONTENTED , displeased, dissatisfied, etc.",
+          "grade": 2,
+          "followingTokens": [
+            "ac",
+            "nux-v",
+            "pall"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_HOME_SICKNESS",
+          "chapter": "MIND",
+          "rubric": "HOME-SICKNESS",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "petr",
+            "plan"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_IMBECILITY",
+          "chapter": "MIND",
+          "rubric": "IMBECILITY",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "olnd",
+            "ran-b"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_IRRITABILITY_SEE_ANGER_CHILL_DURING",
+          "chapter": "MIND",
+          "rubric": "IRRITABILITY (See Anger) > chill, during",
+          "grade": 2,
+          "followingTokens": [
+            "ac",
+            "nux-v",
+            "petr"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "mag-",
+      "occurrences": 169,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CAPRICIOUSNESS",
+          "chapter": "MIND",
+          "rubric": "CAPRICIOUSNESS",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "merc",
+            "nit-ac"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CONFUSION_OF_MIND_SEE_CONCENTRATION",
+          "chapter": "MIND",
+          "rubric": "CONFUSION of mind (See Concentration)",
+          "grade": 1,
+          "followingTokens": [
+            "s",
+            "meli",
+            "merc-c"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_IRRITABILITY_SEE_ANGER",
+          "chapter": "MIND",
+          "rubric": "IRRITABILITY (See Anger)",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "manc",
+            "meli"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_IRRITABILITY_SEE_ANGER_COITION_AFTER",
+          "chapter": "MIND",
+          "rubric": "IRRITABILITY (See Anger) > coition, after",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "nat-m",
+            "nit-ac"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_RESERVED",
+          "chapter": "MIND",
+          "rubric": "RESERVED",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "nat-m",
+            "nit-ac"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_RESTLESSNESS_NERVOUSNESS_INTERNAL",
+          "chapter": "MIND",
+          "rubric": "RESTLESSNESS , nervousness > internal",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "mag-m",
+            "mag-s"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "ph-",
+      "occurrences": 129,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_ANXIETY_WAKING_ON_3",
+          "chapter": "MIND",
+          "rubric": "ANXIETY > waking, on_3",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "plat",
+            "puls"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CONFUSION_OF_MIND_SEE_CONCENTRATION_EVENING",
+          "chapter": "MIND",
+          "rubric": "CONFUSION of mind (See Concentration) > evening",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "phos",
+            "ptel"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_FEAR_SEE_ANXIETY_DEATH_OF",
+          "chapter": "MIND",
+          "rubric": "FEAR (See Anxiety) > death, of",
+          "grade": 2,
+          "followingTokens": [
+            "ac",
+            "psor",
+            "puls"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_MIRTH_HILARITY_LIVELINESS_ETC",
+          "chapter": "MIND",
+          "rubric": "MIRTH , hilarity, liveliness, etc.",
+          "grade": 2,
+          "followingTokens": [
+            "ac",
+            "phos",
+            "plat"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_SADNESS_MENTAL_DEPRESSION_SUPPRESSED",
+          "chapter": "MIND",
+          "rubric": "SADNESS , mental depression > suppressed",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "phos",
+            "puls"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_SENSITIVE_OVERSENSITIVE_SEE_OFFENDED_NOISE_TO",
+          "chapter": "MIND",
+          "rubric": "SENSITIVE , oversensitive (See Offended) > noise, to",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "ptel",
+            "rhus-t"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "rhus-",
+      "occurrences": 116,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_ANXIETY_TWILIGHT_IN_THE",
+          "chapter": "MIND",
+          "rubric": "ANXIETY > twilight, in the",
+          "grade": 2,
+          "followingTokens": [
+            "t",
+            "Ambr",
+            "dig"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CHILDISH_BEHAVIOR_SEE_FOOLISH",
+          "chapter": "MIND",
+          "rubric": "CHILDISH behavior (See Foolish)",
+          "grade": 1,
+          "followingTokens": [
+            "t",
+            "seneg",
+            "viol-o"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_DELIRIUM_QUIET",
+          "chapter": "MIND",
+          "rubric": "DELIRIUM > quiet",
+          "grade": 1,
+          "followingTokens": [
+            "t",
+            "sec",
+            "tab"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_HOME_DESIRES_TO_GO",
+          "chapter": "MIND",
+          "rubric": "HOME , desires to go",
+          "grade": 1,
+          "followingTokens": [
+            "t",
+            "verat",
+            "vip"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_IRRITABILITY_SEE_ANGER_AIR_IN_OPEN",
+          "chapter": "MIND",
+          "rubric": "IRRITABILITY (See Anger) > air, in open",
+          "grade": 1,
+          "followingTokens": [
+            "t"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_JESTING",
+          "chapter": "MIND",
+          "rubric": "JESTING",
+          "grade": 1,
+          "followingTokens": [
+            "r",
+            "sars",
+            "sec"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "sul-",
+      "occurrences": 76,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CONCENTRATION_ACTIVE_DIFFICULT",
+          "chapter": "MIND",
+          "rubric": "CONCENTRATION active > difficult",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "til",
+            "verat"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_RESTLESSNESS_NERVOUSNESS",
+          "chapter": "MIND",
+          "rubric": "RESTLESSNESS , nervousness",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "sumb",
+            "tarax"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_SADNESS_MENTAL_DEPRESSION",
+          "chapter": "MIND",
+          "rubric": "SADNESS , mental depression",
+          "grade": 2,
+          "followingTokens": [
+            "ac",
+            "tab",
+            "verat-v"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_CHILL_CONSTRICTION_TENSION_SEE_ALSO_DRAWING_PRESSING",
+          "chapter": "CHILL",
+          "rubric": "CONSTRICTION , tension (See also Drawing, Pressing)",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "tab",
+            "tarax"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_CHILL_FOREHEAD_2",
+          "chapter": "CHILL",
+          "rubric": "Forehead_2",
+          "grade": 2,
+          "followingTokens": [
+            "ac",
+            "sulph",
+            "aeth"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_WALKING_IN_OPEN_AIR_WHILE",
+          "chapter": "FEVER",
+          "rubric": "PAIN , headache in general > walking in open air, while",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "tarax",
+            "thuj"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "arg-",
+      "occurrences": 76,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CONFUSION_OF_MIND_SEE_CONCENTRATION",
+          "chapter": "MIND",
+          "rubric": "CONFUSION of mind (See Concentration)",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "ars-i",
+            "asaf"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CHRIST_THINKS_HIMSELF_TO_BE_WHILE_WALKING_THINKS_HE_WILL_HAVE_A_FIT_OR_DIE_WHICH_MAKES_HIM_WALK_FASTER",
+          "chapter": "MIND",
+          "rubric": "Christ , thinks himself to be > while walking thinks he will have a fit or die, which makes him walk faster",
+          "grade": 2,
+          "followingTokens": [
+            "n"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_DISCOURAGED",
+          "chapter": "MIND",
+          "rubric": "DISCOURAGED",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "arn",
+            "ars-i"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_FOOLISH_BEHAVIOR_SEE_CHILDISH",
+          "chapter": "MIND",
+          "rubric": "FOOLISH behavior (See Childish)",
+          "grade": 1,
+          "followingTokens": [
+            "n",
+            "calc",
+            "cann-i"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_HYSTERIA",
+          "chapter": "MIND",
+          "rubric": "HYSTERIA",
+          "grade": 2,
+          "followingTokens": [
+            "n",
+            "ars",
+            "bar-c"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_IDEAS_ABUNDANT_CLEARNESS_OF_MIND",
+          "chapter": "MIND",
+          "rubric": "IDEAS abundant , clearness of mind",
+          "grade": 1,
+          "followingTokens": [
+            "n",
+            "asar",
+            "aur"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "bar-",
+      "occurrences": 70,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_FEAR_SEE_ANXIETY_EVIL_OF",
+          "chapter": "MIND",
+          "rubric": "FEAR (See Anxiety) > evil of",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "bar-m",
+            "bry"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_SADNESS_MENTAL_DEPRESSION_MORNING",
+          "chapter": "MIND",
+          "rubric": "SADNESS , mental depression > morning",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "bar-m",
+            "calad"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_AMEL_79",
+          "chapter": "FEVER",
+          "rubric": "PAIN , headache in general > amel._79",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "bov",
+            "canth"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_FOREHEAD_IN_7_NOSE_ABOVE_ROOT_OF",
+          "chapter": "FEVER",
+          "rubric": "Forehead , in_7 > nose, above root of",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "bor",
+            "brom"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_PRESSING_SEE_BURSTING_DRAWING_VISE_AS_IF_IN_A",
+          "chapter": "FEVER",
+          "rubric": "Pressing (See Bursting, Drawing) > vise, as if in a",
+          "grade": 2,
+          "followingTokens": [
+            "c",
+            "cact",
+            "cocc"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_VERTEX_25",
+          "chapter": "FEVER",
+          "rubric": "Vertex_25",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "bar-m",
+            "benz-ac"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "mur-",
+      "occurrences": 69,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_DULLNESS_SLUGGISHNESS_DIFFICULTY_OF_THINKING_AND_COMPREHENDING",
+          "chapter": "MIND",
+          "rubric": "DULLNESS , sluggishness, difficulty of thinking and comprehending",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "myric",
+            "naja"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_TALKS_TO_HIMSELF",
+          "chapter": "MIND",
+          "rubric": "TALKS to himself",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "nux-m",
+            "oena"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_CHILL_TEMPLE_RIGHT_CRUSTS_SCABS",
+          "chapter": "CHILL",
+          "rubric": "Temple , right > crusts, scabs",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "nat-p",
+            "ol-j"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_AMEL_74",
+          "chapter": "FEVER",
+          "rubric": "PAIN , headache in general > amel._74",
+          "grade": 2,
+          "followingTokens": [
+            "ac",
+            "phos",
+            "Ars"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_TEMPLES_12",
+          "chapter": "FEVER",
+          "rubric": "Temples_12",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "murx",
+            "myric"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_VERTEX_20_PULLED_SENSATION_AS_IF_HAIR_WERE",
+          "chapter": "FEVER",
+          "rubric": "Vertex_20 > pulled, sensation as if hair were",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "petr",
+            "ph-ac"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "ferr-",
+      "occurrences": 66,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_HAUGHTY",
+          "chapter": "MIND",
+          "rubric": "HAUGHTY",
+          "grade": 1,
+          "followingTokens": [
+            "ma",
+            "ferr",
+            "guai"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_RELIGIOUS_AFFECTIONS_SEE_ANXIETY_DESPAIR_FEAR",
+          "chapter": "MIND",
+          "rubric": "RELIGIOUS affections (See Anxiety, Despair, Fear)",
+          "grade": 1,
+          "followingTokens": [
+            "ar",
+            "ferr",
+            "hura"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_SADNESS_MENTAL_DEPRESSION",
+          "chapter": "MIND",
+          "rubric": "SADNESS , mental depression",
+          "grade": 3,
+          "followingTokens": [
+            "i",
+            "Ferr",
+            "Gels"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_SENSITIVE_OVERSENSITIVE_SEE_OFFENDED",
+          "chapter": "MIND",
+          "rubric": "SENSITIVE , oversensitive (See Offended)",
+          "grade": 1,
+          "followingTokens": [
+            "ar",
+            "ferr-p",
+            "gran"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_SERIOUS_SEE_SAD",
+          "chapter": "MIND",
+          "rubric": "SERIOUS (See Sad)",
+          "grade": 1,
+          "followingTokens": [
+            "ar",
+            "ferr",
+            "grat"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_TALK_DESIRES_TO_TO_SOME_ONE_OF_OTHERS_AGG",
+          "chapter": "MIND",
+          "rubric": "TALK , desires to, to some one > of others agg.",
+          "grade": 1,
+          "followingTokens": [
+            "ar",
+            "ferr",
+            "kalm"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "crot-",
+      "occurrences": 61,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_ANXIETY_FEVER_DURING",
+          "chapter": "MIND",
+          "rubric": "ANXIETY > fever, during",
+          "grade": 1,
+          "followingTokens": [
+            "h",
+            "cycl",
+            "dros"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_DELIRIUM",
+          "chapter": "MIND",
+          "rubric": "DELIRIUM",
+          "grade": 2,
+          "followingTokens": [
+            "c",
+            "crot-h",
+            "cupr"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_DISCONTENTED_DISPLEASED_DISSATISFIED_ETC",
+          "chapter": "MIND",
+          "rubric": "DISCONTENTED , displeased, dissatisfied, etc.",
+          "grade": 1,
+          "followingTokens": [
+            "t",
+            "dulc",
+            "ferr-ar"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_RESTLESSNESS_NERVOUSNESS_NIGHT",
+          "chapter": "MIND",
+          "rubric": "RESTLESSNESS , nervousness > night",
+          "grade": 1,
+          "followingTokens": [
+            "cupr-s",
+            "cupr",
+            "dig"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_FOREHEAD_IN_7_EYES_TO",
+          "chapter": "FEVER",
+          "rubric": "Forehead , in_7 > eyes, to",
+          "grade": 2,
+          "followingTokens": [
+            "h",
+            "kali-c",
+            "phos"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_OCCIPUT_30",
+          "chapter": "FEVER",
+          "rubric": "Occiput_30",
+          "grade": 2,
+          "followingTokens": [
+            "h",
+            "echi",
+            "ip"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "calc-",
+      "occurrences": 56,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_DULLNESS_SLUGGISHNESS_DIFFICULTY_OF_THINKING_AND_COMPREHENDING",
+          "chapter": "MIND",
+          "rubric": "DULLNESS , sluggishness, difficulty of thinking and comprehending",
+          "grade": 1,
+          "followingTokens": [
+            "ar",
+            "camph",
+            "cann-i"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_TALK_DESIRES_TO_TO_SOME_ONE_INDISPOSED_TO_DESIRE_TO_BE_SILENT_TACITURN",
+          "chapter": "MIND",
+          "rubric": "TALK , desires to, to some one > indisposed to, desire to be silent, taciturn",
+          "grade": 1,
+          "followingTokens": [
+            "s",
+            "camph",
+            "cann-i"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_BED_IN",
+          "chapter": "FEVER",
+          "rubric": "PAIN , headache in general > bed, in",
+          "grade": 1,
+          "followingTokens": [
+            "p",
+            "calc",
+            "carb-an"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_AFTERNOON",
+          "chapter": "FEVER",
+          "rubric": "PAIN , headache in general > afternoon",
+          "grade": 1,
+          "followingTokens": [
+            "p",
+            "calc-s",
+            "calc"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_RHEUMATIC",
+          "chapter": "FEVER",
+          "rubric": "PAIN , headache in general > rheumatic",
+          "grade": 2,
+          "followingTokens": [
+            "p",
+            "caps",
+            "carb-s"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_SPIRITUOUS_LIQUORS_FROM",
+          "chapter": "FEVER",
+          "rubric": "PAIN , headache in general > spirituous liquors, from",
+          "grade": 1,
+          "followingTokens": [
+            "s",
+            "cann-i",
+            "carb-v"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "merc-",
+      "occurrences": 53,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_CHILL_CONGESTION_HYPER_MIA_ETC_SEE_FULLNESS_PULSATION_REDNESS_OF_FACE_WITH",
+          "chapter": "CHILL",
+          "rubric": "CONGESTION , hyperæmia, etc. (See Fullness, Pulsation) > redness of face, with",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "phos",
+            "sil"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_FOREHEAD_IN_7_LEFT_2",
+          "chapter": "FEVER",
+          "rubric": "Forehead , in_7 > left_2",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "merc-i-r",
+            "mosch"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_VERTEX_9",
+          "chapter": "FEVER",
+          "rubric": "Vertex_9",
+          "grade": 2,
+          "followingTokens": [
+            "i-f",
+            "merc-i-r",
+            "merc"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_BURNING",
+          "chapter": "FEVER",
+          "rubric": "Burning",
+          "grade": 2,
+          "followingTokens": [
+            "c",
+            "petr",
+            "sil"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_PERSPIRATION_SLEEPINESS_EVENING",
+          "chapter": "PERSPIRATION",
+          "rubric": "SLEEPINESS > evening",
+          "grade": 1,
+          "followingTokens": [
+            "i-r",
+            "merl",
+            "mez"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EXPECTORATION_PERSPIRATION_IN_GENERAL",
+          "chapter": "EXPECTORATION",
+          "rubric": "PERSPIRATION in general",
+          "grade": 1,
+          "followingTokens": [
+            "cy",
+            "merl",
+            "morph"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "ran-",
+      "occurrences": 49,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_ANXIETY_EVENING",
+          "chapter": "MIND",
+          "rubric": "ANXIETY > evening",
+          "grade": 1,
+          "followingTokens": [
+            "b",
+            "ruta",
+            "sabin"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CONFUSION_OF_MIND_SEE_CONCENTRATION_MENTAL_EXERTION_FROM",
+          "chapter": "MIND",
+          "rubric": "CONFUSION of mind (See Concentration) > mental exertion, from",
+          "grade": 1,
+          "followingTokens": [
+            "b",
+            "thuj"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_FORGETFUL_SEE_MEMORY",
+          "chapter": "MIND",
+          "rubric": "FORGETFUL (See Memory)",
+          "grade": 1,
+          "followingTokens": [
+            "b",
+            "raph",
+            "rheum"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_CHILL_FOREHEAD_IN_3",
+          "chapter": "CHILL",
+          "rubric": "Forehead , in_3",
+          "grade": 1,
+          "followingTokens": [
+            "b",
+            "spong",
+            "stann"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_ITCHING_OF_SCALP_AMEL",
+          "chapter": "FEVER",
+          "rubric": "ITCHING of scalp > amel.",
+          "grade": 1,
+          "followingTokens": [
+            "s",
+            "sabad",
+            "sars"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_FOREHEAD_IN_7_EVENING_2",
+          "chapter": "FEVER",
+          "rubric": "Forehead , in_7 > evening_2",
+          "grade": 1,
+          "followingTokens": [
+            "s",
+            "rat",
+            "rhus-r"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "fl-",
+      "occurrences": 45,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_FANCIES_ABSORBED_IN_EXALTATION_OF",
+          "chapter": "MIND",
+          "rubric": "FANCIES , absorbed in > exaltation of",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "hell",
+            "ign"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_MEMORY_ACTIVE_SEE_IDEAS_WEAKNESS_OF_SEE_MISTAKES",
+          "chapter": "MIND",
+          "rubric": "MEMORY active (See Ideas) > weakness of (See Mistakes)",
+          "grade": 2,
+          "followingTokens": [
+            "ac",
+            "form",
+            "gels"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_RAGE_FURY_SEE_INSANITY_MANIA_DELIRIUM",
+          "chapter": "MIND",
+          "rubric": "RAGE , fury (See Insanity, Mania, Delirium)",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "glon",
+            "graph"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_STOMACH_ANAEMIA_OF_THE_BRAIN",
+          "chapter": "STOMACH",
+          "rubric": "ANÆMIA of the brain",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "mosch",
+            "mur-ac"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_OCCIPUT_38",
+          "chapter": "FEVER",
+          "rubric": "Occiput_38",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "gent-l",
+            "gins"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_SORE_BRUISED_SENSITIVE_TO_PRESSURE",
+          "chapter": "FEVER",
+          "rubric": "Sore bruised , sensitive to pressure",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "gymn",
+            "ham"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "ant-",
+      "occurrences": 44,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_INDIFFERENCE_APATHY_ETC",
+          "chapter": "MIND",
+          "rubric": "INDIFFERENCE , apathy, etc.",
+          "grade": 1,
+          "followingTokens": [
+            "t",
+            "ars-i",
+            "asaf"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_RESTLESSNESS_NERVOUSNESS_NIGHT",
+          "chapter": "MIND",
+          "rubric": "RESTLESSNESS , nervousness > night",
+          "grade": 1,
+          "followingTokens": [
+            "t",
+            "anthr",
+            "apoc"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_WEEPING_TEARFUL_MOOD_ETC",
+          "chapter": "MIND",
+          "rubric": "WEEPING , tearful mood, etc.",
+          "grade": 2,
+          "followingTokens": [
+            "c",
+            "ant-t",
+            "arg-n"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_CHILL_COLDNESS_CHILLINESS_ETC",
+          "chapter": "CHILL",
+          "rubric": "COLDNESS , chilliness, etc.",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "apis",
+            "ars-i"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_MORNING",
+          "chapter": "FEVER",
+          "rubric": "PAIN , headache in general > morning",
+          "grade": 1,
+          "followingTokens": [
+            "t",
+            "arg-m",
+            "arg-n"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_VERTEX_9",
+          "chapter": "FEVER",
+          "rubric": "Vertex_9",
+          "grade": 1,
+          "followingTokens": [
+            "t",
+            "arn",
+            "ars-i"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "eup-",
+      "occurrences": 41,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_OCCIPUT_18",
+          "chapter": "FEVER",
+          "rubric": "Occiput_18",
+          "grade": 2,
+          "followingTokens": [
+            "per",
+            "ferr",
+            "ign"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_MORNING",
+          "chapter": "FEVER",
+          "rubric": "PAIN , headache in general > morning",
+          "grade": 2,
+          "followingTokens": [
+            "per",
+            "fl-ac",
+            "graph"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_PULSATING",
+          "chapter": "FEVER",
+          "rubric": "PAIN , headache in general > pulsating",
+          "grade": 2,
+          "followingTokens": [
+            "per",
+            "euphr",
+            "ferr-ar"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_FOREHEAD_IN_7_OCCIPUT_TO",
+          "chapter": "FEVER",
+          "rubric": "Forehead , in_7 > occiput, to",
+          "grade": 1,
+          "followingTokens": [
+            "per",
+            "kali-n",
+            "kali-p"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_SIDES_ONE_SIDE_LEFT",
+          "chapter": "FEVER",
+          "rubric": "Sides , one side > left",
+          "grade": 1,
+          "followingTokens": [
+            "pur",
+            "fl-ac",
+            "gymn"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_SIDES_23",
+          "chapter": "FEVER",
+          "rubric": "Sides_23",
+          "grade": 1,
+          "followingTokens": [
+            "pur",
+            "eupho",
+            "euphr"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "lac-",
+      "occurrences": 38,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_MEMORY_ACTIVE_SEE_IDEAS_WEAKNESS_OF_SEE_MISTAKES",
+          "chapter": "MIND",
+          "rubric": "MEMORY active (See Ideas) > weakness of (See Mistakes)",
+          "grade": 2,
+          "followingTokens": [
+            "c",
+            "lact-ac",
+            "laur"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_RESTLESSNESS_NERVOUSNESS_NIGHT",
+          "chapter": "MIND",
+          "rubric": "RESTLESSNESS , nervousness > night",
+          "grade": 2,
+          "followingTokens": [
+            "c",
+            "mag-m",
+            "med"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_SIT_INCLINATION_TO",
+          "chapter": "MIND",
+          "rubric": "SIT , inclination to",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "lach",
+            "laur"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_CHILL_FOREHEAD_2",
+          "chapter": "CHILL",
+          "rubric": "Forehead_2",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "lact-ac",
+            "laur"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_FOREHEAD_IN_7_DURING",
+          "chapter": "FEVER",
+          "rubric": "Forehead , in_7 > during",
+          "grade": 1,
+          "followingTokens": [
+            "d",
+            "lyc",
+            "mag-c"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_FOREHEAD_IN_7_EYES_ABOVE",
+          "chapter": "FEVER",
+          "rubric": "Forehead , in_7 > eyes, above",
+          "grade": 2,
+          "followingTokens": [
+            "d",
+            "lyc",
+            "meph"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "chin-",
+      "occurrences": 36,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_RESTLESSNESS_NERVOUSNESS_EVENING",
+          "chapter": "MIND",
+          "rubric": "RESTLESSNESS , nervousness > evening",
+          "grade": 1,
+          "followingTokens": [
+            "s",
+            "clem",
+            "dios"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_RESTLESSNESS_NERVOUSNESS_BED_DRIVING_OUT_OF",
+          "chapter": "MIND",
+          "rubric": "RESTLESSNESS , nervousness > bed, driving out of",
+          "grade": 1,
+          "followingTokens": [
+            "a",
+            "chin-s",
+            "chin"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_CHILL_FULLNESS_SEE_ENLARGED",
+          "chapter": "CHILL",
+          "rubric": "FULLNESS (See Enlarged)",
+          "grade": 2,
+          "followingTokens": [
+            "a",
+            "cinnb",
+            "con"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL",
+          "chapter": "FEVER",
+          "rubric": "PAIN , headache in general",
+          "grade": 1,
+          "followingTokens": [
+            "a",
+            "cina",
+            "clem"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_PRESSING_SEE_BURSTING_DRAWING",
+          "chapter": "FEVER",
+          "rubric": "Pressing (See Bursting, Drawing)",
+          "grade": 2,
+          "followingTokens": [
+            "s",
+            "chlol",
+            "cic"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_TEMPLES_32",
+          "chapter": "FEVER",
+          "rubric": "Temples_32",
+          "grade": 1,
+          "followingTokens": [
+            "a",
+            "chin-s",
+            "chin"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "cann-",
+      "occurrences": 33,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CONFUSION_OF_MIND_SEE_CONCENTRATION",
+          "chapter": "MIND",
+          "rubric": "CONFUSION of mind (See Concentration)",
+          "grade": 2,
+          "followingTokens": [
+            "s",
+            "canth",
+            "caps"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_IRRITABILITY_SEE_ANGER",
+          "chapter": "MIND",
+          "rubric": "IRRITABILITY (See Anger)",
+          "grade": 1,
+          "followingTokens": [
+            "s",
+            "carb-an",
+            "card-m"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_MEMORY_ACTIVE_SEE_IDEAS_WEAKNESS_OF_SEE_MISTAKES",
+          "chapter": "MIND",
+          "rubric": "MEMORY active (See Ideas) > weakness of (See Mistakes)",
+          "grade": 2,
+          "followingTokens": [
+            "i",
+            "carb-an",
+            "carb-v"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_CHILL_FOREHEAD_2",
+          "chapter": "CHILL",
+          "rubric": "Forehead_2",
+          "grade": 1,
+          "followingTokens": [
+            "s",
+            "carb-an",
+            "carb-s"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_TEMPLES_12",
+          "chapter": "FEVER",
+          "rubric": "Temples_12",
+          "grade": 1,
+          "followingTokens": [
+            "i",
+            "cann-s",
+            "caps"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_PRESSING_SEE_BURSTING_DRAWING",
+          "chapter": "FEVER",
+          "rubric": "Pressing (See Bursting, Drawing)",
+          "grade": 1,
+          "followingTokens": [
+            "s",
+            "canth",
+            "carb-ac"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "coc-",
+      "occurrences": 32,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_CHILL_HAIR_BALDNESS_BRISTLING",
+          "chapter": "CHILL",
+          "rubric": "HAIR baldness > bristling",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "dulc",
+            "lachn"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_VERTEX_7",
+          "chapter": "FEVER",
+          "rubric": "Vertex_7",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "corn",
+            "eupi"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_HEAVINESS_SEE_PRESSING",
+          "chapter": "FEVER",
+          "rubric": "HEAVINESS (See Pressing)",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "coca",
+            "cocc"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_FOREHEAD_IN_7",
+          "chapter": "FEVER",
+          "rubric": "Forehead , in_7",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "coca",
+            "colch"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_FOREHEAD_29_RIGHT_3",
+          "chapter": "FEVER",
+          "rubric": "Forehead_29 > right_3",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "crot-h",
+            "eupho"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_DISCOLORATION_BLACKISH_SPOTS_5",
+          "chapter": "SKIN",
+          "rubric": "DISCOLORATION , blackish > spots_5",
+          "grade": 2,
+          "followingTokens": [
+            "c",
+            "con",
+            "crot-h"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "ol-",
+      "occurrences": 31,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_OCCIPUT_22_EATING_AFTER",
+          "chapter": "FEVER",
+          "rubric": "Occiput_22 > eating, after",
+          "grade": 1,
+          "followingTokens": [
+            "an",
+            "pip-m"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_OCCIPUT_23",
+          "chapter": "FEVER",
+          "rubric": "Occiput_23",
+          "grade": 1,
+          "followingTokens": [
+            "an",
+            "ph-ac",
+            "plan"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_TEARING_RENDING_DRAWING",
+          "chapter": "FEVER",
+          "rubric": "Tearing , rending > drawing",
+          "grade": 1,
+          "followingTokens": [
+            "an",
+            "rhus-t",
+            "sil"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_PERSPIRATION_SIDES_27",
+          "chapter": "PERSPIRATION",
+          "rubric": "Sides_27",
+          "grade": 1,
+          "followingTokens": [
+            "an",
+            "petr",
+            "plb"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_ERUPTIONS_WATERY_3",
+          "chapter": "SKIN",
+          "rubric": "ERUPTIONS > watery_3",
+          "grade": 1,
+          "followingTokens": [
+            "an",
+            "plat",
+            "plb"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_AGGLUTINATED_NIGHT",
+          "chapter": "SKIN",
+          "rubric": "AGGLUTINATED > night",
+          "grade": 1,
+          "followingTokens": [
+            "an",
+            "phos",
+            "plb"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "ox-",
+      "occurrences": 29,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_DULLNESS_SLUGGISHNESS_DIFFICULTY_OF_THINKING_AND_COMPREHENDING_MORNING",
+          "chapter": "MIND",
+          "rubric": "DULLNESS , sluggishness, difficulty of thinking and comprehending > morning",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "phos",
+            "phys"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_FOREHEAD_14",
+          "chapter": "FEVER",
+          "rubric": "Forehead_14",
+          "grade": 1,
+          "followingTokens": [
+            "phys",
+            "podo",
+            "psor"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_WARTS_SEE_EXCRESCENCES",
+          "chapter": "SKIN",
+          "rubric": "WARTS ( See Excrescences )",
+          "grade": 2,
+          "followingTokens": [
+            "ac",
+            "ph-ac",
+            "psor"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_PULSE_ABNORMAL_IMPERCEPTIBLE_ALMOST",
+          "chapter": "SKIN",
+          "rubric": "PULSE abnormal > imperceptible, almost",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "ph-ac",
+            "phos"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_PULSE_ABNORMAL_SLOW",
+          "chapter": "SKIN",
+          "rubric": "PULSE abnormal > slow",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "par",
+            "petr"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_NOISES_IN_RUSHING",
+          "chapter": "EYE",
+          "rubric": "NOISES in > rushing",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "phyt",
+            "plat"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "hydr-",
+      "occurrences": 29,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_SPOT_PAIN_IN_SMALL",
+          "chapter": "FEVER",
+          "rubric": "PAIN , headache in general > spot, pain in small",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "lach",
+            "lact"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EXPECTORATION_CEREBRO_SPINAL_FEVER",
+          "chapter": "EXPECTORATION",
+          "rubric": "CEREBRO-SPINAL fever",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "hyos",
+            "lyc"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EXPECTORATION_PERSPIRATION_IN_GENERAL",
+          "chapter": "EXPECTORATION",
+          "rubric": "PERSPIRATION in general",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "ign",
+            "iris"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_HARD_LIKE_CALLOSITIES_THICKENING_WITH",
+          "chapter": "SKIN",
+          "rubric": "HARD , like callosities > thickening, with",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "kali-c",
+            "par"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_AIR_OPEN_AVERSION_TO_AMEL",
+          "chapter": "SKIN",
+          "rubric": "AIR , open, aversion to > amel.",
+          "grade": 2,
+          "followingTokens": [
+            "ac",
+            "hyos",
+            "ip"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_WEAKNESS_ENERVATION_SEE_LASSITUDE_WEARINESS_AFTERNOON",
+          "chapter": "SKIN",
+          "rubric": "WEAKNESS , enervation (See Lassitude , Weariness ) > afternoon",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "hyos",
+            "ign"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "ars-",
+      "occurrences": 27,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_DULLNESS_SLUGGISHNESS_DIFFICULTY_OF_THINKING_AND_COMPREHENDING",
+          "chapter": "MIND",
+          "rubric": "DULLNESS , sluggishness, difficulty of thinking and comprehending",
+          "grade": 1,
+          "followingTokens": [
+            "i",
+            "ars",
+            "asar"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_CHILL_CONGESTION_HYPER_MIA_ETC_SEE_FULLNESS_PULSATION",
+          "chapter": "CHILL",
+          "rubric": "CONGESTION , hyperæmia, etc. (See Fullness, Pulsation)",
+          "grade": 1,
+          "followingTokens": [
+            "h",
+            "ars-i",
+            "asaf"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_CHILL_ENLARGED_SENSATION_SEE_EXPANDED_SWOLLEN",
+          "chapter": "CHILL",
+          "rubric": "ENLARGED sensation (See Expanded, Swollen)",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "ars",
+            "bapt"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_FOREHEAD_IN_7",
+          "chapter": "FEVER",
+          "rubric": "Forehead , in_7",
+          "grade": 1,
+          "followingTokens": [
+            "i",
+            "arum-t",
+            "arund"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_FOREHEAD_IN_7_EVENING_2",
+          "chapter": "FEVER",
+          "rubric": "Forehead , in_7 > evening_2",
+          "grade": 1,
+          "followingTokens": [
+            "i",
+            "ars",
+            "arum-t"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_PERSPIRATION_FOREHEAD_40",
+          "chapter": "PERSPIRATION",
+          "rubric": "Forehead_40",
+          "grade": 2,
+          "followingTokens": [
+            "i",
+            "ars",
+            "calc"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "viol-",
+      "occurrences": 25,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_THINKING_AVERSION_TO_WANDERING",
+          "chapter": "MIND",
+          "rubric": "THINKING , aversion to > wandering",
+          "grade": 1,
+          "followingTokens": [
+            "o"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_CHILL_TEMPLES_5_IMPETIGO",
+          "chapter": "CHILL",
+          "rubric": "Temples_5 > impetigo",
+          "grade": 2,
+          "followingTokens": [
+            "t",
+            "Bar-c",
+            "calc-p"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_FOREHEAD_IN_7_ABOVE_RIGHT",
+          "chapter": "FEVER",
+          "rubric": "Forehead , in_7 > above right",
+          "grade": 1,
+          "followingTokens": [
+            "t",
+            "xan",
+            "ziz"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_ERUPTIONS_BURNING_4",
+          "chapter": "SKIN",
+          "rubric": "ERUPTIONS > burning_4",
+          "grade": 1,
+          "followingTokens": [
+            "t",
+            "zinc"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_STICKING_SCRATCHING_AFTER",
+          "chapter": "SKIN",
+          "rubric": "STICKING > scratching, after",
+          "grade": 2,
+          "followingTokens": [
+            "t",
+            "Alum",
+            "am-m"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_GLANDS_11_WITHIN_OUTWARD_FROM",
+          "chapter": "SKIN",
+          "rubric": "Glands_11 > within outward, from",
+          "grade": 1,
+          "followingTokens": [
+            "t",
+            "zinc"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "aur-",
+      "occurrences": 25,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_WORK_AVERSION_TO_MENTAL",
+          "chapter": "MIND",
+          "rubric": "WORK , aversion to mental",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "aur",
+            "bar-c"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_FOREHEAD_IN_7_STOOPING_FROM",
+          "chapter": "FEVER",
+          "rubric": "Forehead , in_7 > stooping, from",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "bar-c",
+            "berb"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_TEMPLES_13",
+          "chapter": "FEVER",
+          "rubric": "Temples_13",
+          "grade": 1,
+          "followingTokens": [
+            "m-n",
+            "bar-c",
+            "bar-m"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_PERSPIRATION_YAWNING",
+          "chapter": "PERSPIRATION",
+          "rubric": "YAWNING",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "aur",
+            "bar-c"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_HEAT_SENSATION_OF",
+          "chapter": "SKIN",
+          "rubric": "HEAT , sensation of",
+          "grade": 2,
+          "followingTokens": [
+            "m",
+            "aur",
+            "bar-c"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_INDURATIONS",
+          "chapter": "SKIN",
+          "rubric": "INDURATIONS",
+          "grade": 2,
+          "followingTokens": [
+            "m",
+            "aur",
+            "bar-c"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "merc-i-",
+      "occurrences": 22,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CHEERFUL_GAY_HAPPY_SEE_MIRTH_EVENING",
+          "chapter": "MIND",
+          "rubric": "CHEERFUL , gay, happy (See Mirth) > evening",
+          "grade": 1,
+          "followingTokens": [
+            "r",
+            "nat-c",
+            "nux-m"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_AFTERNOON",
+          "chapter": "FEVER",
+          "rubric": "PAIN , headache in general > afternoon",
+          "grade": 1,
+          "followingTokens": [
+            "r",
+            "nat-a",
+            "nat-m"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_FOREHEAD_IN_7_FORENOON_2",
+          "chapter": "FEVER",
+          "rubric": "Forehead , in_7 > forenoon_2",
+          "grade": 1,
+          "followingTokens": [
+            "r",
+            "myric",
+            "nat-a"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_PRESSING_SEE_BURSTING_DRAWING",
+          "chapter": "FEVER",
+          "rubric": "Pressing (See Bursting, Drawing)",
+          "grade": 1,
+          "followingTokens": [
+            "f",
+            "merc-i-r",
+            "merl"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_PERSPIRATION_DREAMS_ABSURD_ANGER_SEE_QUARRELS",
+          "chapter": "PERSPIRATION",
+          "rubric": "DREAMS , absurd > anger (See Quarrels)",
+          "grade": 1,
+          "followingTokens": [
+            "r",
+            "myris",
+            "nat-a"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_GLANDS_20_BLUISH",
+          "chapter": "SKIN",
+          "rubric": "Glands_20 > bluish",
+          "grade": 1,
+          "followingTokens": [
+            "f",
+            "merc",
+            "puls"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "pic-",
+      "occurrences": 19,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_HEAVINESS_SEE_PRESSING_MORNING",
+          "chapter": "FEVER",
+          "rubric": "HEAVINESS (See Pressing) > morning",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "plb",
+            "ruta"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_AMEL_85",
+          "chapter": "FEVER",
+          "rubric": "PAIN , headache in general > amel._85",
+          "grade": 1,
+          "followingTokens": [
+            "ac"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_OCCIPUT_22_EXTENDING_DOWN_BACK",
+          "chapter": "FEVER",
+          "rubric": "Occiput_22 > extending down back",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "podo",
+            "sang"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_PERSPIRATION_PULSATING_BEATING_THROBBING_SEE_BURSTING_CONGESTION_HAMMERING",
+          "chapter": "PERSPIRATION",
+          "rubric": "PULSATING , beating, throbbing (See Bursting, Congestion, Hammering)",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "plb",
+            "psor"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_AIR_OPEN_AVERSION_TO_AMEL",
+          "chapter": "SKIN",
+          "rubric": "AIR , open, aversion to > amel.",
+          "grade": 1,
+          "followingTokens": [
+            "plb",
+            "ran-b",
+            "rat"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_OPEN_ATTACK_BEFORE_AN_HARD_TO_KEEP_OPEN",
+          "chapter": "SKIN",
+          "rubric": "OPEN , attack, before an > hard to keep open",
+          "grade": 1,
+          "followingTokens": [
+            "ac"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "am-",
+      "occurrences": 18,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_ABSENT_MINDED_SEE_FORGETFUL",
+          "chapter": "MIND",
+          "rubric": "ABSENT-MINDED (See Forgetful)",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "ang",
+            "arg-m"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_FOREHEAD_IN_7",
+          "chapter": "FEVER",
+          "rubric": "Forehead , in_7",
+          "grade": 3,
+          "followingTokens": [
+            "c",
+            "Am-m",
+            "Arn"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_SORE_BRUISED_SENSITIVE_TO_PRESSURE",
+          "chapter": "FEVER",
+          "rubric": "Sore bruised , sensitive to pressure",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "am-m",
+            "anac"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EXPECTORATION_ALTERNATING_WITH_CHILLS",
+          "chapter": "EXPECTORATION",
+          "rubric": "ALTERNATING with chills",
+          "grade": 3,
+          "followingTokens": [
+            "m",
+            "Ars",
+            "Bell"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EXPECTORATION_PERSPIRATION_IN_GENERAL",
+          "chapter": "EXPECTORATION",
+          "rubric": "PERSPIRATION in general",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "ambr",
+            "aml-n"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_FAINTNESS_FAINTING",
+          "chapter": "SKIN",
+          "rubric": "FAINTNESS , fainting",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "ambr",
+            "anac"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "lil-",
+      "occurrences": 17,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_CONSOLATION_AGG",
+          "chapter": "MIND",
+          "rubric": "CONSOLATION agg.",
+          "grade": 2,
+          "followingTokens": [
+            "t",
+            "plat",
+            "Arn"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_FOREHEAD_33",
+          "chapter": "FEVER",
+          "rubric": "Forehead_33",
+          "grade": 1,
+          "followingTokens": [
+            "t",
+            "lyc",
+            "mag-s"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_NIGHT_4",
+          "chapter": "SKIN",
+          "rubric": "NIGHT_4",
+          "grade": 3,
+          "followingTokens": [
+            "t",
+            "Mag-c",
+            "Mag-m"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_PULSE_ABNORMAL_WEAK",
+          "chapter": "SKIN",
+          "rubric": "PULSE abnormal > weak",
+          "grade": 1,
+          "followingTokens": [
+            "t",
+            "lob",
+            "manc"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_WALKING_AGG",
+          "chapter": "SKIN",
+          "rubric": "WALKING agg.",
+          "grade": 2,
+          "followingTokens": [
+            "t",
+            "mag-p",
+            "merc"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_APPETITE_CAPRICIOUS_HUNGER_BUT_KNOWS_NOT_FOR_WHAT_OR_REFUSES_THINGS_WHEN_OFFERED_RAVENOUS_CANINE_EXCESSIVE",
+          "chapter": "EYE",
+          "rubric": "APPETITE , capricious (hunger, but knows not for what, or refuses things when offered) > ravenous, canine, excessive",
+          "grade": 1,
+          "followingTokens": [
+            "t",
+            "lyss",
+            "mag-c"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "lact-",
+      "occurrences": 14,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_BURSTING",
+          "chapter": "FEVER",
+          "rubric": "Bursting",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "mag-m",
+            "mez"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_VERTEX_12",
+          "chapter": "FEVER",
+          "rubric": "Vertex_12",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "nit-ac",
+            "spig"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_SCORBUTIC_GUMS_SEE_DETACHED",
+          "chapter": "EYE",
+          "rubric": "SCORBUTIC Gums (See Detached)",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "phyt",
+            "sacc"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_TONGUE_55",
+          "chapter": "EYE",
+          "rubric": "Tongue_55",
+          "grade": 2,
+          "followingTokens": [
+            "ac",
+            "mag-c",
+            "merc"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_APPETITE_CAPRICIOUS_HUNGER_BUT_KNOWS_NOT_FOR_WHAT_OR_REFUSES_THINGS_WHEN_OFFERED_DIMINISHED",
+          "chapter": "EYE",
+          "rubric": "APPETITE , capricious (hunger, but knows not for what, or refuses things when offered) > diminished",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "mag-s",
+            "merc-c"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_NAUSEA_MORNING",
+          "chapter": "EYE",
+          "rubric": "NAUSEA > morning",
+          "grade": 2,
+          "followingTokens": [
+            "ac",
+            "lyc",
+            "mag-c"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "verat-",
+      "occurrences": 13,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_MANIA_MADNESS_SEE_DELIRIUM_INSANITY_RAGE_ETC",
+          "chapter": "MIND",
+          "rubric": "MANIA , madness (See Delirium, Insanity, Rage, etc.)",
+          "grade": 1,
+          "followingTokens": [
+            "v",
+            "zinc"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_FOREHEAD_IN_7",
+          "chapter": "FEVER",
+          "rubric": "Forehead , in_7",
+          "grade": 1,
+          "followingTokens": [
+            "v",
+            "verat",
+            "verb"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_CONSTRICTION_EXTERNALLY_OF_ORIFICES",
+          "chapter": "SKIN",
+          "rubric": "CONSTRICTION externally > of orifices",
+          "grade": 2,
+          "followingTokens": [
+            "v",
+            "verat",
+            "alum"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_PULSE_ABNORMAL_IRREGULAR",
+          "chapter": "SKIN",
+          "rubric": "PULSE abnormal > irregular",
+          "grade": 3,
+          "followingTokens": [
+            "v",
+            "agar",
+            "arg-n"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_VOMITING_BILE",
+          "chapter": "EYE",
+          "rubric": "VOMITING > bile",
+          "grade": 2,
+          "followingTokens": [
+            "v",
+            "alum",
+            "amyg"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_FLATULENCE_SEE_RUMBLING",
+          "chapter": "EYE",
+          "rubric": "FLATULENCE (See Rumbling)",
+          "grade": 1,
+          "followingTokens": [
+            "v",
+            "vesp",
+            "vinc"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "arum-",
+      "occurrences": 12,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_FOREHEAD_IN_7_RIGHT_SIDE",
+          "chapter": "FEVER",
+          "rubric": "Forehead , in_7 > right side",
+          "grade": 1,
+          "followingTokens": [
+            "t",
+            "asaf",
+            "bar-c"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EXPECTORATION_DESCENDING_SEE_COLDNESS_OF_BACK",
+          "chapter": "EXPECTORATION",
+          "rubric": "DESCENDING (See Coldness of Back)",
+          "grade": 1,
+          "followingTokens": [
+            "t",
+            "bar-c",
+            "bor"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EXPECTORATION_CONTINUED_FEVER_TYPHUS_TYPHOID",
+          "chapter": "EXPECTORATION",
+          "rubric": "CONTINUED fever , typhus, typhoid",
+          "grade": 3,
+          "followingTokens": [
+            "t",
+            "Bapt",
+            "Bry"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EXPECTORATION_DRY_HEAT",
+          "chapter": "EXPECTORATION",
+          "rubric": "DRY heat",
+          "grade": 1,
+          "followingTokens": [
+            "t",
+            "bapt",
+            "bar-c"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_PAIN_IN",
+          "chapter": "EYE",
+          "rubric": "PAIN , in",
+          "grade": 2,
+          "followingTokens": [
+            "t",
+            "aur-m",
+            "bor"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_TONGUE_35",
+          "chapter": "EYE",
+          "rubric": "Tongue_35",
+          "grade": 2,
+          "followingTokens": [
+            "t",
+            "bapt",
+            "calc"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "benz-",
+      "occurrences": 11,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_TONGUE_17",
+          "chapter": "EYE",
+          "rubric": "Tongue_17",
+          "grade": 2,
+          "followingTokens": [
+            "ac",
+            "calc-s",
+            "canth"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_THIRST_EVENING",
+          "chapter": "EYE",
+          "rubric": "THIRST > evening",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "bism",
+            "bor"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_COLOR_BLACK_BROWN",
+          "chapter": "EYE",
+          "rubric": "COLOR , black > brown",
+          "grade": 3,
+          "followingTokens": [
+            "ac",
+            "Bry",
+            "Chel"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_SEDIMENT_MUCOUS",
+          "chapter": "EYE",
+          "rubric": "SEDIMENT > mucous",
+          "grade": 3,
+          "followingTokens": [
+            "ac",
+            "Berb",
+            "Chim"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_SEDIMENT_WHITE_4",
+          "chapter": "EYE",
+          "rubric": "SEDIMENT > white_4",
+          "grade": 2,
+          "followingTokens": [
+            "ac",
+            "calc",
+            "canth"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SLEEP_WHISTLING_3",
+          "chapter": "SLEEP",
+          "rubric": "WHISTLING_3",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "brom",
+            "bufo"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "card-",
+      "occurrences": 9,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_FORGETFUL_SEE_MEMORY",
+          "chapter": "MIND",
+          "rubric": "FORGETFUL (See Memory)",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "cham",
+            "chin-a"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_SADNESS_MENTAL_DEPRESSION",
+          "chapter": "MIND",
+          "rubric": "SADNESS , mental depression",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "carl",
+            "cast"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_SENSITIVE_TENDER",
+          "chapter": "EYE",
+          "rubric": "SENSITIVE , tender",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "caust",
+            "cham"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_APPETITE_CAPRICIOUS_HUNGER_BUT_KNOWS_NOT_FOR_WHAT_OR_REFUSES_THINGS_WHEN_OFFERED_RAVENOUS_CANINE_EXCESSIVE",
+          "chapter": "EYE",
+          "rubric": "APPETITE , capricious (hunger, but knows not for what, or refuses things when offered) > ravenous, canine, excessive",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "caul",
+            "cop"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_HAEMORRHAGE_FROM_ANUS",
+          "chapter": "EYE",
+          "rubric": "HÆMORRHAGE from anus",
+          "grade": 1,
+          "followingTokens": [
+            "carl",
+            "chin-a",
+            "chin-s"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_WHITE_MILK_LIKE_CHYLE_LIKE",
+          "chapter": "EYE",
+          "rubric": "WHITE > milk like, chyle like",
+          "grade": 2,
+          "followingTokens": [
+            "m",
+            "hep",
+            "kali-bi"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "urt-",
+      "occurrences": 9,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_WRINKLED_SHRIVELLED",
+          "chapter": "SKIN",
+          "rubric": "WRINKLED , shrivelled",
+          "grade": 1,
+          "followingTokens": [
+            "u",
+            "verat-v",
+            "viol-o"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_EXTENDING_ARM_TO_SORE_BRUISED_TENDER",
+          "chapter": "SKIN",
+          "rubric": "Extending , arm, to > sore, bruised, tender",
+          "grade": 1,
+          "followingTokens": [
+            "u",
+            "ust",
+            "vib"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_PAIN_TOOTHACHE_IN_GENERAL_BURNING",
+          "chapter": "EYE",
+          "rubric": "PAIN , toothache in general > burning",
+          "grade": 1,
+          "followingTokens": [
+            "u",
+            "zinc"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_SPLEEN_COMPLAINTS_OF",
+          "chapter": "EYE",
+          "rubric": "SPLEEN , complaints of",
+          "grade": 2,
+          "followingTokens": [
+            "u",
+            "zinc",
+            "Abies-c"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_EXCORIATION",
+          "chapter": "EYE",
+          "rubric": "EXCORIATION",
+          "grade": 1,
+          "followingTokens": [
+            "u",
+            "zinc"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_PERINEUM_9_AFTER_3",
+          "chapter": "EYE",
+          "rubric": "Perineum_9 > after_3",
+          "grade": 1,
+          "followingTokens": [
+            "u"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "cupr-",
+      "occurrences": 7,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_PAIN_2_RIGHT_4",
+          "chapter": "EYE",
+          "rubric": "PAIN_2 > right_4",
+          "grade": 1,
+          "followingTokens": [
+            "ar",
+            "gels",
+            "hell"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_VOMITING_PREGNANCY_DURING",
+          "chapter": "EYE",
+          "rubric": "VOMITING > pregnancy, during",
+          "grade": 1,
+          "followingTokens": [
+            "ar",
+            "dios",
+            "ferr-ar"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_PERINEUM_9",
+          "chapter": "EYE",
+          "rubric": "Perineum_9",
+          "grade": 1,
+          "followingTokens": [
+            "ar",
+            "kali-bi",
+            "nux-v"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_PERINEUM_15_TENESMUS",
+          "chapter": "EYE",
+          "rubric": "Perineum_15 > tenesmus",
+          "grade": 1,
+          "followingTokens": [
+            "ar",
+            "cupr",
+            "der"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_PERINEUM_15_AFTER_2",
+          "chapter": "EYE",
+          "rubric": "Perineum_15 > after_2",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "dios",
+            "dros"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SLEEP_LOOSE",
+          "chapter": "SLEEP",
+          "rubric": "LOOSE",
+          "grade": 1,
+          "followingTokens": [
+            "n",
+            "dig",
+            "dros"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "sol-",
+      "occurrences": 6,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_STARTING_STARTLED",
+          "chapter": "MIND",
+          "rubric": "STARTING , startled",
+          "grade": 1,
+          "followingTokens": [
+            "n",
+            "spong",
+            "stry"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_HEAVINESS_SEE_PRESSING_WAKING_ON_3",
+          "chapter": "FEVER",
+          "rubric": "HEAVINESS (See Pressing) > waking, on_3",
+          "grade": 1,
+          "followingTokens": [
+            "n",
+            "squil",
+            "sulph"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_AMEL_8",
+          "chapter": "FEVER",
+          "rubric": "PAIN , headache in general > amel._8",
+          "grade": 1,
+          "followingTokens": [
+            "n",
+            "spong",
+            "stann"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_FOREHEAD_IN_7_MOTION_DURING",
+          "chapter": "FEVER",
+          "rubric": "Forehead , in_7 > motion, during",
+          "grade": 1,
+          "followingTokens": [
+            "n",
+            "ther"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_FOREHEAD_IN_7_STOOPING_WHEN",
+          "chapter": "FEVER",
+          "rubric": "Forehead , in_7 > stooping, when",
+          "grade": 1,
+          "followingTokens": [
+            "n"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_SORE_BRUISED_SENSITIVE_TO_PRESSURE",
+          "chapter": "FEVER",
+          "rubric": "Sore bruised , sensitive to pressure",
+          "grade": 1,
+          "followingTokens": [
+            "sol-t-ae",
+            "stann",
+            "stram"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "prun-",
+      "occurrences": 6,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_OCCIPUT_18",
+          "chapter": "FEVER",
+          "rubric": "Occiput_18",
+          "grade": 1,
+          "followingTokens": [
+            "psor",
+            "ptel",
+            "ruta"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_OCCIPUT_38_OUTWARD",
+          "chapter": "FEVER",
+          "rubric": "Occiput_38 > outward",
+          "grade": 1,
+          "followingTokens": [
+            "s",
+            "stann",
+            "stront"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_AVERSION_TO_ACIDS_FOOD",
+          "chapter": "EYE",
+          "rubric": "AVERSION to acids > food",
+          "grade": 1,
+          "followingTokens": [
+            "s",
+            "ptel",
+            "raph"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_URINATION_DRIBBLING_BY_DROPS_FORKED_STREAM",
+          "chapter": "EYE",
+          "rubric": "URINATION , dribbling (by drops) > forked stream",
+          "grade": 1,
+          "followingTokens": [
+            "s"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SLEEP_LUMBAR_REGION_18_DURING_2",
+          "chapter": "SLEEP",
+          "rubric": "Lumbar region_18 > during_2",
+          "grade": 1,
+          "followingTokens": [
+            "s",
+            "rat",
+            "sabin"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EXTREMITIES_UPPER_LIMBS_23",
+          "chapter": "EXTREMITIES",
+          "rubric": "Upper limbs_23",
+          "grade": 1,
+          "followingTokens": [
+            "s",
+            "psor",
+            "ptel"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "cor-",
+      "occurrences": 6,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_PERSPIRATION_SLEEPLESSNESS_MIDNIGHT_BEFORE",
+          "chapter": "PERSPIRATION",
+          "rubric": "SLEEPLESSNESS > midnight, before",
+          "grade": 1,
+          "followingTokens": [
+            "r",
+            "cupr",
+            "cycl"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_PURPURA_H_MORRHAGICA",
+          "chapter": "SKIN",
+          "rubric": "PURPURA hæmorrhagica",
+          "grade": 1,
+          "followingTokens": [
+            "r",
+            "hyos",
+            "iod"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_DISCOLORATION_ASHY_COUGH_DURING_2",
+          "chapter": "EYE",
+          "rubric": "DISCOLORATION , ashy > cough, during_2",
+          "grade": 1,
+          "followingTokens": [
+            "r",
+            "eup-per",
+            "ferr"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_PAIN_6",
+          "chapter": "EYE",
+          "rubric": "PAIN_6",
+          "grade": 1,
+          "followingTokens": [
+            "r",
+            "croc",
+            "crot-t"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SLEEP_WHOOPING_NIGHT",
+          "chapter": "SLEEP",
+          "rubric": "WHOOPING > night",
+          "grade": 1,
+          "followingTokens": [
+            "r",
+            "cupr",
+            "dros"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_VERTIGO_PURPURA_H_MORRHAGICA_2",
+          "chapter": "VERTIGO",
+          "rubric": "PURPURA hæmorrhagica_2",
+          "grade": 1,
+          "followingTokens": [
+            "r",
+            "hyos",
+            "iod"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "jug-",
+      "occurrences": 5,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_RESTLESSNESS_NERVOUSNESS_AFTERNOON",
+          "chapter": "MIND",
+          "rubric": "RESTLESSNESS , nervousness > afternoon",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "merc",
+            "naja"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_TALKING_WHILE",
+          "chapter": "FEVER",
+          "rubric": "PAIN , headache in general > talking, while",
+          "grade": 1,
+          "followingTokens": [
+            "r",
+            "lac-d",
+            "led"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_PERSPIRATION_DREAMS_ABSURD_FRIGHTFUL",
+          "chapter": "PERSPIRATION",
+          "rubric": "DREAMS , absurd > frightful",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "jug-r",
+            "kali-bi"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_PERSPIRATION_YAWNING",
+          "chapter": "PERSPIRATION",
+          "rubric": "YAWNING",
+          "grade": 1,
+          "followingTokens": [
+            "r",
+            "kali-bi",
+            "kali-i"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_RUMBLING",
+          "chapter": "EYE",
+          "rubric": "RUMBLING",
+          "grade": 1,
+          "followingTokens": [
+            "r",
+            "kali-br",
+            "kali-c"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "sin-",
+      "occurrences": 5,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_TONGUE_34_SORE",
+          "chapter": "EYE",
+          "rubric": "Tongue_34 > sore",
+          "grade": 1,
+          "followingTokens": [
+            "n",
+            "stram",
+            "verat"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_TONGUE_35",
+          "chapter": "EYE",
+          "rubric": "Tongue_35",
+          "grade": 1,
+          "followingTokens": [
+            "n",
+            "staph",
+            "zinc"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_PERINEUM_IN_DURING_2",
+          "chapter": "EYE",
+          "rubric": "Perineum , in > during_2",
+          "grade": 1,
+          "followingTokens": [
+            "a"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SLEEP_PAIN_15_EVENING",
+          "chapter": "SLEEP",
+          "rubric": "PAIN_15 > evening",
+          "grade": 1,
+          "followingTokens": [
+            "n",
+            "ter",
+            "thuj"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EXTREMITIES_HIP_17_RHEUMATIC",
+          "chapter": "EXTREMITIES",
+          "rubric": "Hip_17 > rheumatic",
+          "grade": 1,
+          "followingTokens": [
+            "n",
+            "stann",
+            "stram"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "pip-",
+      "occurrences": 4,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_MIND_FANCIES_ABSORBED_IN_EXALTATION_OF",
+          "chapter": "MIND",
+          "rubric": "FANCIES , absorbed in > exaltation of",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "plan",
+            "psor"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_TEMPLES_12_READING_WHILE",
+          "chapter": "FEVER",
+          "rubric": "Temples_12 > reading, while",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "sulph"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_PERSPIRATION_FOREHEAD_43",
+          "chapter": "PERSPIRATION",
+          "rubric": "Forehead_43",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "rhus-v",
+            "ruta"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EXTREMITIES_UPPER_LIMBS_13_SCALES",
+          "chapter": "EXTREMITIES",
+          "rubric": "Upper limbs_13 > scales",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "puls",
+            "sec"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "sal-",
+      "occurrences": 4,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_LYING_AGG",
+          "chapter": "SKIN",
+          "rubric": "LYING agg.",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "sars",
+            "sec"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_APHTHAE",
+          "chapter": "EYE",
+          "rubric": "APHTHÆ",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "sanic",
+            "sars"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EXTREMITIES_KNEE_26_RHEUMATIC",
+          "chapter": "EXTREMITIES",
+          "rubric": "Knee_26 > rheumatic",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "sanic",
+            "sep"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_VERTIGO_LYING_AGG_3",
+          "chapter": "VERTIGO",
+          "rubric": "LYING agg._3",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "sars",
+            "sec"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "sol-t-",
+      "occurrences": 4,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SLEEP_SLEEP_BEFORE_WAKENS_FROM",
+          "chapter": "SLEEP",
+          "rubric": "SLEEP , before > wakens from",
+          "grade": 1,
+          "followingTokens": [
+            "ae",
+            "squil",
+            "stront"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SLEEP_GRAYISH",
+          "chapter": "SLEEP",
+          "rubric": "GRAYISH",
+          "grade": 1,
+          "followingTokens": [
+            "ae",
+            "syph",
+            "tab"
+          ]
+        },
+        {
+          "source": "bbcr_master_db.json",
+          "id": "BBCR_GENERAL_DESCENDING_FROM",
+          "chapter": "BBCR_GENERAL",
+          "rubric": "Descending from",
+          "grade": 1,
+          "followingTokens": []
+        },
+        {
+          "source": "boger_master_db.json",
+          "id": "BOGER_GENERAL_DESCENDING_FROM",
+          "chapter": "BOGER_GENERAL",
+          "rubric": "Descending from",
+          "grade": 1,
+          "followingTokens": []
+        }
+      ]
+    },
+    {
+      "token": "cast-",
+      "occurrences": 4,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SLEEP_MAMM_21_NIPPLE",
+          "chapter": "SLEEP",
+          "rubric": "Mammæ_21 > nipple",
+          "grade": 1,
+          "followingTokens": [
+            "eq",
+            "cham",
+            "chel"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EXTREMITIES_UPPER_LIMBS_27_NIGHT",
+          "chapter": "EXTREMITIES",
+          "rubric": "Upper limbs_27 > night",
+          "grade": 1,
+          "followingTokens": [
+            "eq",
+            "caust",
+            "cham"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EXTREMITIES_LOWER_LIMBS_33",
+          "chapter": "EXTREMITIES",
+          "rubric": "Lower limbs_33",
+          "grade": 1,
+          "followingTokens": [
+            "eq",
+            "caust",
+            "chin-a"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_VERTIGO_VERTIGO",
+          "chapter": "VERTIGO",
+          "rubric": "VERTIGO",
+          "grade": 1,
+          "followingTokens": [
+            "eq",
+            "caul",
+            "chen-a"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "asc-",
+      "occurrences": 3,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_PAIN_TOOTHACHE_IN_GENERAL_MOLARS",
+          "chapter": "EYE",
+          "rubric": "PAIN , toothache in general > molars",
+          "grade": 1,
+          "followingTokens": [
+            "t",
+            "aur",
+            "bar-c"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_GENITALIA_FEMALE_LARYNX_2",
+          "chapter": "GENITALIA FEMALE",
+          "rubric": "Larynx_2",
+          "grade": 1,
+          "followingTokens": [
+            "t",
+            "bar-c",
+            "bufo"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EXTREMITIES_UPPER_LIMBS_13_PIMPLES",
+          "chapter": "EXTREMITIES",
+          "rubric": "Upper limbs_13 > pimples",
+          "grade": 1,
+          "followingTokens": [
+            "t",
+            "bar-c",
+            "bell"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "aur-m-",
+      "occurrences": 2,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_CHILL_HAIR_BALDNESS_FALLING",
+          "chapter": "CHILL",
+          "rubric": "HAIR baldness > falling",
+          "grade": 1,
+          "followingTokens": [
+            "n",
+            "aur-s",
+            "bell"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_DISCHARGE_RIGHT_PURULENT",
+          "chapter": "EYE",
+          "rubric": "DISCHARGE , right > purulent",
+          "grade": 1,
+          "followingTokens": [
+            "n",
+            "bell",
+            "cham"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "gent-",
+      "occurrences": 2,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_AFTER_4",
+          "chapter": "FEVER",
+          "rubric": "PAIN , headache in general > after_4",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "gins",
+            "glon"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_UMBILICAL_REGION_4_CRAMPING_GRIPING",
+          "chapter": "EYE",
+          "rubric": "Umbilical region_4 > cramping, griping",
+          "grade": 1,
+          "followingTokens": [
+            "c",
+            "glon",
+            "gnaph"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "ery-",
+      "occurrences": 2,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_DISCHARGES_OF_MUCUS_OR_PUS_PURULENT",
+          "chapter": "SKIN",
+          "rubric": "DISCHARGES of mucus or pus > purulent",
+          "grade": 1,
+          "followingTokens": [
+            "a",
+            "eupho",
+            "ferr-i"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_EXTENDING_ARM_TO_ACHING",
+          "chapter": "SKIN",
+          "rubric": "Extending , arm, to > aching",
+          "grade": 1,
+          "followingTokens": [
+            "a",
+            "ferr-ar",
+            "ferr-p"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "lat-",
+      "occurrences": 2,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_VOMITING_BLACK",
+          "chapter": "EYE",
+          "rubric": "VOMITING > black",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "laur",
+            "manc"
+          ]
+        },
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EXTREMITIES_TOES_36_PARALYZED_PARTS",
+          "chapter": "EXTREMITIES",
+          "rubric": "Toes_36 > paralyzed parts",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "rhus-t",
+            "sil"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "aura-",
+      "occurrences": 1,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EXPECTORATION_WIND_AS_IF_IT_WERE_BLOWING_COLD_UPON_THE_BODY_WHEN_WALKING",
+          "chapter": "EXPECTORATION",
+          "rubric": "WIND , as if it were blowing cold upon the body > when walking",
+          "grade": 1,
+          "followingTokens": []
+        }
+      ]
+    },
+    {
+      "token": "bufo-",
+      "occurrences": 1,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SKIN_EXTENDING_ARM_TO_BURNING_SMARTING_BITING",
+          "chapter": "SKIN",
+          "rubric": "Extending , arm, to > burning, smarting, biting",
+          "grade": 1,
+          "followingTokens": [
+            "s",
+            "bufo",
+            "cahin"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "chen-",
+      "occurrences": 1,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_ENLARGEMENT_OF_TONSILS",
+          "chapter": "EYE",
+          "rubric": "ENLARGEMENT of tonsils",
+          "grade": 2,
+          "followingTokens": [
+            "a",
+            "ferr",
+            "hep"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "arund-",
+      "occurrences": 1,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EYE_SINKING_SEE_EMPTINESS",
+          "chapter": "EYE",
+          "rubric": "SINKING (See Emptiness)",
+          "grade": 1,
+          "followingTokens": [
+            "d",
+            "brom",
+            "bufo"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "greenish-",
+      "occurrences": 1,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SLEEP_LYING_AGG_2_MUST_SIT_UP_OR_SLEEP_IN_CHAIR_FROM_SENSE_OF_SUFFOCATION",
+          "chapter": "SLEEP",
+          "rubric": "LYING agg._2 > must sit up, or sleep in chair from sense of suffocation",
+          "grade": 1,
+          "followingTokens": []
+        }
+      ]
+    },
+    {
+      "token": "lob-",
+      "occurrences": 1,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SLEEP_HEAT_14",
+          "chapter": "SLEEP",
+          "rubric": "HEAT_14",
+          "grade": 1,
+          "followingTokens": [
+            "s",
+            "meny",
+            "nat-c"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "tus-",
+      "occurrences": 1,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_SLEEP_LUMBAR_REGION_18_RISING_FROM_A_SEAT",
+          "chapter": "SLEEP",
+          "rubric": "Lumbar region_18 > rising from a seat",
+          "grade": 1,
+          "followingTokens": [
+            "p",
+            "verat",
+            "zinc"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "chr-",
+      "occurrences": 1,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EXTREMITIES_UPPER_LIMBS_26",
+          "chapter": "EXTREMITIES",
+          "rubric": "Upper limbs_26",
+          "grade": 1,
+          "followingTokens": [
+            "ac",
+            "cic",
+            "cimic"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "mang-",
+      "occurrences": 1,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EXTREMITIES_THUMB_12",
+          "chapter": "EXTREMITIES",
+          "rubric": "Thumb_12",
+          "grade": 1,
+          "followingTokens": [
+            "m",
+            "merc-i-f",
+            "merc"
+          ]
+        }
+      ]
+    },
+    {
+      "token": "puls-",
+      "occurrences": 1,
+      "examples": [
+        {
+          "source": "kent_master_db.json",
+          "id": "KENT_EXTREMITIES_LEG_39_CALF",
+          "chapter": "EXTREMITIES",
+          "rubric": "Leg_39 > calf",
+          "grade": 1,
+          "followingTokens": [
+            "n",
+            "rhus-t",
+            "stann"
+          ]
+        }
+      ]
+    }
+  ],
+  "safetyNotes": [
+    "Read-only audit: source databases and remedyRegistry.json were not modified.",
+    "Token counts are evidence for review, not approval of a canonical mapping.",
+    "Following tokens are context only and are never automatically joined.",
+    "No remedy grades, rubric scores, or scoring rules were changed."
+  ]
+}

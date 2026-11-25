@@ -1,0 +1,113 @@
+{
+  "Animals": {
+    "snakes": {
+      "canonicalSymptom": "Mind; DREAMS; snakes",
+      "primaryChapter": "DREAMS",
+      "secondaryChapters": [],
+      "searchTerms": ["snake", "serpent", "dreams of snakes"],
+      "confidence": 0.8,
+      "matchType": "exact"
+    },
+    "dog": {
+      "canonicalSymptom": "Mind; DREAMS; dogs",
+      "primaryChapter": "Mind",
+      "secondaryChapters": [],
+      "searchTerms": ["dog", "canine"],
+      "confidence": 0.7,
+      "matchType": "exact"
+    }
+  },
+  "Fear": {
+    "falling": {
+      "canonicalSymptom": "Mind; DREAMS; falling",
+      "primaryChapter": "Mind",
+      "secondaryChapters": [],
+      "searchTerms": ["fall", "falling down"],
+      "confidence": 0.9,
+      "matchType": "exact"
+    },
+    "being chased": {
+      "canonicalSymptom": "Mind; DREAMS; pursued, being",
+      "primaryChapter": "Mind",
+      "secondaryChapters": [],
+      "searchTerms": ["chased", "pursued", "run away"],
+      "confidence": 0.85,
+      "matchType": "exact"
+    },
+    "ghosts": {
+      "canonicalSymptom": "Mind; DREAMS; ghosts",
+      "primaryChapter": "Mind",
+      "secondaryChapters": [],
+      "searchTerms": ["ghost", "spirit"],
+      "confidence": 0.75,
+      "matchType": "exact"
+    }
+  },
+  "Water": {
+    "ocean": {
+      "canonicalSymptom": "Mind; DREAMS; water; ocean",
+      "primaryChapter": "Mind",
+      "secondaryChapters": [],
+      "searchTerms": ["ocean", "sea"],
+      "confidence": 0.7,
+      "matchType": "exact"
+    },
+    "flood": {
+      "canonicalSymptom": "Mind; DREAMS; water; flood",
+      "primaryChapter": "Mind",
+      "secondaryChapters": [],
+      "searchTerms": ["flood", "flooding"],
+      "confidence": 0.8,
+      "matchType": "exact"
+    }
+  },
+  "Human": {
+    "dead people": {
+      "canonicalSymptom": "Mind; DREAMS; dead people",
+      "primaryChapter": "Mind",
+      "secondaryChapters": [],
+      "searchTerms": ["dead person", "corpse", "deceased", "dead people"],
+      "confidence": 0.9,
+      "matchType": "exact"
+    }
+  },
+  "Religious": {
+    "church": {
+      "canonicalSymptom": "Mind; DREAMS; church",
+      "primaryChapter": "Mind",
+      "secondaryChapters": [],
+      "searchTerms": ["church", "temple"],
+      "confidence": 0.6,
+      "matchType": "exact"
+    }
+  },
+  "Work": {
+    "examination": {
+      "canonicalSymptom": "Mind; DREAMS; examinations",
+      "primaryChapter": "Mind",
+      "secondaryChapters": [],
+      "searchTerms": ["exam", "test", "school"],
+      "confidence": 0.85,
+      "matchType": "exact"
+    }
+  },
+  "Emotional": {
+    "pleasant": {
+      "canonicalSymptom": "Mind; DREAMS; pleasant",
+      "primaryChapter": "Mind",
+      "secondaryChapters": [],
+      "searchTerms": ["happy dream", "good dream"],
+      "confidence": 0.7,
+      "matchType": "fuzzy"
+    },
+    "frightful": {
+      "canonicalSymptom": "Mind; DREAMS; frightful",
+      "primaryChapter": "Mind",
+      "secondaryChapters": [],
+      "searchTerms": ["nightmare", "scary dream"],
+      "confidence": 0.8,
+      "matchType": "fuzzy"
+    }
+  }
+}
+

@@ -1,0 +1,198 @@
+/* Repertory Matrix Styles */
+
+.repertory-matrix-panel {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: hidden;
+  background-color: #f7f7f7;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+/* Header Summary (Cards) */
+.matrix-statistics {
+  display: flex;
+  justify-content: space-around;
+  padding: 15px 10px;
+  margin-bottom: 15px;
+  flex-wrap: wrap;
+  gap: 15px; /* Spacing between cards */
+}
+
+.matrix-statistics > div {
+  background-color: #ffffff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px; /* Rounded corners for cards */
+  padding: 15px 25px;
+  text-align: center;
+  flex: 1; /* Allow cards to grow and shrink */
+  min-width: 180px; /* Minimum width for cards */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.matrix-statistics > div > div:first-child {
+  color: #1E3A8A; /* Blue title */
+  font-weight: bold;
+  font-size: 0.9em;
+  margin-bottom: 5px;
+}
+
+.matrix-statistics span {
+  color: #333;
+  font-size: 1.4em;
+  font-weight: bold;
+}
+
+/* Matrix Table Container */
+.matrix-table-container {
+  width: 100%;
+  overflow: auto; /* Enable scrolling for both x and y */
+  flex-grow: 1;
+  border: 1px solid #DDDDDD;
+  border-radius: 8px;
+}
+
+.matrix-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  table-layout: fixed;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #333;
+}
+
+.matrix-table th,
+.matrix-table td {
+  padding: 0; /* Remove padding here, define it in specific cells */
+  border: 1px solid #DDDDDD;
+  box-sizing: border-box;
+}
+
+.matrix-table thead th {
+  background-color: #1E3A8A; /* Dark blue header */
+  color: white;
+  font-weight: bold;
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  vertical-align: middle;
+  text-align: center;
+  white-space: normal; /* Allow text wrapping for long names */
+  height: 65px; /* Fixed height for header cells, around 60-70px */
+  line-height: 1.2;
+  padding: 5px; /* Padding for header content */
+}
+
+.matrix-table thead th:first-child {
+  text-align: left;
+  padding-left: 10px;
+  z-index: 40; /* Ensure top-left corner is above both sticky header and column */
+  background-color: #1E3A8A; /* Match header background */
+  width: 320px; /* Rubric column width around 320-350px */
+  min-width: 320px;
+  max-width: 320px;
+}
+
+/* Remedy header cells */
+.remedy-header-cell {
+  vertical-align: middle; /* Center content vertically */
+  padding: 5px; /* Add some padding */
+  width: 75px; /* Column width around 70-80px */
+  min-width: 75px;
+  max-width: 75px;
+}
+
+.remedy-header-cell div:first-child {
+  text-transform: uppercase;
+  font-size: 1.0em; /* Slightly smaller to fit */
+  margin-bottom: 2px;
+  line-height: 1.2;
+}
+
+.remedy-score-coverage {
+  font-size: 0.85em; /* Slightly smaller to fit */
+  white-space: nowrap;
+  line-height: 1.2;
+  margin-top: 2px; /* Small separation between name and score */
+}
+
+.sticky-column {
+  position: sticky;
+  left: 0;
+  background-color: #F8F8F8; /* Light grey background for sticky column */
+  z-index: 15; /* Below header, above data */
+  text-align: left;
+  font-weight: bold; /* Bold rubric text */
+  width: 320px; /* Fixed width for rubric column */
+  min-width: 320px; /* Ensure fixed width */
+  max-width: 320px; /* Ensure fixed width */
+  padding: 8px 10px;
+  white-space: normal; /* Allow text wrapping */
+  word-wrap: break-word; /* Ensure long words break */
+}
+
+.sticky-column.header-cell {
+  font-weight: bold;
+  background-color: #1E3A8A; /* Match header background */
+}
+
+/* Alternate row shading */
+tbody tr:nth-child(even) .rubric-cell { background-color: #F8F8F8; }
+tbody tr:nth-child(odd) .rubric-cell { background-color: #EFEFEF; } /* Slightly darker for odd rows */
+
+/* Matrix Cells */
+tbody td {
+  width: 75px; /* Ensure data cells align with header width */
+  min-width: 75px;
+  max-width: 75px;
+  height: 40px; /* Square cells */
+  line-height: 40px; /* Center vertically */
+  text-align: center;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+/* Grade Colors */
+.grade-4-zomeo {
+  background-color: #006400; /* Dark Green */
+  color: white;
+}
+
+.grade-3-zomeo {
+  background-color: #2E8B57; /* Sea Green */
+  color: white;
+}
+
+.grade-2-zomeo {
+  background-color: #FFD54F; /* Amber */
+  color: black;
+}
+
+.grade-1-zomeo {
+  background-color: #FFB3BA; /* Light Pink */
+  color: black;
+}
+
+.grade-0-zomeo {
+  background-color: white;
+  color: #DDDDDD; /* Very light border color, for empty cell text if any */
+  border: 1px solid #DDDDDD;
+}
+
+/* Hover effects */
+.matrix-table tbody tr:hover {
+  background-color: #E0F2F7; /* Light blue */
+}
+
+.matrix-table tbody tr:hover .sticky-column {
+  background-color: #B2EBF2; /* Slightly darker light blue for sticky column */
+}
+
+/* Column hover - requires JavaScript for full effect, but can simulate for cells */
+/* To achieve true column hover without JS, you'd typically need a more complex structure or custom properties */
+/* For now, we'll only do row hover */

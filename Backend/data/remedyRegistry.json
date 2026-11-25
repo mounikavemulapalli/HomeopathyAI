@@ -1,0 +1,7390 @@
+{
+  "version": "1.0.0",
+  "remedies": [
+    {
+      "canonicalName": "ABIES CANADENSIS",
+      "abbreviations": [
+        "Abies-c.",
+        "ABIES-C.",
+        "abies-c"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ABIES NIGRA",
+      "abbreviations": [
+        "Abies-n.",
+        "ABIES-N.",
+        "abies-n"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ABROTANUM",
+      "abbreviations": [
+        "Abrot.",
+        "ABROT.",
+        "abrot"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ABSINTHIUM",
+      "abbreviations": [
+        "Absin.",
+        "ABSIN.",
+        "absin"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ACALYPHA INDICA",
+      "abbreviations": [
+        "Acal.",
+        "ACAL.",
+        "acal"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ACETIC ACID",
+      "abbreviations": [
+        "Acet-ac.",
+        "ACET-AC.",
+        "acet-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ACONITUM CAMMARUM",
+      "abbreviations": [
+        "Acon-c.",
+        "ACON-C.",
+        "acon-c"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ACONITUM FEROX",
+      "abbreviations": [
+        "Acon-f.",
+        "ACON-F.",
+        "acon-f"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ACONITUM LYCOTONUM",
+      "abbreviations": [
+        "Acon-l.",
+        "ACON-L.",
+        "acon-l"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ACONITUM NAPELLUS",
+      "abbreviations": [
+        "Acon.",
+        "ACON.",
+        "acon"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ACTAEA SPICATA",
+      "abbreviations": [
+        "Act-sp.",
+        "ACT-SP.",
+        "act-sp"
+      ],
+      "aliases": [
+        "Actæa Spicata"
+      ],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AESCULUS GLABRA",
+      "abbreviations": [
+        "Æsc-g.",
+        "AESC-G.",
+        "aesc-g"
+      ],
+      "aliases": [
+        "Aesculus Glabra"
+      ],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AESCULUS HIPPOCASTANUM",
+      "abbreviations": [
+        "Æsc.",
+        "AESC.",
+        "aesc"
+      ],
+      "aliases": [
+        "Aesculus Hippocastanum"
+      ],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AETHUSA CYNAPIUM",
+      "abbreviations": [
+        "Æth.",
+        "AETH.",
+        "aeth"
+      ],
+      "aliases": [
+        "Aethusa Cynapium"
+      ],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AGARICUS EMETICUS",
+      "abbreviations": [
+        "Agar-em.",
+        "AGAR-EM.",
+        "agar-em"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AGARICUS PHALLOIDES",
+      "abbreviations": [
+        "Agar-ph.",
+        "AGAR-PH.",
+        "agar-ph"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AGARICUS MUSCARIUS",
+      "abbreviations": [
+        "Agar.",
+        "AGAR.",
+        "agar"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AGNUS CASTUS",
+      "abbreviations": [
+        "Agn.",
+        "AGN.",
+        "agn"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AILANTHUS",
+      "abbreviations": [
+        "Ail.",
+        "AIL.",
+        "ail"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ALCOHOL",
+      "abbreviations": [
+        "Alco.",
+        "ALCO.",
+        "alco"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ALETRIS FARINOSA",
+      "abbreviations": [
+        "Alet.",
+        "ALET.",
+        "alet"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ALLIUM CEPA",
+      "abbreviations": [
+        "All-c.",
+        "ALL-C.",
+        "all-c"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ALLIUM SATIVUM",
+      "abbreviations": [
+        "All-s.",
+        "ALL-S.",
+        "all-s"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ALOE SOCOTRINA",
+      "abbreviations": [
+        "Aloe.",
+        "ALOE.",
+        "aloe"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ALSTONIA CONSTRICTA",
+      "abbreviations": [
+        "Alst.",
+        "ALST.",
+        "alst"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ALUMINIUM METALLICUM",
+      "abbreviations": [
+        "Alum-m.",
+        "ALUM-M.",
+        "alum-m"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ALUMINA SILICATA",
+      "abbreviations": [
+        "Alum-sil.",
+        "ALUM-SIL.",
+        "alum-sil"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ALUMINA",
+      "abbreviations": [
+        "Alum.",
+        "ALUM.",
+        "alum"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ALUMEN",
+      "abbreviations": [
+        "Alumn.",
+        "ALUMN.",
+        "alumn"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AMMONIUM BENZOICUM",
+      "abbreviations": [
+        "Am-be.",
+        "AM-BE.",
+        "am-be"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AMMONIUM BROMATUM",
+      "abbreviations": [
+        "Am-br.",
+        "AM-BR.",
+        "am-br"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AMMONIUM CARBONICUM",
+      "abbreviations": [
+        "Am-c.",
+        "AM-C.",
+        "am-c"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AMMONIUM CAUSTICUM",
+      "abbreviations": [
+        "Am-caust.",
+        "AM-CAUST.",
+        "am-caust"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AMMONIUM MURIATICUM",
+      "abbreviations": [
+        "Am-m.",
+        "AM-M.",
+        "am-m"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AMBRA GRISEA",
+      "abbreviations": [
+        "Ambr.",
+        "AMBR.",
+        "ambr"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AMBROSIA ARTEMISIÆ FOLIA",
+      "abbreviations": [
+        "Ambro.",
+        "AMBRO.",
+        "ambro"
+      ],
+      "aliases": [
+        "Ambrosia Artemisiaefolia"
+      ],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AMYL NITRITE",
+      "abbreviations": [
+        "Aml-n.",
+        "AML-N.",
+        "aml-n"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AMMONIACUM GUMMI",
+      "abbreviations": [
+        "Ammc.",
+        "AMMC.",
+        "ammc"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AMPHISBOENA",
+      "abbreviations": [
+        "Amph.",
+        "AMPH.",
+        "amph"
+      ],
+      "aliases": [
+        "Amphisboena"
+      ],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AMYGDALAE AMARAE AQUA",
+      "abbreviations": [
+        "Amyg.",
+        "AMYG.",
+        "amyg"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ANACARDIUM OCCIDENTALE",
+      "abbreviations": [
+        "Anac-oc.",
+        "ANAC-OC.",
+        "anac-oc"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ANACARDIUM ORIENTALE",
+      "abbreviations": [
+        "Anac.",
+        "ANAC.",
+        "anac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ANAGALLIS ARVENSIS",
+      "abbreviations": [
+        "Anag.",
+        "ANAG.",
+        "anag"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ANANTHERUM MURICATUM",
+      "abbreviations": [
+        "Anan.",
+        "ANAN.",
+        "anan"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ANGUSTURA VERA",
+      "abbreviations": [
+        "Ang.",
+        "ANG.",
+        "ang"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ANILINUM",
+      "abbreviations": [
+        "Anil.",
+        "ANIL.",
+        "anil"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ANISUM STELLATUM",
+      "abbreviations": [
+        "Anis.",
+        "ANIS.",
+        "anis"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ANTIMONIUM ARSENICOSUM",
+      "abbreviations": [
+        "Ant-a.",
+        "ANT-A.",
+        "ant-a"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ANTIMONIUM CRUDUM",
+      "abbreviations": [
+        "Ant-c.",
+        "ANT-C.",
+        "ant-c"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ANTIMONIUM CHLORIDUM",
+      "abbreviations": [
+        "Ant-chl.",
+        "ANT-CHL.",
+        "ant-chl"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ANTIMONIUM OXYDATUM",
+      "abbreviations": [
+        "Ant-ox.",
+        "ANT-OX.",
+        "ant-ox"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ANTIMONIUM SULPHURATUM AURATUM",
+      "abbreviations": [
+        "Ant-s.",
+        "ANT-S.",
+        "ant-s"
+      ],
+      "aliases": [
+        "Antimonium Sulph. Auratum"
+      ],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ANTIMONIUM TARTARICUM",
+      "abbreviations": [
+        "Ant-t.",
+        "ANT-T.",
+        "ant-t"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ANTHEMIS NOBILIS",
+      "abbreviations": [
+        "Anth.",
+        "ANTH.",
+        "anth"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ANTHRACINUM",
+      "abbreviations": [
+        "Anthr.",
+        "ANTHR.",
+        "anthr"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ANTHROKOKALI",
+      "abbreviations": [
+        "Anthro.",
+        "ANTHRO.",
+        "anthro"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "APIUM GRAVEOLENS",
+      "abbreviations": [
+        "Ap-g.",
+        "AP-G.",
+        "ap-g"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "APHIS CHENOPODII GLAUCI",
+      "abbreviations": [
+        "Aphis.",
+        "APHIS.",
+        "aphis"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "APIS MELLIFICA",
+      "abbreviations": [
+        "Apis.",
+        "APIS.",
+        "apis"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ARUNDO MAURITANICA",
+      "abbreviations": [
+        "Arund.",
+        "ARUND.",
+        "arund"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ASA FOETIDA",
+      "abbreviations": [
+        "Asaf.",
+        "ASAF.",
+        "asaf"
+      ],
+      "aliases": [
+        "Asa Fœtida"
+      ],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ASARUM EUROPAEUM",
+      "abbreviations": [
+        "Asar.",
+        "ASAR.",
+        "asar"
+      ],
+      "aliases": [
+        "Asarum Europæum"
+      ],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ASCLEPIAS CORNUTI",
+      "abbreviations": [
+        "Asc-c.",
+        "ASC-C.",
+        "asc-c"
+      ],
+      "aliases": [
+        "Asclepias Syriaca"
+      ],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ASCLEPIAS TUBEROSA",
+      "abbreviations": [
+        "Asc-t.",
+        "ASC-T.",
+        "asc-t"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ASIMINA TRILOBA",
+      "abbreviations": [
+        "Asim.",
+        "ASIM.",
+        "asim"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ASPARAGUS OFFICINALIS",
+      "abbreviations": [
+        "Aspar.",
+        "ASPAR.",
+        "aspar"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ASTACUS FLUVIATILIS",
+      "abbreviations": [
+        "Astac.",
+        "ASTAC.",
+        "astac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ASTERIAS RUBENS",
+      "abbreviations": [
+        "Aster.",
+        "ASTER.",
+        "aster"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ATROPIA SULPHURICA",
+      "abbreviations": [
+        "Atro-s.",
+        "ATRO-S.",
+        "atro-s"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ATROPINIUM",
+      "abbreviations": [
+        "Atro.",
+        "ATRO.",
+        "atro"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AURUM ARSENICUM",
+      "abbreviations": [
+        "Aur-a.",
+        "AUR-A.",
+        "aur-a"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AURUM IODATUM",
+      "abbreviations": [
+        "Aur-i.",
+        "AUR-I.",
+        "aur-i"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AURUM MURIATICUM NATRONATUM",
+      "abbreviations": [
+        "Aur-m-n.",
+        "AUR-M-N.",
+        "aur-m-n"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AURUM MURIATICUM",
+      "abbreviations": [
+        "Aur-m.",
+        "AUR-M.",
+        "aur-m"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AURUM SULPHURATUM",
+      "abbreviations": [
+        "Aur-s.",
+        "AUR-S.",
+        "aur-s"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "AURUM METALLICUM",
+      "abbreviations": [
+        "Aur.",
+        "AUR.",
+        "aur"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BADIAGA",
+      "abbreviations": [
+        "Bad.",
+        "BAD.",
+        "bad"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BALSAMUM PERUVIANUM",
+      "abbreviations": [
+        "Bals.",
+        "BALS.",
+        "bals"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BAPTISIA TINCTORIA",
+      "abbreviations": [
+        "Bapt.",
+        "BAPT.",
+        "bapt"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BARYTA ACETICA",
+      "abbreviations": [
+        "Bar-ac.",
+        "BAR-AC.",
+        "bar-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BARYTA CARBONICA",
+      "abbreviations": [
+        "Bar-c.",
+        "BAR-C.",
+        "bar-c"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BARYTA IODATA",
+      "abbreviations": [
+        "Bar-i.",
+        "BAR-I.",
+        "bar-i"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BARYTA MURIATICA",
+      "abbreviations": [
+        "Bar-m.",
+        "BAR-M.",
+        "bar-m"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BARTFELDER",
+      "abbreviations": [
+        "Bart.",
+        "BART.",
+        "bart"
+      ],
+      "aliases": [
+        "Acid spring"
+      ],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BELLIS PERENNIS",
+      "abbreviations": [
+        "Bell-p.",
+        "BELL-P.",
+        "bell-p"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BELLADONNA",
+      "abbreviations": [
+        "Bell.",
+        "BELL.",
+        "bell"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BENZOIC ACID",
+      "abbreviations": [
+        "Benz-ac.",
+        "BENZ-AC.",
+        "benz-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BENZINUM NITRICUM",
+      "abbreviations": [
+        "Benz-n.",
+        "BENZ-N.",
+        "benz-n"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BENZINUM",
+      "abbreviations": [
+        "Benz.",
+        "BENZ.",
+        "benz"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BERBERIS VULGARIS",
+      "abbreviations": [
+        "Berb.",
+        "BERB.",
+        "berb"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BISMUTHUM OXIDUM",
+      "abbreviations": [
+        "Bism-ox.",
+        "BISM-OX.",
+        "bism-ox"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BLATTA AMERICANA",
+      "abbreviations": [
+        "Blat.",
+        "BLAT.",
+        "blat",
+        "blatta"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BLATTA ORIENTALIS",
+      "abbreviations": [
+        "Blatta.",
+        "BLATTA.",
+        "blatta"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BOLETUS LARICIS",
+      "abbreviations": [
+        "Bol.",
+        "BOL.",
+        "bol"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BORACICUM ACIDUM",
+      "abbreviations": [
+        "Bor-ac.",
+        "BOR-AC.",
+        "bor-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BORAX",
+      "abbreviations": [
+        "Bor.",
+        "BOR.",
+        "bor"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BOTHROPS LAN​​CEOLATUS",
+      "abbreviations": [
+        "Both.",
+        "BOTH.",
+        "both"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BOVISTA",
+      "abbreviations": [
+        "Bov.",
+        "BOV.",
+        "bov"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BRACHYGLOTTIS REPENS",
+      "abbreviations": [
+        "Brach.",
+        "BRACH.",
+        "brach"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BROMIUM",
+      "abbreviations": [
+        "Brom.",
+        "BROM.",
+        "brom"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BRUCEA ANTIDYSENTERICA",
+      "abbreviations": [
+        "Bruc.",
+        "BRUC.",
+        "bruc"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BRYONIA ALBA",
+      "abbreviations": [
+        "Bry.",
+        "BRY.",
+        "bry"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BUFO SAHYTIENSIS",
+      "abbreviations": [
+        "Bufo-s.",
+        "BUFO-S.",
+        "bufo-s"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "BUFO RANA",
+      "abbreviations": [
+        "Bufo.",
+        "BUFO.",
+        "bufo"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CACTUS GRANDIFLORUS",
+      "abbreviations": [
+        "Cact.",
+        "CACT.",
+        "cact"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CADMIUM SULPHURATUM",
+      "abbreviations": [
+        "Cadm.",
+        "CADM.",
+        "cadm"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CAHINCA",
+      "abbreviations": [
+        "Cahin.",
+        "CAHIN.",
+        "cahin"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CAINCA",
+      "abbreviations": [
+        "Cain.",
+        "CAIN.",
+        "cain"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CAJUPUTUM",
+      "abbreviations": [
+        "Caj.",
+        "CAJ.",
+        "caj"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CALADIUM SEGUINUM",
+      "abbreviations": [
+        "Calad.",
+        "CALAD.",
+        "calad"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CALCAREA ACETICA",
+      "abbreviations": [
+        "Calc-ac.",
+        "CALC-AC.",
+        "calc-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CALCAREA ARSENICA",
+      "abbreviations": [
+        "Calc-ar.",
+        "CALC-AR.",
+        "calc-ar"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CALCAREA CAUSTICA",
+      "abbreviations": [
+        "Calc-caust.",
+        "CALC-CAUST.",
+        "calc-caust"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CALCAREA FLUORATA",
+      "abbreviations": [
+        "Calc-f.",
+        "CALC-F.",
+        "calc-f"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CALCAREA IODATA",
+      "abbreviations": [
+        "Calc-i.",
+        "CALC-I.",
+        "calc-i"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CALCAREA PHOSPHORICA",
+      "abbreviations": [
+        "Calc-p.",
+        "CALC-P.",
+        "calc-p"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CALCAREA SULPHURICA",
+      "abbreviations": [
+        "Calc-s.",
+        "CALC-S.",
+        "calc-s"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CALCAREA SILICATA",
+      "abbreviations": [
+        "Calc-sil.",
+        "CALC-SIL.",
+        "calc-sil"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CALCAREA CARBONICA",
+      "abbreviations": [
+        "Calc.",
+        "CALC.",
+        "calc",
+        "Calc-c.",
+        "CALC-C.",
+        "calc-c"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CALENDULA OFFICINALIS",
+      "abbreviations": [
+        "Calen.",
+        "CALEN.",
+        "calen"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CALLIANDRA HOUSTONI",
+      "abbreviations": [
+        "Calli.",
+        "CALLI.",
+        "calli"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CALOTROPIS GIGANTEA",
+      "abbreviations": [
+        "Calo.",
+        "CALO.",
+        "calo"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CALTHA PALUSTRIS",
+      "abbreviations": [
+        "Calt.",
+        "CALT.",
+        "calt"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CAMPHORA OFFICINARUM",
+      "abbreviations": [
+        "Camph.",
+        "CAMPH.",
+        "camph"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CANCHALAGUA",
+      "abbreviations": [
+        "Canch.",
+        "CANCH.",
+        "canch"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CANNABIS INDICA",
+      "abbreviations": [
+        "Cann-i.",
+        "CANN-I.",
+        "cann-i"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CANNABIS SATIVA",
+      "abbreviations": [
+        "Cann-s.",
+        "CANN-S.",
+        "cann-s"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CANTHARIS",
+      "abbreviations": [
+        "Canth.",
+        "CANTH.",
+        "canth"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CAPSICUM",
+      "abbreviations": [
+        "Caps.",
+        "CAPS.",
+        "caps"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CARBOLIC ACID",
+      "abbreviations": [
+        "Carb-ac.",
+        "CARB-AC.",
+        "carb-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CARBO ANIMALIS",
+      "abbreviations": [
+        "Carb-an.",
+        "CARB-AN.",
+        "carb-an"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CARBONEUM HYDROGENISATUM",
+      "abbreviations": [
+        "Carb-h.",
+        "CARB-H.",
+        "carb-h"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CARBONEUM OXYGENISATUM",
+      "abbreviations": [
+        "Carb-o.",
+        "CARB-O.",
+        "carb-o"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CARBONEUM SULPHURATUM",
+      "abbreviations": [
+        "Carb-s.",
+        "CARB-S.",
+        "carb-s"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CARBO VEGETABILIS",
+      "abbreviations": [
+        "Carb-v.",
+        "CARB-V.",
+        "carb-v"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CARDUUS BENEDICTUS",
+      "abbreviations": [
+        "Card-b.",
+        "CARD-B.",
+        "card-b"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CARDUUS MARIANUS",
+      "abbreviations": [
+        "Card-m.",
+        "CARD-M.",
+        "card-m"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CARLSBAD",
+      "abbreviations": [
+        "Carl.",
+        "CARL.",
+        "carl"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CASCARILLA",
+      "abbreviations": [
+        "Casc.",
+        "CASC.",
+        "casc"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CASTOR EQUI",
+      "abbreviations": [
+        "Cast-eq.",
+        "CAST-EQ.",
+        "cast-eq"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CASTANEA VESCA",
+      "abbreviations": [
+        "Cast-v.",
+        "CAST-V.",
+        "cast-v"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CASTOREUM",
+      "abbreviations": [
+        "Cast.",
+        "CAST.",
+        "cast"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CAULOPHYLLUM THALICTROIDES",
+      "abbreviations": [
+        "Caul.",
+        "CAUL.",
+        "caul"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CAUSTICUM",
+      "abbreviations": [
+        "Caust.",
+        "CAUST.",
+        "caust"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CEANOTHUS AMERICANUS",
+      "abbreviations": [
+        "Cean.",
+        "CEAN.",
+        "cean"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CEDRON",
+      "abbreviations": [
+        "Cedr.",
+        "CEDR.",
+        "cedr"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CENCHRIS CONTORTRIX",
+      "abbreviations": [
+        "Cench.",
+        "CENCH.",
+        "cench"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CENTAUREA TAGANA",
+      "abbreviations": [
+        "Cent.",
+        "CENT.",
+        "cent"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CEREUS SERPENTARIA",
+      "abbreviations": [
+        "Cer-s.",
+        "CER-S.",
+        "cer-s"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CEREUS BONPLANDII",
+      "abbreviations": [
+        "Cere-b.",
+        "CERE-B.",
+        "cere-b"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CETRARARIA ISLANDICA",
+      "abbreviations": [
+        "Cet.",
+        "CET.",
+        "cet"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CHAMOMILLA",
+      "abbreviations": [
+        "Cham.",
+        "CHAM.",
+        "cham"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CHELIDONIUM MAJUS",
+      "abbreviations": [
+        "Chel.",
+        "CHEL.",
+        "chel"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CHENOPODIUM ANTHELMINTICUM",
+      "abbreviations": [
+        "Chen-an.",
+        "CHEN-AN.",
+        "chen-an"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CHENOPODIUM VULVARIA",
+      "abbreviations": [
+        "Chen-v.",
+        "CHEN-V.",
+        "chen-v"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CHENOPODIUM GLAUCI APHIS",
+      "abbreviations": [
+        "Chen.",
+        "CHEN.",
+        "chen"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CHIMAPHILA MACULATA",
+      "abbreviations": [
+        "Chim-m.",
+        "CHIM-M.",
+        "chim-m"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CHIMAPHILA UMBELLATA",
+      "abbreviations": [
+        "Chim.",
+        "CHIM.",
+        "chim"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CHININUM ARSENICOSUM",
+      "abbreviations": [
+        "Chin-a.",
+        "CHIN-A.",
+        "chin-a"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CHININUM BROMATUM",
+      "abbreviations": [
+        "Chin-b.",
+        "CHIN-B.",
+        "chin-b"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CHININUM SULPHURICUM",
+      "abbreviations": [
+        "Chin-s.",
+        "CHIN-S.",
+        "chin-s"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CHINA OFFICINALIS",
+      "abbreviations": [
+        "Chin.",
+        "CHIN.",
+        "chin"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CHIONANTHUS VIRGINICA",
+      "abbreviations": [
+        "Chion.",
+        "CHION.",
+        "chion"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CHLOROFORMIUM",
+      "abbreviations": [
+        "Chlf.",
+        "CHLF.",
+        "chlf"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CHLORALUM",
+      "abbreviations": [
+        "Chlol.",
+        "CHLOL.",
+        "chlol"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CHLORUM",
+      "abbreviations": [
+        "Chlor.",
+        "CHLOR.",
+        "chlor"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CHOLESTERINUM",
+      "abbreviations": [
+        "Chol.",
+        "CHOL.",
+        "chol"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CHROMICUM ACIDUM",
+      "abbreviations": [
+        "Chr-ac.",
+        "CHR-AC.",
+        "chr-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CHROMICUM OXYDATUM",
+      "abbreviations": [
+        "Chr-ox.",
+        "CHR-OX.",
+        "chr-ox"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CICUTA VIROSA",
+      "abbreviations": [
+        "Cic.",
+        "CIC.",
+        "cic"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CIMICIFUGA RACEMOSA",
+      "abbreviations": [
+        "Cimic.",
+        "CIMIC.",
+        "cimic"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CIMEX",
+      "abbreviations": [
+        "Cimx.",
+        "CIMX.",
+        "cimx"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CINA",
+      "abbreviations": [
+        "Cina.",
+        "CINA.",
+        "cina"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CINCHONA BOLIVIANA",
+      "abbreviations": [
+        "Cinch-b.",
+        "CINCH-B.",
+        "cinch-b"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CINCHONIUM SULPHURICUM",
+      "abbreviations": [
+        "Cinch.",
+        "CINCH.",
+        "cinch"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CINNAMOMUM",
+      "abbreviations": [
+        "Cinnam.",
+        "CINNAM.",
+        "cinnam"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CINNABARIS",
+      "abbreviations": [
+        "Cinnb.",
+        "CINNB.",
+        "cinnb"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CISTUS CANADENSIS",
+      "abbreviations": [
+        "Cist.",
+        "CIST.",
+        "cist"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CITRICUM ACIDUM",
+      "abbreviations": [
+        "Cit-ac.",
+        "CIT-AC.",
+        "cit-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CITRUS LIMONUM",
+      "abbreviations": [
+        "Cit-l.",
+        "CIT-L.",
+        "cit-l"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CITRUS VULGARIS",
+      "abbreviations": [
+        "Cit-v.",
+        "CIT-V.",
+        "cit-v"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CLEMATIS ERECTA",
+      "abbreviations": [
+        "Clem.",
+        "CLEM.",
+        "clem"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "COBALTUM",
+      "abbreviations": [
+        "Cob.",
+        "COB.",
+        "cob"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "COCCUS CACTI",
+      "abbreviations": [
+        "Coc-c.",
+        "COC-C.",
+        "coc-c"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "COCA",
+      "abbreviations": [
+        "Coca.",
+        "COCA.",
+        "coca"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "COCAINUM MURIATICUM",
+      "abbreviations": [
+        "Cocain-m.",
+        "COCAIN-M.",
+        "cocain-m"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "COCCINELLA SEPTEMPUNCTATA",
+      "abbreviations": [
+        "Cocc-s.",
+        "COCC-S.",
+        "cocc-s"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "COCCULUS INDICUS",
+      "abbreviations": [
+        "Cocc.",
+        "COCC.",
+        "cocc"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "COCHLEARIA ARMORACIA",
+      "abbreviations": [
+        "Coch.",
+        "COCH.",
+        "coch"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CODEINUM",
+      "abbreviations": [
+        "Cod.",
+        "COD.",
+        "cod"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "COFFEA TOSTA",
+      "abbreviations": [
+        "Coff-t.",
+        "COFF-T.",
+        "coff-t"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "COFFEA CRUDA",
+      "abbreviations": [
+        "Coff.",
+        "COFF.",
+        "coff"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "COLCHICUM AUTUMNALE",
+      "abbreviations": [
+        "Colch.",
+        "COLCH.",
+        "colch"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "COLLINSONIA CANADENSIS",
+      "abbreviations": [
+        "Coll.",
+        "COLL.",
+        "coll"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "COLOCYNTHIS",
+      "abbreviations": [
+        "Coloc.",
+        "COLOC.",
+        "coloc"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "COLOSTRUM",
+      "abbreviations": [
+        "Colos.",
+        "COLOS.",
+        "colos"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "COMOCLADIA DENTATA",
+      "abbreviations": [
+        "Com.",
+        "COM.",
+        "com"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CONIUM MACULATUM",
+      "abbreviations": [
+        "Con.",
+        "CON.",
+        "con"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CUNDURANGO",
+      "abbreviations": [
+        "Cond.",
+        "COND.",
+        "cond"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CONVOLVULUS DUARTINUS",
+      "abbreviations": [
+        "Conv-d.",
+        "CONV-D.",
+        "conv-d"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CONVALLARIA MAJALIS",
+      "abbreviations": [
+        "Conv.",
+        "CONV.",
+        "conv"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "COPAIVA OFFICINALIS",
+      "abbreviations": [
+        "Cop.",
+        "COP.",
+        "cop"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CORALLIUM RUBRUM",
+      "abbreviations": [
+        "Cor-r.",
+        "COR-R.",
+        "cor-r"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CORIARIA RUSCIFOLIA",
+      "abbreviations": [
+        "Cori-r.",
+        "CORI-R.",
+        "cori-r"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CORNUS FLORIDA",
+      "abbreviations": [
+        "Corn-f.",
+        "CORN-F.",
+        "corn-f"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CORNUS SERIEA",
+      "abbreviations": [
+        "Corn-s.",
+        "CORN-S.",
+        "corn-s"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CORNUS CIRCINATA",
+      "abbreviations": [
+        "Corn.",
+        "CORN.",
+        "corn"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "COTYLEDON UMBILICUS",
+      "abbreviations": [
+        "Cot.",
+        "COT.",
+        "cot"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CROCUS SATIVUS",
+      "abbreviations": [
+        "Croc.",
+        "CROC.",
+        "croc"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CROTALUS CASCAVELLA",
+      "abbreviations": [
+        "Crot-c.",
+        "CROT-C.",
+        "crot-c"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CROTALUS HORRIDUS",
+      "abbreviations": [
+        "Crot-h.",
+        "CROT-H.",
+        "crot-h"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CROTON TIGLIUM",
+      "abbreviations": [
+        "Crot-t.",
+        "CROT-T.",
+        "crot-t"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CUBEBA OFFICINALIS",
+      "abbreviations": [
+        "Cub.",
+        "CUB.",
+        "cub"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CULEX MOSCÆ",
+      "abbreviations": [
+        "Culx.",
+        "CULX.",
+        "culx"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CUPRUM ACETICUM",
+      "abbreviations": [
+        "Cupr-ac.",
+        "CUPR-AC.",
+        "cupr-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CUPRUM ARSENICOSUM",
+      "abbreviations": [
+        "Cupr-ar.",
+        "CUPR-AR.",
+        "cupr-ar"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CUPRUM NITRICUM",
+      "abbreviations": [
+        "Cupr-n.",
+        "CUPR-N.",
+        "cupr-n"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CUPRUM SULPHURICUM",
+      "abbreviations": [
+        "Cupr-s.",
+        "CUPR-S.",
+        "cupr-s"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CUPRUM METALLICUM",
+      "abbreviations": [
+        "Cupr.",
+        "CUPR.",
+        "cupr"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CURARE",
+      "abbreviations": [
+        "Cur.",
+        "CUR.",
+        "cur"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CYCLAMEN EUROPÆUM",
+      "abbreviations": [
+        "Cycl.",
+        "CYCL.",
+        "cycl"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "CYPRIPEDIUM PUBESCENS",
+      "abbreviations": [
+        "Cypr.",
+        "CYPR.",
+        "cypr"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "DAPHNE INDICA",
+      "abbreviations": [
+        "Daph.",
+        "DAPH.",
+        "daph"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "DERRIS PINNATA",
+      "abbreviations": [
+        "Der.",
+        "DER.",
+        "der"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "DIGITALIS PURPUREA",
+      "abbreviations": [
+        "Dig.",
+        "DIG.",
+        "dig"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "DIOSCOREA VILLOSA",
+      "abbreviations": [
+        "Dios.",
+        "DIOS.",
+        "dios"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "DIRCA PALUSTRIS",
+      "abbreviations": [
+        "Dirc.",
+        "DIRC.",
+        "dirc"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "DOLICHOS PRURIENS",
+      "abbreviations": [
+        "Dol.",
+        "DOL.",
+        "dol"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "DORYPHORA",
+      "abbreviations": [
+        "Dor.",
+        "DOR.",
+        "dor"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "DROSERA ROTUNDIFOLIA",
+      "abbreviations": [
+        "Dros.",
+        "DROS.",
+        "dros"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "DUBOISINUM",
+      "abbreviations": [
+        "Dub.",
+        "DUB.",
+        "dub"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "DULCAMARA",
+      "abbreviations": [
+        "Dulc.",
+        "DULC.",
+        "dulc"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ECHINACEA ANGUSTIFOLIA",
+      "abbreviations": [
+        "Echi.",
+        "ECHI.",
+        "echi"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ELAPS CORALLINUS",
+      "abbreviations": [
+        "Elaps.",
+        "ELAPS.",
+        "elaps"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ELATERIUM",
+      "abbreviations": [
+        "Elat.",
+        "ELAT.",
+        "elat"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "EPIGEA REPENS",
+      "abbreviations": [
+        "Epig.",
+        "EPIG.",
+        "epig"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "EQUISETUM H YEMALE",
+      "abbreviations": [
+        "Equis.",
+        "EQUIS.",
+        "equis"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ERECHTHITES HIERACIFOLIA",
+      "abbreviations": [
+        "Erech.",
+        "ERECH.",
+        "erech"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ERIGERON CANADENSE",
+      "abbreviations": [
+        "Erig.",
+        "ERIG.",
+        "erig"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ERYNGIUM AQUATICUM",
+      "abbreviations": [
+        "Ery-a.",
+        "ERY-A.",
+        "ery-a"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ETHER",
+      "abbreviations": [
+        "Ether.",
+        "ETHER.",
+        "ether"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "EUCALYPTUS GLOBULUS",
+      "abbreviations": [
+        "Eucal.",
+        "EUCAL.",
+        "eucal"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "EUGENIA JAMBOS",
+      "abbreviations": [
+        "Eug.",
+        "EUG.",
+        "eug"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "EUONYMUS EUROPÆUS",
+      "abbreviations": [
+        "Euon.",
+        "EUON.",
+        "euon"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "EUPATORIUM PERFOLIATUM",
+      "abbreviations": [
+        "Eup-per.",
+        "EUP-PER.",
+        "eup-per"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "EUPATORIUM PURPUREUM",
+      "abbreviations": [
+        "Eup-pur.",
+        "EUP-PUR.",
+        "eup-pur"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "EUPHORBIUM",
+      "abbreviations": [
+        "Eupho.",
+        "EUPHO.",
+        "eupho"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "EUPHRASIA OFFICINALIS",
+      "abbreviations": [
+        "Euphr.",
+        "EUPHR.",
+        "euphr"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "EUPION",
+      "abbreviations": [
+        "Eupi.",
+        "EUPI.",
+        "eupi"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "FAGOPYRUM",
+      "abbreviations": [
+        "Fago.",
+        "FAGO.",
+        "fago"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "FERRUM ACETICUM",
+      "abbreviations": [
+        "Ferr-ac.",
+        "FERR-AC.",
+        "ferr-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "FERRUM ARSENICOSUM",
+      "abbreviations": [
+        "Ferr-ar.",
+        "FERR-AR.",
+        "ferr-ar"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "FERRUM IODATUM",
+      "abbreviations": [
+        "Ferr-i.",
+        "FERR-I.",
+        "ferr-i"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "FERRUM MURIATICUM",
+      "abbreviations": [
+        "Ferr-m.",
+        "FERR-M.",
+        "ferr-m"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "FERRUM MAGNETICUM",
+      "abbreviations": [
+        "Ferr-ma.",
+        "FERR-MA.",
+        "ferr-ma"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "FERRUM PHOSPHORICUM",
+      "abbreviations": [
+        "Ferr-p.",
+        "FERR-P.",
+        "ferr-p"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "FERRUM PICRICUM",
+      "abbreviations": [
+        "Ferr-pic.",
+        "FERR-PIC.",
+        "ferr-pic"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "FERRUM SULPHURICUM",
+      "abbreviations": [
+        "Ferr-s.",
+        "FERR-S.",
+        "ferr-s"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "FERRUM METALLICUM",
+      "abbreviations": [
+        "Ferr.",
+        "FERR.",
+        "ferr"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "FILIX MAS",
+      "abbreviations": [
+        "Fil.",
+        "FIL.",
+        "fil"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "FLUORICUM ACIDUM",
+      "abbreviations": [
+        "Fl-ac.",
+        "FL-AC.",
+        "fl-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "FORMICA RUFA",
+      "abbreviations": [
+        "Form.",
+        "FORM.",
+        "form"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "FRAGARIA VESCA",
+      "abbreviations": [
+        "Frag-v.",
+        "FRAG-V.",
+        "frag-v"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "GADUS MORRHUA",
+      "abbreviations": [
+        "Gad.",
+        "GAD.",
+        "gad"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "GALLICUM ACIDUM",
+      "abbreviations": [
+        "Gall-ac.",
+        "GALL-AC.",
+        "gall-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "GAMBOGIA",
+      "abbreviations": [
+        "Gamb.",
+        "GAMB.",
+        "gamb"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "GELSEMIUM SEMPERVIRENS",
+      "abbreviations": [
+        "Gels.",
+        "GELS.",
+        "gels"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "GENISTA TINCTORIA",
+      "abbreviations": [
+        "Genist.",
+        "GENIST.",
+        "genist"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "GENTIANA CRUCIATA",
+      "abbreviations": [
+        "Gent-c.",
+        "GENT-C.",
+        "gent-c"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "GENTIANA LUTEA",
+      "abbreviations": [
+        "Gent-l.",
+        "GENT-L.",
+        "gent-l"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "GERANIUM MACULATUM",
+      "abbreviations": [
+        "Ger.",
+        "GER.",
+        "ger"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "GETTISBURG WATER",
+      "abbreviations": [
+        "Get.",
+        "GET.",
+        "get"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "GINSENG",
+      "abbreviations": [
+        "Gins.",
+        "GINS.",
+        "gins"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "GLANDERINE",
+      "abbreviations": [
+        "Gland.",
+        "GLAND.",
+        "gland"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "GLONOIN",
+      "abbreviations": [
+        "Glon.",
+        "GLON.",
+        "glon"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "HIPPOZÆNIUM",
+      "abbreviations": [
+        "Hippoz.",
+        "HIPPOZ.",
+        "hippoz"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "HOMARUS",
+      "abbreviations": [
+        "Hom.",
+        "HOM.",
+        "hom"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "HURA BRAZILIENSIS",
+      "abbreviations": [
+        "Hura.",
+        "HURA.",
+        "hura"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "HYDROCYANICUM ACIDUM",
+      "abbreviations": [
+        "Hydr-ac.",
+        "HYDR-AC.",
+        "hydr-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "HYDRASTIS CANADENSIS",
+      "abbreviations": [
+        "Hydr.",
+        "HYDR.",
+        "hydr"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "HYDRANGEA ARBORESCENS",
+      "abbreviations": [
+        "Hydrang.",
+        "HYDRANG.",
+        "hyd​rang"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "HYDROCOTYLE ASIATICA",
+      "abbreviations": [
+        "Hydrc.",
+        "HYDRC.",
+        "hydrc"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "HYOSCYAMUS NIGER",
+      "abbreviations": [
+        "Hyos.",
+        "HYOS.",
+        "hyos"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "HYPERICUM PERFORATUM",
+      "abbreviations": [
+        "Hyper.",
+        "HYPER.",
+        "hyper"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "IBERIS AMARA",
+      "abbreviations": [
+        "Iber.",
+        "IBER.",
+        "iber"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ICTODES FŒTIDA",
+      "abbreviations": [
+        "Ictod.",
+        "ICTOD.",
+        "ictod"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "IGNATIA AMARA",
+      "abbreviations": [
+        "Ign.",
+        "IGN.",
+        "ign"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ILLICIUM ANISATUM",
+      "abbreviations": [
+        "Ill.",
+        "ILL.",
+        "ill"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "INDIUM METALLICUM",
+      "abbreviations": [
+        "Ind.",
+        "IND.",
+        "ind"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "INDIGO",
+      "abbreviations": [
+        "Indg.",
+        "INDG.",
+        "indg"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "INGLUVIN",
+      "abbreviations": [
+        "Ing.",
+        "ING.",
+        "ing"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "INULA HELENIUM",
+      "abbreviations": [
+        "Inul.",
+        "INUL.",
+        "inul"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "IODIUM",
+      "abbreviations": [
+        "Iod.",
+        "IOD.",
+        "iod"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "IODOFORMUM",
+      "abbreviations": [
+        "Iodof.",
+        "IODOF.",
+        "iodof"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "IPECACUANHA",
+      "abbreviations": [
+        "Ip.",
+        "IP.",
+        "ip"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "IPOMIA PURPUREA",
+      "abbreviations": [
+        "Ipom.",
+        "IPOM.",
+        "ipom"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "IRIS FLORENTINA",
+      "abbreviations": [
+        "Ir-fl.",
+        "IR-FL.",
+        "ir-fl"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "IRIS FŒTIDISSIMA",
+      "abbreviations": [
+        "Ir-fœ.",
+        "IR-FŒ.",
+        "ir-fœ"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "IRIS GERMANICA",
+      "abbreviations": [
+        "Ir-g.",
+        "IR-G.",
+        "ir-g"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "IRIDIUM",
+      "abbreviations": [
+        "Iridium",
+        "IRIDIUM",
+        "iridium"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "IRIS VERSICOLOR",
+      "abbreviations": [
+        "Iris.",
+        "IRIS.",
+        "iris"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "JABORANDI",
+      "abbreviations": [
+        "Jab.",
+        "JAB.",
+        "jab"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "JACARANDA CAROBA",
+      "abbreviations": [
+        "Jac-c.",
+        "JAC-C.",
+        "jac-c"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "JACARANDA GUALANDAI",
+      "abbreviations": [
+        "Jac.",
+        "JAC.",
+        "jac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "JALAPA",
+      "abbreviations": [
+        "Jal.",
+        "JAL.",
+        "jal"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "JATROPHA CURCAS",
+      "abbreviations": [
+        "Jatr.",
+        "JATR.",
+        "jatr"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "JUGLANS CINEREA",
+      "abbreviations": [
+        "Jug-c.",
+        "JUG-C.",
+        "jug-c"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "JUGLANS REGIA",
+      "abbreviations": [
+        "Jug-r.",
+        "JUG-R.",
+        "jug-r"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "JUNCUS EFFUSUS",
+      "abbreviations": [
+        "Junc.",
+        "JUNC.",
+        "junc"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "JUNIPERUS VIRGINIANA",
+      "abbreviations": [
+        "Juni.",
+        "JUNI.",
+        "juni"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "KALI ACETICUM",
+      "abbreviations": [
+        "Kali-a.",
+        "KALI-A.",
+        "kali-a"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "KALI ARSENICOSUM",
+      "abbreviations": [
+        "Kali-ar.",
+        "KALI-AR.",
+        "kali-ar"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "KALI BICHROMICUM",
+      "abbreviations": [
+        "Kali-bi.",
+        "KALI-BI.",
+        "kali-bi"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "KALI BROMATUM",
+      "abbreviations": [
+        "Kali-br.",
+        "KALI-BR.",
+        "kali-br"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "KALI CARBONICUM",
+      "abbreviations": [
+        "Kali-c.",
+        "KALI-C.",
+        "kali-c"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "KALI CHLORICUM",
+      "abbreviations": [
+        "Kali-chl.",
+        "KALI-CHL.",
+        "kali-chl"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "KALI CYANATUM",
+      "abbreviations": [
+        "Kali-cy.",
+        "KALI-CY.",
+        "kali-cy"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "KALI FERROCYANICUM",
+      "abbreviations": [
+        "Kali-fer.",
+        "KALI-FER.",
+        "kali-fer"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "KALI IODATUM",
+      "abbreviations": [
+        "Kali-i.",
+        "KALI-I.",
+        "kali-i"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "KALI MURIATICUM",
+      "abbreviations": [
+        "Kali-m.",
+        "KALI-M.",
+        "kali-m"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "KALI MANGANICUM",
+      "abbreviations": [
+        "Kali-ma.",
+        "KALI-MA.",
+        "kali-ma"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "KALI NITRICUM",
+      "abbreviations": [
+        "Kali-n.",
+        "KALI-N.",
+        "kali-n"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "KALI OXALICUM",
+      "abbreviations": [
+        "Kali-ox.",
+        "KALI-OX.",
+        "kali-ox"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "KALI PHOSPHORICUM",
+      "abbreviations": [
+        "Kali-p.",
+        "KALI-P.",
+        "kali-p"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "KALI SULPHURICUM",
+      "abbreviations": [
+        "Kali-s.",
+        "KALI-S.",
+        "kali-s"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "KALMIA LATIFOLIA",
+      "abbreviations": [
+        "Kalm.",
+        "KALM.",
+        "kalm"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "KAOLIN",
+      "abbreviations": [
+        "Kaol.",
+        "KAOL.",
+        "kaol"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "KINO",
+      "abbreviations": [
+        "Kino.",
+        "KINO.",
+        "kino"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "KISSINGEN",
+      "abbreviations": [
+        "Kiss.",
+        "KISS.",
+        "kiss"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "KREOSOTUM",
+      "abbreviations": [
+        "Kreos.",
+        "KREOS.",
+        "kreos"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LAC CANINUM",
+      "abbreviations": [
+        "Lac-c.",
+        "LAC-C.",
+        "lac-c"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LAC DEFLORATUM",
+      "abbreviations": [
+        "Lac-d.",
+        "LAC-D.",
+        "lac-d"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LAC FELINUM",
+      "abbreviations": [
+        "Lac-f.",
+        "LAC-F.",
+        "lac-f"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LACHESIS",
+      "abbreviations": [
+        "Lach.",
+        "LACH.",
+        "lach"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LACHNANTHES TINCTORIA",
+      "abbreviations": [
+        "Lachn.",
+        "LACHN.",
+        "lachn"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LACTICUM ACIDUM",
+      "abbreviations": [
+        "Lact-ac.",
+        "LACT-AC.",
+        "lact-ac"
+      ],
+      "aliases": [
+        "LACTIC ACID"
+      ],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LACTUCA VIROSA",
+      "abbreviations": [
+        "Lact.",
+        "LACT.",
+        "lact"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LAMIUM ALBUM",
+      "abbreviations": [
+        "Lam.",
+        "LAM.",
+        "lam"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LAPIS ALBUS",
+      "abbreviations": [
+        "Lap-a.",
+        "LAP-A.",
+        "lap-a"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LAPPA ARCTIUM",
+      "abbreviations": [
+        "Lappa-a.",
+        "LAPPA-A.",
+        "lappa-a"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LAPPA MAJOR",
+      "abbreviations": [
+        "Lappa-m.",
+        "LAPPA-M.",
+        "lappa-m"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LATRODECTUS MACTANS",
+      "abbreviations": [
+        "Lat-m.",
+        "LAT-M.",
+        "lat-m"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LATHYRUS SATIVUS",
+      "abbreviations": [
+        "Lath.",
+        "LATH.",
+        "lath"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LAUROCERASUS",
+      "abbreviations": [
+        "Laur.",
+        "LAUR.",
+        "laur"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LECITHIN",
+      "abbreviations": [
+        "Lec.",
+        "LEC.",
+        "lec"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LEDUM PALUSTRE",
+      "abbreviations": [
+        "Led.",
+        "LED.",
+        "led"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LEMNA MINOR",
+      "abbreviations": [
+        "Lem-m.",
+        "LEM-M.",
+        "lem-m"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LEPIDIUM BONARIENSE",
+      "abbreviations": [
+        "Lepi.",
+        "LEPI.",
+        "lepi"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LEPTANDRA VIRGINICA",
+      "abbreviations": [
+        "Lept.",
+        "LEPT.",
+        "lept"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LILIUM TIGRINUM",
+      "abbreviations": [
+        "Lil-t.",
+        "LIL-T.",
+        "lil-t"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LINUM CATHAR",
+      "abbreviations": [
+        "Linu-c.",
+        "LINU-C.",
+        "linu-c"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LITHIUM MURIATICUM",
+      "abbreviations": [
+        "Lith-m.",
+        "LITH-M.",
+        "lith-m"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LITHIUM CARBONICUM",
+      "abbreviations": [
+        "Lith.",
+        "LITH.",
+        "lith"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LOBELIA CARDINALIS",
+      "abbreviations": [
+        "Lob-c.",
+        "LOB-C.",
+        "lob-c"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LOBELIA SYPHILITICA",
+      "abbreviations": [
+        "Lob-s.",
+        "LOB-S.",
+        "lob-s"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LOBELIA INFLATA",
+      "abbreviations": [
+        "Lob.",
+        "LOB.",
+        "lob"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LUPULUS",
+      "abbreviations": [
+        "Lup.",
+        "LUP.",
+        "lup"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LYCOPODIUM CLAVATUM",
+      "abbreviations": [
+        "Lyc.",
+        "LYC.",
+        "lyc"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LYCOPERSICUM",
+      "abbreviations": [
+        "Lycpr.",
+        "LYCPR.",
+        "lycpr"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LYCOPUS VIRGINICUS",
+      "abbreviations": [
+        "Lycps.",
+        "LYCPS.",
+        "lycps"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "LYSSIN",
+      "abbreviations": [
+        "Lyss.",
+        "LYSS.",
+        "lyss"
+      ],
+      "aliases": [
+        "HYDROPHOBINUM"
+      ],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MAGNETIS POLUS ARCTICUS",
+      "abbreviations": [
+        "Mag-arct.",
+        "MAG-ARCT.",
+        "mag-arct"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MAGNETIS POLUS AUSTRALIS",
+      "abbreviations": [
+        "Mag-aust.",
+        "MAG-AUST.",
+        "mag-aust"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MAGNESIA CARBONICA",
+      "abbreviations": [
+        "Mag-c.",
+        "MAG-C.",
+        "mag-c"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MAGNESIA MURIATICA",
+      "abbreviations": [
+        "Mag-m.",
+        "MAG-M.",
+        "mag-m"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MAGNETIS POLI AMBO",
+      "abbreviations": [
+        "Mag-p-a.",
+        "MAG-P-A.",
+        "mag-p-a"
+      ],
+      "aliases": [
+        "MAGNETIS POLI. AMBO."
+      ],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MAGNESIA PHOSPHORICA",
+      "abbreviations": [
+        "Mag-p.",
+        "MAG-P.",
+        "mag-p"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MAGNESIA SULPHURICA",
+      "abbreviations": [
+        "Mag-s.",
+        "MAG-S.",
+        "mag-s"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MALANDRINUM",
+      "abbreviations": [
+        "Maland.",
+        "MALAND.",
+        "maland"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MALARIA OFFICINALIS",
+      "abbreviations": [
+        "Malar.",
+        "MALAR.",
+        "malar"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MANCINELLA",
+      "abbreviations": [
+        "Manc.",
+        "MANC.",
+        "manc"
+      ],
+      "aliases": [
+        "HIPPOMANES"
+      ],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MANGANUM MURIATICUM",
+      "abbreviations": [
+        "Mang-m.",
+        "MANG-M.",
+        "mang-m"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MANGANUM",
+      "abbreviations": [
+        "Mang.",
+        "MANG.",
+        "mang"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MEDORRHINUM",
+      "abbreviations": [
+        "Med.",
+        "MED.",
+        "med"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MELILOTUS ALBA",
+      "abbreviations": [
+        "Meli.",
+        "MELI.",
+        "meli"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MENISPERMUM",
+      "abbreviations": [
+        "Menis.",
+        "MENIS.",
+        "menis"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MENTHA PIPERITA",
+      "abbreviations": [
+        "Ment.",
+        "MENT.",
+        "ment"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MENYANTHES",
+      "abbreviations": [
+        "Meny.",
+        "MENY.",
+        "meny"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MEPHITIS",
+      "abbreviations": [
+        "Meph.",
+        "MEPH.",
+        "meph"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MERCURIUS ACETICUS",
+      "abbreviations": [
+        "Merc-ac.",
+        "MERC-AC.",
+        "merc-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MERCURIUS CORROSIVUS",
+      "abbreviations": [
+        "Merc-c.",
+        "MERC-C.",
+        "merc-c"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MERCURIUS CYANATUS",
+      "abbreviations": [
+        "Merc-cy.",
+        "MERC-CY.",
+        "merc-cy"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MERCURIUS DULCIS",
+      "abbreviations": [
+        "Merc-d.",
+        "MERC-D.",
+        "merc-d"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MERCURIUS IODATUS FLAVUS",
+      "abbreviations": [
+        "Merc-i-f.",
+        "MERC-I-F.",
+        "merc-i-f"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MERCURIUS IODATUS RUBER",
+      "abbreviations": [
+        "Merc-i-r.",
+        "MERC-I-R.",
+        "merc-i-r"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MERCURIUS NITROSUS",
+      "abbreviations": [
+        "Merc-n.",
+        "MERC-N.",
+        "merc-n"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MERCURIUS PRÆCIPITATUS RUBER",
+      "abbreviations": [
+        "Merc-p-r.",
+        "MERC-P-R.",
+        "merc-p-r"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MERCURIUS SULPHURICUS",
+      "abbreviations": [
+        "Merc-sul.",
+        "MERC-SUL.",
+        "merc-sul"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MERCURIUS VIVUS",
+      "abbreviations": [
+        "Merc.",
+        "MERC.",
+        "merc"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MERCURIALIS",
+      "abbreviations": [
+        "Merl.",
+        "MERL.",
+        "merl"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MEZEREUM",
+      "abbreviations": [
+        "Mez.",
+        "MEZ.",
+        "mez"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MILLEFOLIUM",
+      "abbreviations": [
+        "Mill.",
+        "MILL.",
+        "mill"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MITCHELLA REPENS",
+      "abbreviations": [
+        "Mit.",
+        "MIT.",
+        "mit"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MORPHINUM",
+      "abbreviations": [
+        "Morph.",
+        "MORPH.",
+        "morph"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MOSCHUS",
+      "abbreviations": [
+        "Mosch.",
+        "MOSCH.",
+        "mosch"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MURIATICUM ACIDUM",
+      "abbreviations": [
+        "Mur-ac.",
+        "MUR-AC.",
+        "mur-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MUREX",
+      "abbreviations": [
+        "Murx.",
+        "MURX.",
+        "murx"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MYGALE LASIODORA",
+      "abbreviations": [
+        "Mygal.",
+        "MYGAL.",
+        "mygal"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MYOSOTIS",
+      "abbreviations": [
+        "Myos.",
+        "MYOS.",
+        "myos"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MYRICA CERIFERA",
+      "abbreviations": [
+        "Myric.",
+        "MYRIC.",
+        "myric"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MYRISTICA SEBIFERA",
+      "abbreviations": [
+        "Myris.",
+        "MYRIS.",
+        "myris"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "MYRTUS COMMUNIS",
+      "abbreviations": [
+        "Myrt.",
+        "MYRT.",
+        "myrt"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NAJA TRIPUDIA",
+      "abbreviations": [
+        "Naja.",
+        "NAJA.",
+        "naja"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NAPHTHALIN",
+      "abbreviations": [
+        "Naph.",
+        "NAPH.",
+        "naph"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NARCOTINUM",
+      "abbreviations": [
+        "Narcot.",
+        "NARCOT.",
+        "narcot"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NATRUM ARSENICATUM",
+      "abbreviations": [
+        "Nat-a.",
+        "NAT-A.",
+        "nat-a"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NATRUM ACETICUM",
+      "abbreviations": [
+        "Nat-ac.",
+        "NAT-AC.",
+        "nat-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NATRUM CARBONICUM",
+      "abbreviations": [
+        "Nat-c.",
+        "NAT-C.",
+        "nat-c"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NATRUM HYPOCHLOROSUM",
+      "abbreviations": [
+        "Nat-h.",
+        "NAT-H.",
+        "nat-h"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NATRUM MURIATICUM",
+      "abbreviations": [
+        "Nat-m.",
+        "NAT-M.",
+        "nat-m"
+      ],
+      "aliases": [
+        "NATRUM MUR",
+        "NAT MUR"
+      ],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NATRUM NITRICUM",
+      "abbreviations": [
+        "Nat-n.",
+        "NAT-N.",
+        "nat-n"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NATRUM PHOSPHORICUM",
+      "abbreviations": [
+        "Nat-p.",
+        "NAT-P.",
+        "nat-p"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NATRUM SULPHURICUM",
+      "abbreviations": [
+        "Nat-s.",
+        "NAT-S.",
+        "nat-s"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NICCOLUM SULPHURICUM",
+      "abbreviations": [
+        "Nicc-s.",
+        "NICC-S.",
+        "nicc-s"
+      ],
+      "aliases": [
+        "NICCOLUM SULPH."
+      ],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NICCOLUM",
+      "abbreviations": [
+        "Nicc.",
+        "NICC.",
+        "nicc"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NITRICUM ACIDUM",
+      "abbreviations": [
+        "Nit-ac.",
+        "NIT-AC.",
+        "nit-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NITRO MURIATIC ACID",
+      "abbreviations": [
+        "Nit-m-ac.",
+        "NIT-M-AC.",
+        "nit-m-ac"
+      ],
+      "aliases": [
+        "NITRO MURIATICUM ACIDUM"
+      ],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NITRI SPIRITUS DULCIS",
+      "abbreviations": [
+        "Nit-s-d.",
+        "NIT-S-D.",
+        "nit-s-d"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NITROGENIUM OXYGENATUM",
+      "abbreviations": [
+        "Nitro-o.",
+        "NITRO-O.",
+        "nitro-o"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NUPHAR LUTEUM",
+      "abbreviations": [
+        "Nuph.",
+        "NUPH.",
+        "nuph"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NUX JUGLANS",
+      "abbreviations": [
+        "Nux-j.",
+        "NUX-J.",
+        "nux-j"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NUX MOSCHATA",
+      "abbreviations": [
+        "Nux-m.",
+        "NUX-M.",
+        "nux-m"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NUX VOMICA",
+      "abbreviations": [
+        "Nux-v.",
+        "NUX-V.",
+        "nux-v"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "NYMPHÆA ODORATA",
+      "abbreviations": [
+        "Nym.",
+        "NYM.",
+        "nym"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "OCIMUM CANUM",
+      "abbreviations": [
+        "Oci.",
+        "OCI.",
+        "oci"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ŒNANTHE CROCATA",
+      "abbreviations": [
+        "Œna.",
+        "ŒNA.",
+        "œna"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "OLEUM ANIMALE",
+      "abbreviations": [
+        "Ol-an.",
+        "OL-AN.",
+        "ol-an"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "OLEUM JECORIS ASELLI",
+      "abbreviations": [
+        "Ol-j.",
+        "OL-J.",
+        "ol-j"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "OLEANDER",
+      "abbreviations": [
+        "Olnd.",
+        "OLND.",
+        "olnd"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ONOSMODIUM",
+      "abbreviations": [
+        "Onos.",
+        "ONOS.",
+        "onos"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "OPIUM",
+      "abbreviations": [
+        "Op.",
+        "OP.",
+        "op"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ORIGANUM MAJORANA",
+      "abbreviations": [
+        "Orig.",
+        "ORIG.",
+        "orig"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "OSMIUM",
+      "abbreviations": [
+        "Osm.",
+        "OSM.",
+        "osm"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "OVININE",
+      "abbreviations": [
+        "Ov.",
+        "OV.",
+        "ov"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "OXALICUM ACIDUM",
+      "abbreviations": [
+        "Ox-ac.",
+        "OX-AC.",
+        "ox-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "OXYTROPIS LAMBERTI",
+      "abbreviations": [
+        "Oxyt.",
+        "OXYT.",
+        "oxyt"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "OZONE",
+      "abbreviations": [
+        "Ozone.",
+        "OZONE.",
+        "ozone"
+      ],
+      "aliases": [
+        "OXYGENIUM"
+      ],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PÆONIA OFFICINALIS",
+      "abbreviations": [
+        "Pæon.",
+        "PÆON.",
+        "pæon"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PALLADIUM",
+      "abbreviations": [
+        "Pall.",
+        "PALL.",
+        "pall"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PARIS QUADRIFOLIA",
+      "abbreviations": [
+        "Par.",
+        "PAR.",
+        "par"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PAREIRA BRAVA",
+      "abbreviations": [
+        "Pareir.",
+        "PAREIR.",
+        "pareir"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PAULLINIA PINNATA",
+      "abbreviations": [
+        "Paull.",
+        "PAULL.",
+        "paull"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PEDICULUS CAPITIS",
+      "abbreviations": [
+        "Ped.",
+        "PED.",
+        "ped"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PENTHORUM",
+      "abbreviations": [
+        "Pen.",
+        "PEN.",
+        "pen"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PERSICA",
+      "abbreviations": [
+        "Per.",
+        "PER.",
+        "per"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PETIVERIA",
+      "abbreviations": [
+        "Peti.",
+        "PETI.",
+        "peti"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PETROLEUM",
+      "abbreviations": [
+        "Petr.",
+        "PETR.",
+        "petr"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PETROSELINUM",
+      "abbreviations": [
+        "Petros.",
+        "PETROS.",
+        "petros"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PHOSPHORICUM ACIDUM",
+      "abbreviations": [
+        "Ph-ac.",
+        "PH-AC.",
+        "ph-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PHALLUS IMPUDICUS",
+      "abbreviations": [
+        "Phal.",
+        "PHAL.",
+        "phal"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PHASEOLUS NANUS",
+      "abbreviations": [
+        "Phase.",
+        "PHASE.",
+        "phase"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PHELLANDRIUM",
+      "abbreviations": [
+        "Phel.",
+        "PHEL.",
+        "phel"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PHOSPHORUS",
+      "abbreviations": [
+        "Phos.",
+        "PHOS.",
+        "phos"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PHYSOSTIGMA",
+      "abbreviations": [
+        "Phys.",
+        "PHYS.",
+        "phys"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PHYTOLACCA DECANDRA",
+      "abbreviations": [
+        "Phyt.",
+        "PHYT.",
+        "phyt"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PICRICUM ACIDUM",
+      "abbreviations": [
+        "Pic-ac.",
+        "PIC-AC.",
+        "pic-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PIMPINELLA SAXIFRAGA",
+      "abbreviations": [
+        "Pimp.",
+        "PIMP.",
+        "pimp"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PINUS SYLVESTRIS",
+      "abbreviations": [
+        "Pin-s.",
+        "PIN-S.",
+        "pin-s"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PIPER METHYSTICUM",
+      "abbreviations": [
+        "Pip-m.",
+        "PIP-M.",
+        "pip-m"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PIPER NIGRUM",
+      "abbreviations": [
+        "Pip-n.",
+        "PIP-N.",
+        "pip-n"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PLANTAGO MAJOR",
+      "abbreviations": [
+        "Plan.",
+        "PLAN.",
+        "plan"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PLATINUM MURIATICUM",
+      "abbreviations": [
+        "Plat-m.",
+        "PLAT-M.",
+        "plat-m"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PLATINUM METALLICUM",
+      "abbreviations": [
+        "Plat.",
+        "PLAT.",
+        "plat"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PLUMBUM METALLICUM",
+      "abbreviations": [
+        "Plb.",
+        "PLB.",
+        "plb"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PLECTRANTHUS",
+      "abbreviations": [
+        "Plect.",
+        "PLECT.",
+        "plect"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PLUMBAGO LITTORALIS",
+      "abbreviations": [
+        "Plumbg.",
+        "PLUMBG.",
+        "plumbg"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PODOPHYLLUM PELTATUM",
+      "abbreviations": [
+        "Podo.",
+        "PODO.",
+        "podo"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "POLYGONUM HYDROPIPEROIDES",
+      "abbreviations": [
+        "Polyg-h.",
+        "POLYG-H.",
+        "polyg-h"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "POPULUS TREMULOIDES",
+      "abbreviations": [
+        "Pop-t.",
+        "POP-T.",
+        "pop-t"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "POTHOS FŒTIDUS",
+      "abbreviations": [
+        "Poth.",
+        "POTH.",
+        "poth"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PRUNUS PADUS",
+      "abbreviations": [
+        "Prun-p.",
+        "PRUN-P.",
+        "prun-p"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PRUNUS SPINOSA",
+      "abbreviations": [
+        "Prun-s.",
+        "PRUN-S.",
+        "prun-s"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PSORINUM",
+      "abbreviations": [
+        "Psor.",
+        "PSOR.",
+        "psor"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PTELEA TRIFOLIATA",
+      "abbreviations": [
+        "Ptel.",
+        "PTEL.",
+        "ptel"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PULSATILLA NUTTALIANA",
+      "abbreviations": [
+        "Puls-n.",
+        "PULS-N.",
+        "puls-n"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PULSATILLA NIGRICANS",
+      "abbreviations": [
+        "Puls.",
+        "PULS.",
+        "puls"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PULEX IRRITANS",
+      "abbreviations": [
+        "Pulx.",
+        "PULX.",
+        "pulx"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PYROGENIUM",
+      "abbreviations": [
+        "Pyrog.",
+        "PYROG.",
+        "pyrog"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "PYRUS AMERICANA",
+      "abbreviations": [
+        "Pyrus.",
+        "PYRUS.",
+        "pyrus"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "RADIUM",
+      "abbreviations": [
+        "Rad.",
+        "RAD.",
+        "rad"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "RANUNCULUS ACRIS",
+      "abbreviations": [
+        "Ran-a.",
+        "RAN-A.",
+        "ran-a"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "RANUNCULUS BULBOSUS",
+      "abbreviations": [
+        "Ran-b.",
+        "RAN-B.",
+        "ran-b"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "RANUNCULUS SCELERATUS",
+      "abbreviations": [
+        "Ran-s.",
+        "RAN-S.",
+        "ran-s"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "RAPHANUS",
+      "abbreviations": [
+        "Raph.",
+        "RAPH.",
+        "raph"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "RATANHIA",
+      "abbreviations": [
+        "Rat.",
+        "RAT.",
+        "rat"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "RHEUM",
+      "abbreviations": [
+        "Rheum.",
+        "RHEUM.",
+        "rheum"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "RHODODENDRON",
+      "abbreviations": [
+        "Rhod.",
+        "RHOD.",
+        "rhod"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "RHUS AROMATICA",
+      "abbreviations": [
+        "Rhus-a.",
+        "RHUS-A.",
+        "rhus-a"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "RHUS GLABRA",
+      "abbreviations": [
+        "Rhus-g.",
+        "RHUS-G.",
+        "rhus-g"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "RHUS RADICANS",
+      "abbreviations": [
+        "Rhus-r.",
+        "RHUS-R.",
+        "rhus-r"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "RHUS TOXICODENDRON",
+      "abbreviations": [
+        "Rhus-t.",
+        "RHUS-T.",
+        "rhus-t"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "RHUS VENENATA",
+      "abbreviations": [
+        "Rhus-v.",
+        "RHUS-V.",
+        "rhus-v"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ROBINIA PSEUDACACIA",
+      "abbreviations": [
+        "Rob.",
+        "ROB.",
+        "rob"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "RUMEX CRISPUS",
+      "abbreviations": [
+        "Rumx.",
+        "RUMX.",
+        "rumx"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "RUTA GRAVEOLENS",
+      "abbreviations": [
+        "Ruta.",
+        "RUTA.",
+        "ruta"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SABADILLA",
+      "abbreviations": [
+        "Sabad.",
+        "SABAD.",
+        "sabad"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SABAL SERRULATA",
+      "abbreviations": [
+        "Sabal.",
+        "SABAL.",
+        "sabal"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SABINA",
+      "abbreviations": [
+        "Sabin.",
+        "SABIN.",
+        "sabin"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SACCHARUM LACTIS",
+      "abbreviations": [
+        "Sac-l.",
+        "SAC-L.",
+        "sac-l"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SACCHARUM ALBUM",
+      "abbreviations": [
+        "Sacc.",
+        "SACC.",
+        "sacc"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SALICYLICUM ACIDUM",
+      "abbreviations": [
+        "Sal-ac.",
+        "SAL-AC.",
+        "sal-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SALIX NIGER",
+      "abbreviations": [
+        "Sal-n.",
+        "SAL-N.",
+        "sal-n"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SALAMANDER",
+      "abbreviations": [
+        "Salam.",
+        "SALAM.",
+        "salam"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SAMBUCUS NIGRA",
+      "abbreviations": [
+        "Samb.",
+        "SAMB.",
+        "samb"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SANGUINARIA NITRICA",
+      "abbreviations": [
+        "Sang-n.",
+        "SANG-N.",
+        "sang-n"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SANGUINARIA CANADENSIS",
+      "abbreviations": [
+        "Sang.",
+        "SANG.",
+        "sang"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SANICULA AQUA",
+      "abbreviations": [
+        "Sanic.",
+        "SANIC.",
+        "sanic"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SANTONINUM",
+      "abbreviations": [
+        "Sant.",
+        "SANT.",
+        "sant"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SARRACENIA PURPUREA",
+      "abbreviations": [
+        "Sarr.",
+        "SARR.",
+        "sarr"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SARSAPARILLA",
+      "abbreviations": [
+        "Sars.",
+        "SARS.",
+        "sars"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SCUTELLARIA LATERIFLORA",
+      "abbreviations": [
+        "Scut.",
+        "SCUT.",
+        "scut"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SECALE CORNUTUM",
+      "abbreviations": [
+        "Sec.",
+        "SEC.",
+        "sec"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SELENIUM",
+      "abbreviations": [
+        "Sel.",
+        "SEL.",
+        "sel"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SENECIO AUREUS",
+      "abbreviations": [
+        "Senec.",
+        "SENEC.",
+        "senec"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SENEGA",
+      "abbreviations": [
+        "Seneg.",
+        "SENEG.",
+        "seneg"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SENNA",
+      "abbreviations": [
+        "Senn.",
+        "SENN.",
+        "senn"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SEPIA",
+      "abbreviations": [
+        "Sep.",
+        "SEP.",
+        "sep"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SERPENTARIA",
+      "abbreviations": [
+        "Serp.",
+        "SERP.",
+        "serp"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SILICEA",
+      "abbreviations": [
+        "Sil.",
+        "SIL.",
+        "sil"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SINAPIS ALBA",
+      "abbreviations": [
+        "Sin-a.",
+        "SIN-A.",
+        "sin-a"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SINAPIS NIGRA",
+      "abbreviations": [
+        "Sin-n.",
+        "SIN-N.",
+        "sin-n"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SOLANUM MAMMOSUM",
+      "abbreviations": [
+        "Sol-m.",
+        "SOL-M.",
+        "sol-m"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SOLANUM NIGRUM",
+      "abbreviations": [
+        "Sol-n.",
+        "SOL-N.",
+        "sol-n"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SOLANUM OLERACEUM",
+      "abbreviations": [
+        "Sol-o.",
+        "SOL-O.",
+        "sol-o"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SOLANUM TUBEROSUM ÆGROTANS",
+      "abbreviations": [
+        "Sol-t-æ.",
+        "SOL-T-Æ.",
+        "sol-t-æ"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SOLIDAGO VIRG. AUR.",
+      "abbreviations": [
+        "Sol-v.",
+        "SOL-V.",
+        "sol-v"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SPIGELIA MARILANDICA",
+      "abbreviations": [
+        "Spig-m.",
+        "SPIG-M.",
+        "spig-m"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SPIGELIA ANTHELMIA",
+      "abbreviations": [
+        "Spig.",
+        "SPIG.",
+        "spig"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SPIRANTHES",
+      "abbreviations": [
+        "Spira.",
+        "SPIRA.",
+        "spira"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SPONGIA TOSTA",
+      "abbreviations": [
+        "Spong.",
+        "SPONG.",
+        "spong"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SQUILLA HISPANICA",
+      "abbreviations": [
+        "Squil.",
+        "SQUIL.",
+        "squil"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "STACHYS BETONICA",
+      "abbreviations": [
+        "Stach.",
+        "STACH.",
+        "stach"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "STANNUM METALLICUM",
+      "abbreviations": [
+        "Stann.",
+        "STANN.",
+        "stann"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "STAPHYSAGRIA",
+      "abbreviations": [
+        "Staph.",
+        "STAPH.",
+        "staph"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "STELLARIA MEDIA",
+      "abbreviations": [
+        "Stel.",
+        "STEL.",
+        "stel"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "STICTA PULMONARIA",
+      "abbreviations": [
+        "Stict.",
+        "STICT.",
+        "stict"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "STILLINGIA SYLVATICA",
+      "abbreviations": [
+        "Still.",
+        "STILL.",
+        "still"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "STRAMONIUM",
+      "abbreviations": [
+        "Stram.",
+        "STRAM.",
+        "stram"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "STRONTIUM",
+      "abbreviations": [
+        "Stront.",
+        "STRONT.",
+        "stront"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "STROPHANTHUS HISPIDUS",
+      "abbreviations": [
+        "Stroph.",
+        "STROPH.",
+        "stroph"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "STRYCHNINUM",
+      "abbreviations": [
+        "Stry.",
+        "STRY.",
+        "stry"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SULPHURICUM ACIDUM",
+      "abbreviations": [
+        "Sul-ac.",
+        "SUL-AC.",
+        "sul-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SULPHUR IODATUM",
+      "abbreviations": [
+        "Sul-i.",
+        "SUL-I.",
+        "sul-i"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SULPHUR",
+      "abbreviations": [
+        "Sulph.",
+        "SULPH.",
+        "sulph"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SUMBUL",
+      "abbreviations": [
+        "Sumb.",
+        "SUMB.",
+        "sumb"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SYMPHORICARPUS RACEMOSUS",
+      "abbreviations": [
+        "Sym-r.",
+        "SYM-R.",
+        "sym-r"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SYMPHYTUM OFFICINALE",
+      "abbreviations": [
+        "Symph.",
+        "SYMPH.",
+        "symph"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "SYPHILINUM",
+      "abbreviations": [
+        "Syph.",
+        "SYPH.",
+        "syph"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "TABACUM",
+      "abbreviations": [
+        "Tab.",
+        "TAB.",
+        "tab"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "TANACETUM VULGARE",
+      "abbreviations": [
+        "Tanac.",
+        "TANAC.",
+        "tanac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "TANNINUM",
+      "abbreviations": [
+        "Tann.",
+        "TANN.",
+        "tann"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "TARAXACUM",
+      "abbreviations": [
+        "Tarax.",
+        "TARAX.",
+        "tarax"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "TARENTULA CUBENSIS",
+      "abbreviations": [
+        "Tarent-c.",
+        "TARENT-C.",
+        "tarent-c"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "TARENTULA HISPANICA",
+      "abbreviations": [
+        "Tarent.",
+        "TARENT.",
+        "tarent"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "TARTARICUM ACIDUM",
+      "abbreviations": [
+        "Tart-ac.",
+        "TART-AC.",
+        "tart-ac"
+      ],
+      "aliases": [
+        "TARTARICUM ACID."
+      ],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "TAXUS BACCATA",
+      "abbreviations": [
+        "Tax.",
+        "TAX.",
+        "tax"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "TELLURIUM",
+      "abbreviations": [
+        "Tell.",
+        "TELL.",
+        "tell"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "TEPLITZ",
+      "abbreviations": [
+        "Tep.",
+        "TEP.",
+        "tep"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "TEREBINTHINA",
+      "abbreviations": [
+        "Ter.",
+        "TER.",
+        "ter"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "TEUCRIUM MARUM VERUM",
+      "abbreviations": [
+        "Teucr.",
+        "TEUCR.",
+        "teucr"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "THALLIUM",
+      "abbreviations": [
+        "Thal.",
+        "THAL.",
+        "thal"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "THEA SINENSIS",
+      "abbreviations": [
+        "Thea.",
+        "THEA.",
+        "thea"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "THERIDION",
+      "abbreviations": [
+        "Ther.",
+        "THER.",
+        "ther"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "THLASPI BURSA PASTORIS",
+      "abbreviations": [
+        "Thlaspi.",
+        "THLASPI.",
+        "thlaspi"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "THUJA OCCIDENTALIS",
+      "abbreviations": [
+        "Thuj.",
+        "THUJ.",
+        "thuj"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "TILIA EUROPŒA",
+      "abbreviations": [
+        "Til.",
+        "TIL.",
+        "til"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "TONGO",
+      "abbreviations": [
+        "Tong.",
+        "TONG.",
+        "tong"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "TRIFOLIUM PRATENSE",
+      "abbreviations": [
+        "Trif-p.",
+        "TRIF-P.",
+        "trif-p"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "TRILLIUM PENDULUM",
+      "abbreviations": [
+        "Tril.",
+        "TRIL.",
+        "tril"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "TRIOSTEUM PERFOLIATUM",
+      "abbreviations": [
+        "Trio.",
+        "TRIO.",
+        "trio"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "TROMBIDIUM MUSCÆ DOMESTICÆ",
+      "abbreviations": [
+        "Trom.",
+        "TROM.",
+        "trom"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "TUBERCULINUM",
+      "abbreviations": [
+        "Tub.",
+        "TUB.",
+        "tub"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "TUSSILAGO FRAGRANS",
+      "abbreviations": [
+        "Tus-f.",
+        "TUS-F.",
+        "tus-f"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "TUSSILAGO PETASITES",
+      "abbreviations": [
+        "Tus-p.",
+        "TUS-P.",
+        "tus-p"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "UPAS TIENTE",
+      "abbreviations": [
+        "Upa.",
+        "UPA.",
+        "upa"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "URANIUM NITRICUM",
+      "abbreviations": [
+        "Uran.",
+        "URAN.",
+        "uran"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "URTICA URENS",
+      "abbreviations": [
+        "Urt-u.",
+        "URT-U.",
+        "urt-u"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "USTILAGO MAYDIS",
+      "abbreviations": [
+        "Ust.",
+        "UST.",
+        "ust"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "UVA URSI",
+      "abbreviations": [
+        "Uva.",
+        "UVA.",
+        "uva"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "VACCININUM",
+      "abbreviations": [
+        "Vac.",
+        "VAC.",
+        "vac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "VALERIANA",
+      "abbreviations": [
+        "Valer.",
+        "VALER.",
+        "valer"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "VARIOLINUM",
+      "abbreviations": [
+        "Vario.",
+        "VARIO.",
+        "vario"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "VERATRUM VIRIDE",
+      "abbreviations": [
+        "Verat-v.",
+        "VERAT-V.",
+        "verat-v"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "VERATRUM ALBUM",
+      "abbreviations": [
+        "Verat.",
+        "VERAT.",
+        "verat"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "VERBASCUM THAPSUS",
+      "abbreviations": [
+        "Verb.",
+        "VERB.",
+        "verb"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "VESPA CRABRO",
+      "abbreviations": [
+        "Vesp.",
+        "VESP.",
+        "vesp"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "VIBURNUM OPULUS",
+      "abbreviations": [
+        "Vib.",
+        "VIB.",
+        "vib"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "VINCA MINOR",
+      "abbreviations": [
+        "Vinc.",
+        "VINC.",
+        "vinc"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "VIOLA ODORATA",
+      "abbreviations": [
+        "Viol-o.",
+        "VIOL-O.",
+        "viol-o"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "VIOLA TRICOLOR",
+      "abbreviations": [
+        "Viol-t.",
+        "VIOL-T.",
+        "viol-t"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "VIPERA",
+      "abbreviations": [
+        "Vip.",
+        "VIP.",
+        "vip"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "VISCUM ALBUM",
+      "abbreviations": [
+        "Visc.",
+        "VISC.",
+        "visc"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "WIESBADEN",
+      "abbreviations": [
+        "Wies.",
+        "WIES.",
+        "wies"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "WILDBAD",
+      "abbreviations": [
+        "Wild.",
+        "WILD.",
+        "wild"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "WYETHIA HELENIOIDES",
+      "abbreviations": [
+        "Wye.",
+        "WYE.",
+        "wye"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "XANTHOXYLUM FRAXINEUM",
+      "abbreviations": [
+        "Xan.",
+        "XAN.",
+        "xan"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "YUCCA",
+      "abbreviations": [
+        "Yuc.",
+        "YUC.",
+        "yuc"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ZINCUM ACETICUM",
+      "abbreviations": [
+        "Zinc-ac.",
+        "ZINC-AC.",
+        "zinc-ac"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ZINCUM CYANATUM",
+      "abbreviations": [
+        "Zinc-c.",
+        "ZINC-C.",
+        "zinc-c"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ZINCUM MURIATICUM",
+      "abbreviations": [
+        "Zinc-m.",
+        "ZINC-M.",
+        "zinc-m"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ZINCUM OXYDATUM",
+      "abbreviations": [
+        "Zinc-ox.",
+        "ZINC-OX.",
+        "zinc-ox"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ZINCUM SULPHURICUM",
+      "abbreviations": [
+        "Zinc-s.",
+        "ZINC-S.",
+        "zinc-s"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ZINCUM METALLICUM",
+      "abbreviations": [
+        "Zinc.",
+        "ZINC.",
+        "zinc"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ZINGIBER",
+      "abbreviations": [
+        "Zing.",
+        "ZING.",
+        "zing"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ZIZIA AUREA",
+      "abbreviations": [
+        "Ziz.",
+        "ZIZ.",
+        "ziz"
+      ],
+      "aliases": [],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "ARSENICUM ALBUM",
+      "abbreviations": [
+        "Ars.",
+        "ARS.",
+        "ars",
+        "Ars-alb.",
+        "ARS-ALB.",
+        "ars-alb"
+      ],
+      "aliases": [
+        "ARS ALB",
+        "ARSENICUM ALB"
+      ],
+      "sources": [
+        "Kent"
+      ]
+    },
+    {
+      "canonicalName": "GRAPHITES",
+      "abbreviations": [
+        "Graph.",
+        "GRAPH.",
+        "graph"
+      ],
+      "aliases": [],
+      "sources": [
+        "Clarke"
+      ]
+    },
+    {
+      "canonicalName": "HEPAR SULPHURIS",
+      "abbreviations": [
+        "Hep.",
+        "HEP.",
+        "hep"
+      ],
+      "aliases": [
+        "HEPAR SULPH"
+      ],
+      "sources": [
+        "Clarke"
+      ]
+    },
+    {
+      "canonicalName": "ARGENTUM NITRICUM",
+      "abbreviations": [
+        "Arg-n.",
+        "ARG-N.",
+        "arg-n"
+      ],
+      "aliases": [],
+      "sources": [
+        "Clarke"
+      ]
+    },
+    {
+      "canonicalName": "CARCINOSINUM",
+      "abbreviations": [],
+      "aliases": [],
+      "sources": [
+        "Clarke"
+      ]
+    },
+    {
+      "canonicalName": "LAC HUMANUM",
+      "abbreviations": [],
+      "aliases": [],
+      "sources": [
+        "Clarke"
+      ]
+    },
+    {
+      "canonicalName": "GUAIACUM",
+      "abbreviations": [],
+      "aliases": [],
+      "sources": [
+        "Clarke"
+      ]
+    }
+  ]
+}

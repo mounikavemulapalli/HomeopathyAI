@@ -1,0 +1,42 @@
+{
+  "thirstless": [
+    "no thirst",
+    "thirst absent",
+    "does not drink water"
+  ],
+  "chilly": [
+    "feels cold",
+    "cold patient",
+    "sensitive to cold"
+  ],
+  "scanty menses": [
+    "less periods",
+    "reduced menstrual flow",
+    "hypomenorrhoea"
+  ],
+  "weeping tendency": [
+    "weeping",
+    "weeps",
+    "tearful"
+  ],
+  "weeps easily": [
+    "weeping",
+    "weeps",
+    "tearful"
+  ],
+  "long lasting grief": [
+    "grief",
+    "sorrow",
+    "ailments from grief"
+  ],
+  "grief": [
+    "grief",
+    "sorrow",
+    "ailments from grief"
+  ],
+  "throbbing headache worse by sun heat": [
+    "head pain sun",
+    "head throbbing sun",
+    "head pain heat of sun"
+  ]
+}

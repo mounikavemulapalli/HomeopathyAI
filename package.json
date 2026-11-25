@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "flexsearch": "^0.8.212",
+    "jest": "^30.4.2",
+    "node-fetch": "^3.3.2",
+    "supertest": "^7.2.2"
+  }
+}

@@ -1,0 +1,90 @@
+﻿[
+    {
+        "canonicalName":  "Mind, depression",
+        "synonyms":  [
+                         "depression",
+                         "sadness",
+                         "melancholy",
+                         "despair"
+                     ],
+        "searchTerms":  [
+                            "depression",
+                            "depressed feeling",
+                            "mental sadness",
+                            "feeling down",
+                            "low mood"
+                        ],
+        "commonExpressions":  [
+                                  "feeling down",
+                                  "depressed mood",
+                                  "always sad",
+                                  "no joy"
+                              ],
+        "suggestedPrimaryChapter":  "MIND",
+        "suggestedSecondaryChapters":  [
+                                           "GENERALITIES"
+                                       ]
+    },
+    {
+        "canonicalName":  "Mind, anxiety",
+        "synonyms":  [
+                         "anxiety",
+                         "nervousness",
+                         "apprehension"
+                     ],
+        "searchTerms":  [
+                            "anxiety",
+                            "anxious feeling",
+                            "nervous",
+                            "worried"
+                        ],
+        "commonExpressions":  [
+                                  "feeling anxious",
+                                  "constant worry"
+                              ],
+        "suggestedPrimaryChapter":  "MIND",
+        "suggestedSecondaryChapters":  [
+                                           "GENERALITIES"
+                                       ]
+    },
+    {
+        "canonicalName":  "Head, headache",
+        "synonyms":  [
+                         "headache",
+                         "cephalalgia"
+                     ],
+        "searchTerms":  [
+                            "headache",
+                            "head pain",
+                            "aching head"
+                        ],
+        "commonExpressions":  [
+                                  "got a headache",
+                                  "my head hurts"
+                              ],
+        "suggestedPrimaryChapter":  "HEAD",
+        "suggestedSecondaryChapters":  [
+                                           "GENERALITIES"
+                                       ]
+    },
+    {
+        "canonicalName":  "Chest, chest pain",
+        "synonyms":  [
+                         "chest pain",
+                         "pain in chest",
+                         "painful chest"
+                     ],
+        "searchTerms":  [
+                            "chest pain",
+                            "pain in chest"
+                        ],
+        "commonExpressions":  [
+                                  "my chest hurts",
+                                  "pain in my chest"
+                              ],
+        "suggestedPrimaryChapter":  "CHEST",
+        "suggestedSecondaryChapters":  [
+                                           "GENERALITIES"
+                                       ]
+    }
+]

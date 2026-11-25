@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "timestamp": "2026-05-23T14:25:03.808Z",
+  "files": {
+    "bbcr_master_db.json": "eeaca04c6d8d829fead43a966cbc86e66b236ee6cde7b54f9a8d3f11e0f93d11",
+    "boger_master_db.json": "f33e7c5a7b1fd7d73e39c8dc05950611a71135468356caad423b5cc09c4d4bdd",
+    "clarke_master_db.json": "463b3c6a25a873dda31c6b595ca46f6eb2224d281e3957e0e8fb15d96b406354",
+    "kent_master_db.json": "728ffc2e7f405803e187dbe1076dc5298d063c971541f678ae07d3838b70df73"
+  }
+}

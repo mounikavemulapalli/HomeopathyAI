@@ -1,0 +1,492 @@
+﻿{
+  "reportType": "Remedy Registry Unresolved Mapping Audit",
+  "createdAt": "2026-10-22T05:05:00.289Z",
+  "sourceDatabase": "database/kent_master_db.json",
+  "registryFile": "data/remedyRegistry.json",
+  "registryEntryCount": 612,
+  "sourceRubricCount": 68230,
+  "unresolvedCount": 17,
+  "verifiedNewMappings": 0,
+  "notes": [
+    "Read-only audit of source data and registry.",
+    "Candidate tokens are for investigation only, not approved mappings.",
+    "No registry, loader, rubric, or remedy score was changed."
+  ],
+  "items": [
+    {
+      "canonicalName": "ANISUM STELLATUM",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Anis.",
+        "ANIS.",
+        "anis"
+      ],
+      "registryAliases": [],
+      "registrySources": [
+        "Kent"
+      ],
+      "candidateSourceTokens": [
+        {
+          "token": "anis",
+          "occurrences": 0
+        }
+      ],
+      "auditStatus": "UNRESOLVED_MAPPING",
+      "reason": "Candidate token occurrence alone does not establish canonical remedy identity."
+    },
+    {
+      "canonicalName": "BISMUTHUM OXIDUM",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Bism-ox.",
+        "BISM-OX.",
+        "bism-ox"
+      ],
+      "registryAliases": [],
+      "registrySources": [
+        "Kent"
+      ],
+      "candidateSourceTokens": [
+        {
+          "token": "bism",
+          "occurrences": 734
+        },
+        {
+          "token": "bism-ox",
+          "occurrences": 0
+        }
+      ],
+      "auditStatus": "UNRESOLVED_MAPPING",
+      "reason": "Candidate token occurrence alone does not establish canonical remedy identity."
+    },
+    {
+      "canonicalName": "CAINCA",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Cain.",
+        "CAIN.",
+        "cain"
+      ],
+      "registryAliases": [],
+      "registrySources": [
+        "Kent"
+      ],
+      "candidateSourceTokens": [
+        {
+          "token": "cain",
+          "occurrences": 0
+        }
+      ],
+      "auditStatus": "UNRESOLVED_MAPPING",
+      "reason": "Candidate token occurrence alone does not establish canonical remedy identity."
+    },
+    {
+      "canonicalName": "CALTHA PALUSTRIS",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Calt.",
+        "CALT.",
+        "calt"
+      ],
+      "registryAliases": [],
+      "registrySources": [
+        "Kent"
+      ],
+      "candidateSourceTokens": [
+        {
+          "token": "calt",
+          "occurrences": 0
+        }
+      ],
+      "auditStatus": "UNRESOLVED_MAPPING",
+      "reason": "Candidate token occurrence alone does not establish canonical remedy identity."
+    },
+    {
+      "canonicalName": "CETRARARIA ISLANDICA",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Cet.",
+        "CET.",
+        "cet"
+      ],
+      "registryAliases": [],
+      "registrySources": [
+        "Kent"
+      ],
+      "candidateSourceTokens": [
+        {
+          "token": "cet",
+          "occurrences": 0
+        }
+      ],
+      "auditStatus": "UNRESOLVED_MAPPING",
+      "reason": "Candidate token occurrence alone does not establish canonical remedy identity."
+    },
+    {
+      "canonicalName": "CHENOPODIUM ANTHELMINTICUM",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Chen-an.",
+        "CHEN-AN.",
+        "chen-an"
+      ],
+      "registryAliases": [],
+      "registrySources": [
+        "Kent"
+      ],
+      "candidateSourceTokens": [
+        {
+          "token": "chen",
+          "occurrences": 13
+        },
+        {
+          "token": "chen-a",
+          "occurrences": 38
+        },
+        {
+          "token": "chen-v",
+          "occurrences": 3
+        },
+        {
+          "token": "chen-an",
+          "occurrences": 0
+        }
+      ],
+      "auditStatus": "UNRESOLVED_MAPPING",
+      "reason": "Candidate token occurrence alone does not establish canonical remedy identity."
+    },
+    {
+      "canonicalName": "CITRUS LIMONUM",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Cit-l.",
+        "CIT-L.",
+        "cit-l"
+      ],
+      "registryAliases": [],
+      "registrySources": [
+        "Kent"
+      ],
+      "candidateSourceTokens": [
+        {
+          "token": "cit-l",
+          "occurrences": 0
+        },
+        {
+          "token": "cit-v",
+          "occurrences": 50
+        },
+        {
+          "token": "cit-ac",
+          "occurrences": 2
+        }
+      ],
+      "auditStatus": "UNRESOLVED_MAPPING",
+      "reason": "Candidate token occurrence alone does not establish canonical remedy identity."
+    },
+    {
+      "canonicalName": "COCAINUM MURIATICUM",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Cocain-m.",
+        "COCAIN-M.",
+        "cocain-m"
+      ],
+      "registryAliases": [],
+      "registrySources": [
+        "Kent"
+      ],
+      "candidateSourceTokens": [
+        {
+          "token": "cocain-m",
+          "occurrences": 0
+        },
+        {
+          "token": "coca",
+          "occurrences": 407
+        },
+        {
+          "token": "cocaine",
+          "occurrences": 8
+        }
+      ],
+      "auditStatus": "UNRESOLVED_MAPPING",
+      "reason": "Candidate token occurrence alone does not establish canonical remedy identity."
+    },
+    {
+      "canonicalName": "CUPRUM NITRICUM",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Cupr-n.",
+        "CUPR-N.",
+        "cupr-n"
+      ],
+      "registryAliases": [],
+      "registrySources": [
+        "Kent"
+      ],
+      "candidateSourceTokens": [
+        {
+          "token": "cupr-n",
+          "occurrences": 0
+        },
+        {
+          "token": "cupr",
+          "occurrences": 2464
+        },
+        {
+          "token": "cupr-ac",
+          "occurrences": 46
+        },
+        {
+          "token": "cupr-ar",
+          "occurrences": 303
+        },
+        {
+          "token": "cupr-s",
+          "occurrences": 78
+        }
+      ],
+      "auditStatus": "UNRESOLVED_MAPPING",
+      "reason": "Candidate token occurrence alone does not establish canonical remedy identity."
+    },
+    {
+      "canonicalName": "IRIS GERMANICA",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Ir-g.",
+        "IR-G.",
+        "ir-g"
+      ],
+      "registryAliases": [],
+      "registrySources": [
+        "Kent"
+      ],
+      "candidateSourceTokens": [
+        {
+          "token": "ir-g",
+          "occurrences": 0
+        },
+        {
+          "token": "iris",
+          "occurrences": 776
+        },
+        {
+          "token": "ir-f",
+          "occurrences": 17
+        },
+        {
+          "token": "ir-fl",
+          "occurrences": 5
+        },
+        {
+          "token": "ir-foe",
+          "occurrences": 32
+        }
+      ],
+      "auditStatus": "UNRESOLVED_MAPPING",
+      "reason": "Candidate token occurrence alone does not establish canonical remedy identity."
+    },
+    {
+      "canonicalName": "MAGNETIS POLI AMBO",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Mag-p-a.",
+        "MAG-P-A.",
+        "mag-p-a"
+      ],
+      "registryAliases": [
+        "MAGNETIS POLI. AMBO."
+      ],
+      "registrySources": [
+        "Kent"
+      ],
+      "candidateSourceTokens": [
+        {
+          "token": "mag-p-a",
+          "occurrences": 0
+        },
+        {
+          "token": "mag-p",
+          "occurrences": 407
+        },
+        {
+          "token": "mag-c",
+          "occurrences": 3120
+        },
+        {
+          "token": "mag-m",
+          "occurrences": 2490
+        },
+        {
+          "token": "mag-s",
+          "occurrences": 928
+        }
+      ],
+      "auditStatus": "UNRESOLVED_MAPPING",
+      "reason": "Candidate token occurrence alone does not establish canonical remedy identity."
+    },
+    {
+      "canonicalName": "PHASEOLUS NANUS",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Phase.",
+        "PHASE.",
+        "phase"
+      ],
+      "registryAliases": [],
+      "registrySources": [
+        "Kent"
+      ],
+      "candidateSourceTokens": [
+        {
+          "token": "phase",
+          "occurrences": 0
+        }
+      ],
+      "auditStatus": "UNRESOLVED_MAPPING",
+      "reason": "Candidate token occurrence alone does not establish canonical remedy identity."
+    },
+    {
+      "canonicalName": "SOLANUM OLERACEUM",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Sol-o.",
+        "SOL-O.",
+        "sol-o"
+      ],
+      "registryAliases": [],
+      "registrySources": [
+        "Kent"
+      ],
+      "candidateSourceTokens": [
+        {
+          "token": "sol-o",
+          "occurrences": 0
+        },
+        {
+          "token": "sol-n",
+          "occurrences": 289
+        },
+        {
+          "token": "sol-t-ae",
+          "occurrences": 141
+        },
+        {
+          "token": "sol-t-",
+          "occurrences": 2
+        }
+      ],
+      "auditStatus": "UNRESOLVED_MAPPING",
+      "reason": "Candidate token occurrence alone does not establish canonical remedy identity."
+    },
+    {
+      "canonicalName": "STACHYS BETONICA",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Stach.",
+        "STACH.",
+        "stach"
+      ],
+      "registryAliases": [],
+      "registrySources": [
+        "Kent"
+      ],
+      "candidateSourceTokens": [
+        {
+          "token": "stach",
+          "occurrences": 0
+        }
+      ],
+      "auditStatus": "UNRESOLVED_MAPPING",
+      "reason": "Candidate token occurrence alone does not establish canonical remedy identity."
+    },
+    {
+      "canonicalName": "TANNINUM",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Tann.",
+        "TANN.",
+        "tann"
+      ],
+      "registryAliases": [],
+      "registrySources": [
+        "Kent"
+      ],
+      "candidateSourceTokens": [
+        {
+          "token": "tann",
+          "occurrences": 0
+        },
+        {
+          "token": "tanac",
+          "occurrences": 36
+        }
+      ],
+      "auditStatus": "UNRESOLVED_MAPPING",
+      "reason": "Candidate token occurrence alone does not establish canonical remedy identity."
+    },
+    {
+      "canonicalName": "TUSSILAGO FRAGRANS",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Tus-f.",
+        "TUS-F.",
+        "tus-f"
+      ],
+      "registryAliases": [],
+      "registrySources": [
+        "Kent"
+      ],
+      "candidateSourceTokens": [
+        {
+          "token": "tus-f",
+          "occurrences": 0
+        },
+        {
+          "token": "tus-p",
+          "occurrences": 14
+        }
+      ],
+      "auditStatus": "UNRESOLVED_MAPPING",
+      "reason": "Candidate token occurrence alone does not establish canonical remedy identity."
+    },
+    {
+      "canonicalName": "ZINCUM CYANATUM",
+      "registryFound": true,
+      "registryAbbreviations": [
+        "Zinc-c.",
+        "ZINC-C.",
+        "zinc-c"
+      ],
+      "registryAliases": [],
+      "registrySources": [
+        "Kent"
+      ],
+      "candidateSourceTokens": [
+        {
+          "token": "zinc-c",
+          "occurrences": 0
+        },
+        {
+          "token": "zinc",
+          "occurrences": 4839
+        },
+        {
+          "token": "zinc-m",
+          "occurrences": 21
+        },
+        {
+          "token": "zinc-s",
+          "occurrences": 20
+        },
+        {
+          "token": "zinc-ox",
+          "occurrences": 3
+        }
+      ],
+      "auditStatus": "UNRESOLVED_MAPPING",
+      "reason": "Candidate token occurrence alone does not establish canonical remedy identity."
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+/**
+ * ===========================
+ *    Modern Navbar Styling
+ * ===========================
+ *
+ * @format
+ */
+
+.navbar {
+  background: #ffffff;
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  padding: 10px 0px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.navbar-container {
+  max-width: 1000px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* LOGO */
+.navbar-logo {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  column-gap: 10px;
+}
+
+.navbar-logo h1 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #1d4ed8;
+  margin: 0;
+  line-height: 1.1;
+}
+
+.navbar-logo .tagline {
+  font-size: 12px;
+  color: #4276de;
+  font-weight: 600;
+  margin: 0;
+  line-height: 1.1;
+}
+
+.logo-img {
+  height: 60px;
+  width: 100px;
+}
+
+.navbar-logo .logo-img {
+  grid-row: 1 / span 2;
+}
+
+/* ===========================
+   NAV LINKS
+=========================== */
+.navbar-links {
+  display: flex;
+  list-style: none;
+  gap: 25px;
+  align-items: center;
+  transition: all 0.35s ease;
+}
+
+/* LEFT ALIGN NAV LINKS */
+.navbar-links li {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-links a {
+  text-decoration: none;
+  color: #374151;
+  font-weight: 500;
+  padding: 6px 2px;
+  position: relative;
+  transition: color 0.3s ease;
+}
+
+/* Underline Animation */
+.navbar-links a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 0%;
+  height: 2px;
+  background: #2563eb;
+  transition: width 0.3s ease;
+}
+
+.navbar-links a:hover::after {
+  width: 100%;
+}
+
+/* Active Link */
+.active-link {
+  color: #1d4ed8 !important;
+}
+.active-link::after {
+  width: 100%;
+}
+
+/* ===========================
+   SIGNUP BTN
+=========================== */
+.signup-btn {
+  background: #2563eb;
+  padding: 6px 14px;
+  color: white !important;
+  border-radius: 6px;
+  transition: 0.3s ease;
+}
+
+.signup-btn:hover {
+  background: #1e3fae;
+  transform: translateY(-2px);
+}
+
+/* LOGOUT BUTTON */
+.logout-btn {
+  background: none;
+  border: none;
+  color: red;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.logout-btn:hover {
+  transform: translateY(-2px);
+  color: #b30000;
+  text-decoration: underline;
+}
+
+/* ===========================
+   HAMBURGER MENU
+=========================== */
+.hamburger {
+  display: none;
+  flex-direction: column;
+  cursor: pointer;
+  gap: 4px;
+}
+
+.bar {
+  width: 26px;
+  height: 3px;
+  background: #333;
+  border-radius: 5px;
+  transition: 0.3s ease;
+}
+
+/* Hamburger animation */
+.hamburger.open .bar:nth-child(1) {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+.hamburger.open .bar:nth-child(2) {
+  opacity: 0;
+}
+.hamburger.open .bar:nth-child(3) {
+  transform: rotate(-45deg) translate(5px, -5px);
+}
+
+/* ===========================
+   MOBILE VIEW
+=========================== */
+@media (max-width: 768px) {
+  .hamburger {
+    display: flex;
+  }
+
+  .navbar-links {
+    position: absolute;
+    top: 70px;
+    left: 0;
+    width: 100%;
+    flex-direction: column;
+    background: white;
+    padding: 20px 0;
+    display: none;
+
+    /* smooth slide animation */
+    transform: translateY(-20px);
+    opacity: 0;
+  }
+
+  .navbar-links.open {
+    display: flex;
+    animation: slideDown 0.35s ease forwards;
+  }
+
+  @keyframes slideDown {
+    0% {
+      transform: translateY(-20px);
+      opacity: 0;
+    }
+    100% {
+      transform: translateY(0px);
+      opacity: 1;
+    }
+  }
+
+  .navbar-links li {
+    width: 100%;
+    text-align: center;
+    padding: 12px 0;
+  }
+}

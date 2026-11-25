@@ -1,0 +1,124 @@
+/** @format */
+
+import React from "react";
+import { Link } from "react-router-dom";
+import doctorImg from "../assets/doctor.jpg";
+import logo from "../assets/Bhanulogo.jpg";
+
+const Home = () => {
+  return (
+    <div className='bg-gradient-to-br from-blue-50 to-purple-100 min-h-screen text-gray-800'>
+      {/* Hero Section */}
+      <div className='flex flex-col md:flex-row max-w-7xl mx-auto px-6 pt-0 pb-16 items-center bg-white rounded-3xl shadow-xl'>
+        <div className='w-full md:w-4/5'>
+          <h1 className='text-4xl md:text-5xl font-bold text-blue-900 mb-4'>
+            🌿 Welcome to HomeoEra Neo
+          </h1>
+          <p className='text-lg text-purple-600 font-semibold mb-2'>
+            Natural Healing. Trusted Expertise. Proven Results.
+          </p>
+          <p className='text-gray-700 mb-6'>
+            Combining traditional homeopathy with modern tools to provide
+            holistic care. 15+ years of service to over 10,000 satisfied
+            patients.
+          </p>
+          <div className='flex flex-wrap gap-4'>
+            <Link
+              to='/add-case'
+              className='bg-indigo-600 hover:bg-indigo-700 text-white px-6 py-3 rounded-lg font-semibold transition'
+            >
+              ➕ Add New Case
+            </Link>
+            <Link
+              to='/cases'
+              className='bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-lg font-semibold transition'
+            >
+              📋 View All Cases
+            </Link>
+          </div>
+        </div>
+        <div className='w-full md:w-1/5 mt-8 md:mt-0 flex justify-center'>
+          <img
+            src={logo}
+            alt='Sri Surya Logo'
+            className='w-36 h-36 md:w-44 md:h-44 rounded-full object-cover border-4 border-purple-300 shadow-md'
+          />
+        </div>
+      </div>
+
+      {/* Why Choose Us */}
+      <section className='bg-white py-16 px-6'>
+        <h2 className='text-3xl font-bold text-center text-blue-800 mb-10'>
+          Why Choose Us?
+        </h2>
+        <div className='max-w-4xl mx-auto grid grid-cols-1 sm:grid-cols-2 gap-6 text-center'>
+          <div className='bg-blue-50 p-6 rounded-xl shadow'>
+            🧠 <span className='font-semibold'>AI-Supported Diagnosis</span>
+          </div>
+          <div className='bg-blue-50 p-6 rounded-xl shadow'>
+            👨‍⚕️ <span className='font-semibold'>7+ Years of Experience</span>
+          </div>
+          <div className='bg-blue-50 p-6 rounded-xl shadow'>
+            📱 <span className='font-semibold'>Online Consultations</span>
+          </div>
+          <div className='bg-blue-50 p-6 rounded-xl shadow'>
+            🌿 <span className='font-semibold'>Natural, Side-Effect Free</span>
+          </div>
+        </div>
+      </section>
+
+      {/* Contact Section */}
+      <section className='py-16 px-6 text-center bg-green-50'>
+        <h2 className='text-3xl font-bold text-blue-800 mb-6'>Contact Us</h2>
+        <p className='text-gray-800 mb-2'>
+          📍 Jaggampeta, Andhra Pradesh – 517325
+        </p>
+        <p className='text-gray-800 mb-2'>📞 9494163566</p>
+        <p className='text-gray-800'>📧 bhanuhomeohospital@gmail.com</p>
+      </section>
+
+      {/* 🔹 Doctors Section */}
+      <section className='py-16 px-6 bg-[#f0f7ff]'>
+        <h2 className='text-3xl font-bold text-center text-blue-800 mb-10'>
+          Our Homeopathy Doctors
+        </h2>
+
+        <div className='max-w-6xl mx-auto grid gap-8 md:grid-cols-2 lg:grid-cols-3'>
+          {/* Doctor Card Component */}
+          {[
+            { name: "Dr. V. Manidhar, BHMS", location: "Vizag" },
+            { name: "Dr. N. Shalini, M.D.", location: "Draksharamam" },
+            { name: "Dr. T. Phani Kumar, BHMS", location: "Jaggampeta" },
+            { name: "Dr. A. Vani Bala, BHMS", location: "Gokavaram" },
+            { name: "Dr. M. S. Krishna Kumari, BHMS", location: "Rajahmundry" },
+            { name: "Dr. M. V. V. Naresh, BHMS", location: "Rajahmundry" },
+            { name: "Dr. M. Lakshmi, BHMS", location: "Kovvur" },
+            { name: "Dr. N. Santhi Sri, BHMS", location: "Dowleswaram" },
+            { name: "Dr. B. S. Subrahmanyam, BHMS", location: "Rajahmundry" },
+            { name: "Dr. P. Lingaswamy, BHMS", location: "Rajahmundry" },
+          ].map((doc, index) => (
+            <div
+              key={index}
+              className='bg-white p-6 rounded-xl shadow-md hover:shadow-xl transition-all duration-300 flex items-center gap-5 border border-blue-100'
+            >
+              <img
+                src='/assets/doctor.png'
+                alt={doc.name}
+                className='w-20 h-20 rounded-full object-cover border-2 border-blue-300 shadow-sm'
+              />
+
+              <div>
+                <h4 className='font-semibold text-blue-900 text-lg'>
+                  {doc.name}
+                </h4>
+                <p className='text-gray-600 text-sm mt-1'>{doc.location}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+    </div>
+  );
+};
+
+export default Home;

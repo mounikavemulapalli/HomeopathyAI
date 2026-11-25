@@ -1,0 +1,4313 @@
+[
+  {
+    "candidate": "nit-ac",
+    "count": 171,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_ABUSIVE",
+        "chapter": "MIND",
+        "rubric": "ABUSIVE",
+        "first": "nit-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_DESPAIR",
+        "chapter": "MIND",
+        "rubric": "DESPAIR",
+        "first": "nit-",
+        "next": "ac",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_MIND_DISCONTENTED_DISPLEASED_DISSATISFIED_ETC",
+        "chapter": "MIND",
+        "rubric": "DISCONTENTED , displeased, dissatisfied, etc.",
+        "first": "nit-",
+        "next": "ac",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "nat-m",
+    "count": 168,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_CONFUSION_OF_MIND_SEE_CONCENTRATION_WAKING_ON",
+        "chapter": "MIND",
+        "rubric": "CONFUSION of mind (See Concentration) > waking, on",
+        "first": "nat-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_CONFUSION_OF_MIND_SEE_CONCENTRATION_READING_WHILE",
+        "chapter": "MIND",
+        "rubric": "CONFUSION of mind (See Concentration) > reading, while",
+        "first": "nat-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_GRIEF_AILMENTS_FROM",
+        "chapter": "MIND",
+        "rubric": "GRIEF > ailments, from",
+        "first": "Nat-",
+        "next": "m",
+        "firstGrade": 3,
+        "nextGrade": 3
+      }
+    ]
+  },
+  {
+    "candidate": "nux-v",
+    "count": 130,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_ANXIETY_FUTURE_ABOUT",
+        "chapter": "MIND",
+        "rubric": "ANXIETY > future, about",
+        "first": "nux-",
+        "next": "v",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_MIND_DEATH_DESIRES_SEE_LOATHING_OF_LIFE_SENSATION_OF",
+        "chapter": "MIND",
+        "rubric": "DEATH , desires (See Loathing of Life) > sensation of",
+        "first": "nux-",
+        "next": "v",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_CHRIST_THINKS_HIMSELF_TO_BE_HIDEOUS",
+        "chapter": "MIND",
+        "rubric": "Christ , thinks himself to be > hideous",
+        "first": "nux-",
+        "next": "v",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "ph-ac",
+    "count": 128,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_ANXIETY_WAKING_ON_3",
+        "chapter": "MIND",
+        "rubric": "ANXIETY > waking, on_3",
+        "first": "ph-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_CONFUSION_OF_MIND_SEE_CONCENTRATION_EVENING",
+        "chapter": "MIND",
+        "rubric": "CONFUSION of mind (See Concentration) > evening",
+        "first": "ph-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_FEAR_SEE_ANXIETY_DEATH_OF",
+        "chapter": "MIND",
+        "rubric": "FEAR (See Anxiety) > death, of",
+        "first": "ph-",
+        "next": "ac",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "kali-c",
+    "count": 111,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_ANXIETY_EVENING",
+        "chapter": "MIND",
+        "rubric": "ANXIETY > evening",
+        "first": "kali-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_FEAR_SEE_ANXIETY",
+        "chapter": "MIND",
+        "rubric": "FEAR (See Anxiety)",
+        "first": "kali-",
+        "next": "c",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_MIND_MISTAKES_IN_CALCULATING_SPEAKING",
+        "chapter": "MIND",
+        "rubric": "MISTAKES in calculating > speaking",
+        "first": "kali-",
+        "next": "c",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "rhus-t",
+    "count": 106,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_ANXIETY_TWILIGHT_IN_THE",
+        "chapter": "MIND",
+        "rubric": "ANXIETY > twilight, in the",
+        "first": "rhus-",
+        "next": "t",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_MIND_CHILDISH_BEHAVIOR_SEE_FOOLISH",
+        "chapter": "MIND",
+        "rubric": "CHILDISH behavior (See Foolish)",
+        "first": "rhus-",
+        "next": "t",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_DELIRIUM_QUIET",
+        "chapter": "MIND",
+        "rubric": "DELIRIUM > quiet",
+        "first": "rhus-",
+        "next": "t",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "carb-an",
+    "count": 86,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_ANXIETY_BED_IN",
+        "chapter": "MIND",
+        "rubric": "ANXIETY > bed, in",
+        "first": "carb-",
+        "next": "an",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_ANXIETY_BED_IN_2",
+        "chapter": "MIND",
+        "rubric": "ANXIETY > bed, in_2",
+        "first": "carb-",
+        "next": "an",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_MEMORY_ACTIVE_SEE_IDEAS_SAY_FOR_WHAT_IS_ABOUT_TO",
+        "chapter": "MIND",
+        "rubric": "MEMORY active (See Ideas) > say, for what is about to",
+        "first": "carb-",
+        "next": "an",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "kali-bi",
+    "count": 82,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_READING_AVERSE_TO",
+        "chapter": "MIND",
+        "rubric": "READING , averse to",
+        "first": "kali-",
+        "next": "bi",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_CHILL_ERUPTION",
+        "chapter": "CHILL",
+        "rubric": "ERUPTION",
+        "first": "kali-",
+        "next": "bi",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_BLINDNESS_FOLLOWED_BY_VIOLENT_HEADACHE_SIGHT_RETURNS_AS_HEADACHE_BECOMES_WORSE",
+        "chapter": "FEVER",
+        "rubric": "PAIN , headache in general > blindness, followed by violent headache, sight returns as headache becomes worse",
+        "first": "Kali-",
+        "next": "bi",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "nat-c",
+    "count": 81,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_ANXIETY_BED_IN",
+        "chapter": "MIND",
+        "rubric": "ANXIETY > bed, in",
+        "first": "nat-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_CHRIST_THINKS_HIMSELF_TO_BE_DEVILS_SEES",
+        "chapter": "MIND",
+        "rubric": "Christ , thinks himself to be > devils, sees",
+        "first": "nat-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_EXCITEMENT_EXCITABLE_MORNING",
+        "chapter": "MIND",
+        "rubric": "EXCITEMENT , excitable > morning",
+        "first": "nat-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "mag-m",
+    "count": 76,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_CAPRICIOUSNESS",
+        "chapter": "MIND",
+        "rubric": "CAPRICIOUSNESS",
+        "first": "mag-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_IRRITABILITY_SEE_ANGER",
+        "chapter": "MIND",
+        "rubric": "IRRITABILITY (See Anger)",
+        "first": "mag-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_IRRITABILITY_SEE_ANGER_COITION_AFTER",
+        "chapter": "MIND",
+        "rubric": "IRRITABILITY (See Anger) > coition, after",
+        "first": "mag-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "carb-v",
+    "count": 76,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_CONFUSION_OF_MIND_SEE_CONCENTRATION_INTOXICATED_AS_IF",
+        "chapter": "MIND",
+        "rubric": "CONFUSION of mind (See Concentration) > intoxicated, as if",
+        "first": "carb-",
+        "next": "v",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_MIND_CONFUSION_OF_MIND_SEE_CONCENTRATION_MENTAL_EXERTION_FROM",
+        "chapter": "MIND",
+        "rubric": "CONFUSION of mind (See Concentration) > mental exertion, from",
+        "first": "carb-",
+        "next": "v",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_MIND_CHRIST_THINKS_HIMSELF_TO_BE_IMAGES_PHANTOMS_SEES_SEE_FACES_FIGURES_MEN_SPECTRES_VISIONS",
+        "chapter": "MIND",
+        "rubric": "Christ , thinks himself to be > images, phantoms, sees (See Faces , Figures , Men , Spectres , Visions )",
+        "first": "carb-",
+        "next": "v",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "sul-ac",
+    "count": 69,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_CONCENTRATION_ACTIVE_DIFFICULT",
+        "chapter": "MIND",
+        "rubric": "CONCENTRATION active > difficult",
+        "first": "sul-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_RESTLESSNESS_NERVOUSNESS",
+        "chapter": "MIND",
+        "rubric": "RESTLESSNESS , nervousness",
+        "first": "sul-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_SADNESS_MENTAL_DEPRESSION",
+        "chapter": "MIND",
+        "rubric": "SADNESS , mental depression",
+        "first": "sul-",
+        "next": "ac",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "mur-ac",
+    "count": 68,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_DULLNESS_SLUGGISHNESS_DIFFICULTY_OF_THINKING_AND_COMPREHENDING",
+        "chapter": "MIND",
+        "rubric": "DULLNESS , sluggishness, difficulty of thinking and comprehending",
+        "first": "mur-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_TALKS_TO_HIMSELF",
+        "chapter": "MIND",
+        "rubric": "TALKS to himself",
+        "first": "mur-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_CHILL_TEMPLE_RIGHT_CRUSTS_SCABS",
+        "chapter": "CHILL",
+        "rubric": "Temple , right > crusts, scabs",
+        "first": "mur-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "mag-c",
+    "count": 61,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_RESERVED",
+        "chapter": "MIND",
+        "rubric": "RESERVED",
+        "first": "mag-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_RESTLESSNESS_NERVOUSNESS_INTERNAL",
+        "chapter": "MIND",
+        "rubric": "RESTLESSNESS , nervousness > internal",
+        "first": "mag-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_SADNESS_MENTAL_DEPRESSION_EVENING",
+        "chapter": "MIND",
+        "rubric": "SADNESS , mental depression > evening",
+        "first": "mag-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "nux-m",
+    "count": 57,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_CONFUSION_OF_MIND_SEE_CONCENTRATION_OPEN_AIR_IN",
+        "chapter": "MIND",
+        "rubric": "CONFUSION of mind (See Concentration) > open air, in",
+        "first": "Nux-",
+        "next": "m",
+        "firstGrade": 3,
+        "nextGrade": 3
+      },
+      {
+        "id": "KENT_MIND_CHRIST_THINKS_HIMSELF_TO_BE_FIGURES_SEES",
+        "chapter": "MIND",
+        "rubric": "Christ , thinks himself to be > figures, sees",
+        "first": "nux-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_INDIFFERENCE_APATHY_ETC_EVERYTHING_TO",
+        "chapter": "MIND",
+        "rubric": "INDIFFERENCE , apathy, etc. > everything, to",
+        "first": "nux-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "bar-c",
+    "count": 49,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_FEAR_SEE_ANXIETY_EVIL_OF",
+        "chapter": "MIND",
+        "rubric": "FEAR (See Anxiety) > evil of",
+        "first": "bar-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_SADNESS_MENTAL_DEPRESSION_MORNING",
+        "chapter": "MIND",
+        "rubric": "SADNESS , mental depression > morning",
+        "first": "bar-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_AMEL_79",
+        "chapter": "FEVER",
+        "rubric": "PAIN , headache in general > amel._79",
+        "first": "bar-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "kali-n",
+    "count": 47,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_COUGHING_ON",
+        "chapter": "FEVER",
+        "rubric": "PAIN , headache in general > coughing, on",
+        "first": "kali-",
+        "next": "n",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_OCCIPUT_24",
+        "chapter": "FEVER",
+        "rubric": "Occiput_24",
+        "first": "kali-",
+        "next": "n",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_FOREHEAD_29_NOSE_ABOVE",
+        "chapter": "FEVER",
+        "rubric": "Forehead_29 > nose, above",
+        "first": "kali-",
+        "next": "n",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "fl-ac",
+    "count": 44,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_FANCIES_ABSORBED_IN_EXALTATION_OF",
+        "chapter": "MIND",
+        "rubric": "FANCIES , absorbed in > exaltation of",
+        "first": "fl-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_MEMORY_ACTIVE_SEE_IDEAS_WEAKNESS_OF_SEE_MISTAKES",
+        "chapter": "MIND",
+        "rubric": "MEMORY active (See Ideas) > weakness of (See Mistakes)",
+        "first": "fl-",
+        "next": "ac",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_MIND_RAGE_FURY_SEE_INSANITY_MANIA_DELIRIUM",
+        "chapter": "MIND",
+        "rubric": "RAGE , fury (See Insanity, Mania, Delirium)",
+        "first": "fl-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "nat-s",
+    "count": 44,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_STARTING_STARTLED_FRIGHT_FROM",
+        "chapter": "MIND",
+        "rubric": "STARTING , startled > fright, from",
+        "first": "Nat-",
+        "next": "s",
+        "firstGrade": 3,
+        "nextGrade": 3
+      },
+      {
+        "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_THINKING_OF_PAIN",
+        "chapter": "FEVER",
+        "rubric": "PAIN , headache in general > thinking of pain",
+        "first": "nat-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_FOREHEAD_IN_7_MENTAL_EXERTION",
+        "chapter": "FEVER",
+        "rubric": "Forehead , in_7 > mental exertion",
+        "first": "nat-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "kali-ar",
+    "count": 43,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_ANGER_IRASCIBILITY_SEE_IRRITABILITY_AND_QUARRELSOME",
+        "chapter": "MIND",
+        "rubric": "ANGER , irascibility (See Irritability and Quarrelsome)",
+        "first": "kali-",
+        "next": "ar",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_ANXIETY_NIGHT",
+        "chapter": "MIND",
+        "rubric": "ANXIETY > night",
+        "first": "kali-",
+        "next": "ar",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_FRIGHTENED_EASILY_SEE_STARTING_TRIFLES_AT",
+        "chapter": "MIND",
+        "rubric": "FRIGHTENED easily ( See Starting ) > trifles, at",
+        "first": "kali-",
+        "next": "ar",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "arg-m",
+    "count": 41,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_CONFUSION_OF_MIND_SEE_CONCENTRATION",
+        "chapter": "MIND",
+        "rubric": "CONFUSION of mind (See Concentration)",
+        "first": "arg-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_DISCOURAGED",
+        "chapter": "MIND",
+        "rubric": "DISCOURAGED",
+        "first": "arg-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_SKIN_DRY_INABILITY_TO_PERSPIRE_SEE_INACTIVITY",
+        "chapter": "SKIN",
+        "rubric": "DRY > inability to perspire ( See Inactivity )",
+        "first": "arg-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "carb-ac",
+    "count": 40,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_FEVER_NUMBNESS_SENSATION_OF_SEE_ASLEEP",
+        "chapter": "FEVER",
+        "rubric": "NUMBNESS , sensation of (See Asleep)",
+        "first": "carb-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_FOREHEAD_14",
+        "chapter": "FEVER",
+        "rubric": "Forehead_14",
+        "first": "carb-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_PERSPIRATION_UNREFRESHING",
+        "chapter": "PERSPIRATION",
+        "rubric": "UNREFRESHING",
+        "first": "carb-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "kali-p",
+    "count": 38,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_ANXIETY",
+        "chapter": "MIND",
+        "rubric": "ANXIETY",
+        "first": "Kali-",
+        "next": "p",
+        "firstGrade": 3,
+        "nextGrade": 3
+      },
+      {
+        "id": "KENT_MIND_EXCITEMENT_EXCITABLE_BAD_NEWS_AFTER",
+        "chapter": "MIND",
+        "rubric": "EXCITEMENT , excitable > bad news, after",
+        "first": "kali-",
+        "next": "p",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_EXCITEMENT_EXCITABLE_EMOTIONAL_AILMENTS_FROM",
+        "chapter": "MIND",
+        "rubric": "EXCITEMENT , excitable > emotional, ailments from",
+        "first": "kali-",
+        "next": "p",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "nat-a",
+    "count": 38,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_CHILL_OCCIPUT_7_BLEEDING_AFTER_SCRATCHING",
+        "chapter": "CHILL",
+        "rubric": "Occiput_7 > bleeding after scratching",
+        "first": "nat-",
+        "next": "a",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_HEAD_ON",
+        "chapter": "FEVER",
+        "rubric": "PAIN , headache in general > head, on",
+        "first": "nat-",
+        "next": "a",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_FOREHEAD_IN_7_MORNING",
+        "chapter": "FEVER",
+        "rubric": "Forehead , in_7 > morning",
+        "first": "nat-",
+        "next": "a",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "ran-b",
+    "count": 35,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_ANXIETY_EVENING",
+        "chapter": "MIND",
+        "rubric": "ANXIETY > evening",
+        "first": "ran-",
+        "next": "b",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_CONFUSION_OF_MIND_SEE_CONCENTRATION_MENTAL_EXERTION_FROM",
+        "chapter": "MIND",
+        "rubric": "CONFUSION of mind (See Concentration) > mental exertion, from",
+        "first": "ran-",
+        "next": "b",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_FORGETFUL_SEE_MEMORY",
+        "chapter": "MIND",
+        "rubric": "FORGETFUL (See Memory)",
+        "first": "ran-",
+        "next": "b",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "arg-n",
+    "count": 35,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_CHRIST_THINKS_HIMSELF_TO_BE_WHILE_WALKING_THINKS_HE_WILL_HAVE_A_FIT_OR_DIE_WHICH_MAKES_HIM_WALK_FASTER",
+        "chapter": "MIND",
+        "rubric": "Christ , thinks himself to be > while walking thinks he will have a fit or die, which makes him walk faster",
+        "first": "Arg-",
+        "next": "n",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_MIND_FOOLISH_BEHAVIOR_SEE_CHILDISH",
+        "chapter": "MIND",
+        "rubric": "FOOLISH behavior (See Childish)",
+        "first": "arg-",
+        "next": "n",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_HYSTERIA",
+        "chapter": "MIND",
+        "rubric": "HYSTERIA",
+        "first": "arg-",
+        "next": "n",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "carb-s",
+    "count": 32,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_DULLNESS_SLUGGISHNESS_DIFFICULTY_OF_THINKING_AND_COMPREHENDING_MORNING",
+        "chapter": "MIND",
+        "rubric": "DULLNESS , sluggishness, difficulty of thinking and comprehending > morning",
+        "first": "carb-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_SIT_INCLINATION_TO",
+        "chapter": "MIND",
+        "rubric": "SIT , inclination to",
+        "first": "carb-",
+        "next": "s",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_MIND_WEEPING_TEARFUL_MOOD_ETC_SLEEP_IN_2",
+        "chapter": "MIND",
+        "rubric": "WEEPING , tearful mood, etc. > sleep, in_2",
+        "first": "carb-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "kali-i",
+    "count": 32,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_SHRIEKING_BRAIN_CRY",
+        "chapter": "MIND",
+        "rubric": "SHRIEKING > brain cry",
+        "first": "kali-",
+        "next": "i",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_MIND_STARTING_STARTLED",
+        "chapter": "MIND",
+        "rubric": "STARTING , startled",
+        "first": "kali-",
+        "next": "i",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_MIND_STARTING_STARTLED_FROM_SLEEP",
+        "chapter": "MIND",
+        "rubric": "STARTING , startled > from sleep",
+        "first": "kali-",
+        "next": "i",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "coc-c",
+    "count": 32,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_CHILL_HAIR_BALDNESS_BRISTLING",
+        "chapter": "CHILL",
+        "rubric": "HAIR baldness > bristling",
+        "first": "coc-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_VERTEX_7",
+        "chapter": "FEVER",
+        "rubric": "Vertex_7",
+        "first": "coc-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_HEAVINESS_SEE_PRESSING",
+        "chapter": "FEVER",
+        "rubric": "HEAVINESS (See Pressing)",
+        "first": "coc-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "kali-chl",
+    "count": 31,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_MANIA_MADNESS_SEE_DELIRIUM_INSANITY_RAGE_ETC",
+        "chapter": "MIND",
+        "rubric": "MANIA , madness (See Delirium, Insanity, Rage, etc.)",
+        "first": "Kali-",
+        "next": "chl",
+        "firstGrade": 3,
+        "nextGrade": 3
+      },
+      {
+        "id": "KENT_CHILL_CONGESTION_HYPER_MIA_ETC_SEE_FULLNESS_PULSATION",
+        "chapter": "CHILL",
+        "rubric": "CONGESTION , hyperæmia, etc. (See Fullness, Pulsation)",
+        "first": "kali-",
+        "next": "chl",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_FOREHEAD_IN_7_NOSE_ABOVE_ROOT_OF",
+        "chapter": "FEVER",
+        "rubric": "Forehead , in_7 > nose, above root of",
+        "first": "kali-",
+        "next": "chl",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "merc-c",
+    "count": 29,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_CHILL_CONGESTION_HYPER_MIA_ETC_SEE_FULLNESS_PULSATION_REDNESS_OF_FACE_WITH",
+        "chapter": "CHILL",
+        "rubric": "CONGESTION , hyperæmia, etc. (See Fullness, Pulsation) > redness of face, with",
+        "first": "merc-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_FOREHEAD_IN_7_LEFT_2",
+        "chapter": "FEVER",
+        "rubric": "Forehead , in_7 > left_2",
+        "first": "merc-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_BURNING",
+        "chapter": "FEVER",
+        "rubric": "Burning",
+        "first": "merc-",
+        "next": "c",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "hydr-ac",
+    "count": 29,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_SPOT_PAIN_IN_SMALL",
+        "chapter": "FEVER",
+        "rubric": "PAIN , headache in general > spot, pain in small",
+        "first": "hydr-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EXPECTORATION_CEREBRO_SPINAL_FEVER",
+        "chapter": "EXPECTORATION",
+        "rubric": "CEREBRO-SPINAL fever",
+        "first": "hydr-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EXPECTORATION_PERSPIRATION_IN_GENERAL",
+        "chapter": "EXPECTORATION",
+        "rubric": "PERSPIRATION in general",
+        "first": "hydr-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "ox-ac",
+    "count": 28,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_DULLNESS_SLUGGISHNESS_DIFFICULTY_OF_THINKING_AND_COMPREHENDING_MORNING",
+        "chapter": "MIND",
+        "rubric": "DULLNESS , sluggishness, difficulty of thinking and comprehending > morning",
+        "first": "ox-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_SKIN_WARTS_SEE_EXCRESCENCES",
+        "chapter": "SKIN",
+        "rubric": "WARTS ( See Excrescences )",
+        "first": "ox-",
+        "next": "ac",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_SKIN_PULSE_ABNORMAL_IMPERCEPTIBLE_ALMOST",
+        "chapter": "SKIN",
+        "rubric": "PULSE abnormal > imperceptible, almost",
+        "first": "ox-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "kali-s",
+    "count": 28,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_INDOLENCE_AVERSION_TO_WORK",
+        "chapter": "MIND",
+        "rubric": "INDOLENCE , aversion to work",
+        "first": "kali-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_IRRITABILITY_SEE_ANGER_EVENING",
+        "chapter": "MIND",
+        "rubric": "IRRITABILITY (See Anger) > evening",
+        "first": "kali-",
+        "next": "s",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_MIND_MOOD_AGREEABLE_CHANGEABLE_VARIABLE_ETC",
+        "chapter": "MIND",
+        "rubric": "MOOD , agreeable > changeable, variable, etc.",
+        "first": "kali-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "eup-per",
+    "count": 27,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_FEVER_OCCIPUT_18",
+        "chapter": "FEVER",
+        "rubric": "Occiput_18",
+        "first": "eup-",
+        "next": "per",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_MORNING",
+        "chapter": "FEVER",
+        "rubric": "PAIN , headache in general > morning",
+        "first": "eup-",
+        "next": "per",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_PULSATING",
+        "chapter": "FEVER",
+        "rubric": "PAIN , headache in general > pulsating",
+        "first": "eup-",
+        "next": "per",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "nat-p",
+    "count": 26,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_CONVERSATION_AGG_SEE_TALKING",
+        "chapter": "MIND",
+        "rubric": "CONVERSATION agg. (See Talking)",
+        "first": "nat-",
+        "next": "p",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_STARTING_STARTLED",
+        "chapter": "MIND",
+        "rubric": "STARTING , startled",
+        "first": "nat-",
+        "next": "p",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_MIND_STARTING_STARTLED_NOISE_FROM",
+        "chapter": "MIND",
+        "rubric": "STARTING , startled > noise, from",
+        "first": "Nat-",
+        "next": "p",
+        "firstGrade": 3,
+        "nextGrade": 3
+      }
+    ]
+  },
+  {
+    "candidate": "lac-c",
+    "count": 26,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_MEMORY_ACTIVE_SEE_IDEAS_WEAKNESS_OF_SEE_MISTAKES",
+        "chapter": "MIND",
+        "rubric": "MEMORY active (See Ideas) > weakness of (See Mistakes)",
+        "first": "lac-",
+        "next": "c",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_MIND_RESTLESSNESS_NERVOUSNESS_NIGHT",
+        "chapter": "MIND",
+        "rubric": "RESTLESSNESS , nervousness > night",
+        "first": "lac-",
+        "next": "c",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_MIND_SIT_INCLINATION_TO",
+        "chapter": "MIND",
+        "rubric": "SIT , inclination to",
+        "first": "lac-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "ol-an",
+    "count": 26,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_FEVER_OCCIPUT_22_EATING_AFTER",
+        "chapter": "FEVER",
+        "rubric": "Occiput_22 > eating, after",
+        "first": "ol-",
+        "next": "an",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_OCCIPUT_23",
+        "chapter": "FEVER",
+        "rubric": "Occiput_23",
+        "first": "ol-",
+        "next": "an",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_TEARING_RENDING_DRAWING",
+        "chapter": "FEVER",
+        "rubric": "Tearing , rending > drawing",
+        "first": "ol-",
+        "next": "an",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "crot-h",
+    "count": 25,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_ANXIETY_FEVER_DURING",
+        "chapter": "MIND",
+        "rubric": "ANXIETY > fever, during",
+        "first": "crot-",
+        "next": "h",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_FOREHEAD_IN_7_EYES_TO",
+        "chapter": "FEVER",
+        "rubric": "Forehead , in_7 > eyes, to",
+        "first": "crot-",
+        "next": "h",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_FEVER_OCCIPUT_30",
+        "chapter": "FEVER",
+        "rubric": "Occiput_30",
+        "first": "crot-",
+        "next": "h",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "calc-p",
+    "count": 25,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_BED_IN",
+        "chapter": "FEVER",
+        "rubric": "PAIN , headache in general > bed, in",
+        "first": "calc-",
+        "next": "p",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_AFTERNOON",
+        "chapter": "FEVER",
+        "rubric": "PAIN , headache in general > afternoon",
+        "first": "calc-",
+        "next": "p",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_RHEUMATIC",
+        "chapter": "FEVER",
+        "rubric": "PAIN , headache in general > rheumatic",
+        "first": "calc-",
+        "next": "p",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "cann-s",
+    "count": 24,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_CONFUSION_OF_MIND_SEE_CONCENTRATION",
+        "chapter": "MIND",
+        "rubric": "CONFUSION of mind (See Concentration)",
+        "first": "cann-",
+        "next": "s",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_MIND_IRRITABILITY_SEE_ANGER",
+        "chapter": "MIND",
+        "rubric": "IRRITABILITY (See Anger)",
+        "first": "cann-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_CHILL_FOREHEAD_2",
+        "chapter": "CHILL",
+        "rubric": "Forehead_2",
+        "first": "cann-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "ant-t",
+    "count": 24,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_INDIFFERENCE_APATHY_ETC",
+        "chapter": "MIND",
+        "rubric": "INDIFFERENCE , apathy, etc.",
+        "first": "ant-",
+        "next": "t",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_RESTLESSNESS_NERVOUSNESS_NIGHT",
+        "chapter": "MIND",
+        "rubric": "RESTLESSNESS , nervousness > night",
+        "first": "ant-",
+        "next": "t",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_MORNING",
+        "chapter": "FEVER",
+        "rubric": "PAIN , headache in general > morning",
+        "first": "ant-",
+        "next": "t",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "crot-t",
+    "count": 22,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_DISCONTENTED_DISPLEASED_DISSATISFIED_ETC",
+        "chapter": "MIND",
+        "rubric": "DISCONTENTED , displeased, dissatisfied, etc.",
+        "first": "crot-",
+        "next": "t",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EXPECTORATION_SLEEP_DURING_AFTER",
+        "chapter": "EXPECTORATION",
+        "rubric": "SLEEP , during > after",
+        "first": "crot-",
+        "next": "t",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_SKIN_ERUPTIONS_HERPETIC",
+        "chapter": "SKIN",
+        "rubric": "ERUPTIONS > herpetic",
+        "first": "crot-",
+        "next": "t",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "chin-a",
+    "count": 22,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_RESTLESSNESS_NERVOUSNESS_BED_DRIVING_OUT_OF",
+        "chapter": "MIND",
+        "rubric": "RESTLESSNESS , nervousness > bed, driving out of",
+        "first": "chin-",
+        "next": "a",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_CHILL_FULLNESS_SEE_ENLARGED",
+        "chapter": "CHILL",
+        "rubric": "FULLNESS (See Enlarged)",
+        "first": "chin-",
+        "next": "a",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL",
+        "chapter": "FEVER",
+        "rubric": "PAIN , headache in general",
+        "first": "chin-",
+        "next": "a",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "aur-m",
+    "count": 22,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_WORK_AVERSION_TO_MENTAL",
+        "chapter": "MIND",
+        "rubric": "WORK , aversion to mental",
+        "first": "aur-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_FOREHEAD_IN_7_STOOPING_FROM",
+        "chapter": "FEVER",
+        "rubric": "Forehead , in_7 > stooping, from",
+        "first": "aur-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_PERSPIRATION_YAWNING",
+        "chapter": "PERSPIRATION",
+        "rubric": "YAWNING",
+        "first": "aur-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "ferr-ar",
+    "count": 20,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_RELIGIOUS_AFFECTIONS_SEE_ANXIETY_DESPAIR_FEAR",
+        "chapter": "MIND",
+        "rubric": "RELIGIOUS affections (See Anxiety, Despair, Fear)",
+        "first": "ferr-",
+        "next": "ar",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_SENSITIVE_OVERSENSITIVE_SEE_OFFENDED",
+        "chapter": "MIND",
+        "rubric": "SENSITIVE , oversensitive (See Offended)",
+        "first": "ferr-",
+        "next": "ar",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_SERIOUS_SEE_SAD",
+        "chapter": "MIND",
+        "rubric": "SERIOUS (See Sad)",
+        "first": "ferr-",
+        "next": "ar",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "calc-s",
+    "count": 20,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_TALK_DESIRES_TO_TO_SOME_ONE_INDISPOSED_TO_DESIRE_TO_BE_SILENT_TACITURN",
+        "chapter": "MIND",
+        "rubric": "TALK , desires to, to some one > indisposed to, desire to be silent, taciturn",
+        "first": "calc-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_SPIRITUOUS_LIQUORS_FROM",
+        "chapter": "FEVER",
+        "rubric": "PAIN , headache in general > spirituous liquors, from",
+        "first": "calc-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EXPECTORATION_AFTERNOON_2",
+        "chapter": "EXPECTORATION",
+        "rubric": "AFTERNOON_2",
+        "first": "calc-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "ant-c",
+    "count": 20,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_WEEPING_TEARFUL_MOOD_ETC",
+        "chapter": "MIND",
+        "rubric": "WEEPING , tearful mood, etc.",
+        "first": "ant-",
+        "next": "c",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_CHILL_COLDNESS_CHILLINESS_ETC",
+        "chapter": "CHILL",
+        "rubric": "COLDNESS , chilliness, etc.",
+        "first": "ant-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EXPECTORATION_SUCCESSION_OF_STAGES_CHILL_FOLLOWED_BY_HEAT",
+        "chapter": "EXPECTORATION",
+        "rubric": "SUCCESSION of stages , chill followed by heat",
+        "first": "ant-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "bar-m",
+    "count": 20,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_SKIN_ERUPTIONS_ECZEMA",
+        "chapter": "SKIN",
+        "rubric": "ERUPTIONS > eczema",
+        "first": "Bar-",
+        "next": "m",
+        "firstGrade": 3,
+        "nextGrade": 3
+      },
+      {
+        "id": "KENT_SKIN_SWELLING",
+        "chapter": "SKIN",
+        "rubric": "SWELLING",
+        "first": "bar-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_SKIN_MORNING_4",
+        "chapter": "SKIN",
+        "rubric": "MORNING_4",
+        "first": "bar-",
+        "next": "m",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "mag-s",
+    "count": 19,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_CONFUSION_OF_MIND_SEE_CONCENTRATION",
+        "chapter": "MIND",
+        "rubric": "CONFUSION of mind (See Concentration)",
+        "first": "mag-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_CHILL_FALLING_BACKWARD_OF_HEAD_SEE_HEAVINESS_STOOPING_ON",
+        "chapter": "CHILL",
+        "rubric": "FALLING backward of head (See Heaviness) > stooping, on",
+        "first": "mag-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_SIDES_20_BOTH_SIDES",
+        "chapter": "FEVER",
+        "rubric": "Sides_20 > both sides",
+        "first": "mag-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "ars-i",
+    "count": 19,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_DULLNESS_SLUGGISHNESS_DIFFICULTY_OF_THINKING_AND_COMPREHENDING",
+        "chapter": "MIND",
+        "rubric": "DULLNESS , sluggishness, difficulty of thinking and comprehending",
+        "first": "ars-",
+        "next": "i",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_FOREHEAD_IN_7",
+        "chapter": "FEVER",
+        "rubric": "Forehead , in_7",
+        "first": "ars-",
+        "next": "i",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_FOREHEAD_IN_7_EVENING_2",
+        "chapter": "FEVER",
+        "rubric": "Forehead , in_7 > evening_2",
+        "first": "ars-",
+        "next": "i",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "viol-t",
+    "count": 18,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_CHILL_TEMPLES_5_IMPETIGO",
+        "chapter": "CHILL",
+        "rubric": "Temples_5 > impetigo",
+        "first": "viol-",
+        "next": "t",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_FEVER_FOREHEAD_IN_7_ABOVE_RIGHT",
+        "chapter": "FEVER",
+        "rubric": "Forehead , in_7 > above right",
+        "first": "viol-",
+        "next": "t",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_SKIN_ERUPTIONS_BURNING_4",
+        "chapter": "SKIN",
+        "rubric": "ERUPTIONS > burning_4",
+        "first": "viol-",
+        "next": "t",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "lil-t",
+    "count": 17,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_CONSOLATION_AGG",
+        "chapter": "MIND",
+        "rubric": "CONSOLATION agg.",
+        "first": "lil-",
+        "next": "t",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_FEVER_FOREHEAD_33",
+        "chapter": "FEVER",
+        "rubric": "Forehead_33",
+        "first": "lil-",
+        "next": "t",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_SKIN_NIGHT_4",
+        "chapter": "SKIN",
+        "rubric": "NIGHT_4",
+        "first": "Lil-",
+        "next": "t",
+        "firstGrade": 3,
+        "nextGrade": 3
+      }
+    ]
+  },
+  {
+    "candidate": "ferr-i",
+    "count": 17,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_SADNESS_MENTAL_DEPRESSION",
+        "chapter": "MIND",
+        "rubric": "SADNESS , mental depression",
+        "first": "Ferr-",
+        "next": "i",
+        "firstGrade": 3,
+        "nextGrade": 3
+      },
+      {
+        "id": "KENT_FEVER_HEAT",
+        "chapter": "FEVER",
+        "rubric": "HEAT",
+        "first": "ferr-",
+        "next": "i",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_STITCHING",
+        "chapter": "FEVER",
+        "rubric": "Stitching",
+        "first": "ferr-",
+        "next": "i",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "pic-ac",
+    "count": 17,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_FEVER_HEAVINESS_SEE_PRESSING_MORNING",
+        "chapter": "FEVER",
+        "rubric": "HEAVINESS (See Pressing) > morning",
+        "first": "pic-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_AMEL_85",
+        "chapter": "FEVER",
+        "rubric": "PAIN , headache in general > amel._85",
+        "first": "pic-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_OCCIPUT_22_EXTENDING_DOWN_BACK",
+        "chapter": "FEVER",
+        "rubric": "Occiput_22 > extending down back",
+        "first": "pic-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "kali-br",
+    "count": 15,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_NYMPHOMANIA",
+        "chapter": "MIND",
+        "rubric": "NYMPHOMANIA",
+        "first": "kali-",
+        "next": "br",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_MIND_SADNESS_MENTAL_DEPRESSION",
+        "chapter": "MIND",
+        "rubric": "SADNESS , mental depression",
+        "first": "Kali-",
+        "next": "br",
+        "firstGrade": 3,
+        "nextGrade": 3
+      },
+      {
+        "id": "KENT_MIND_SHRIEKING_SLEEP_DURING",
+        "chapter": "MIND",
+        "rubric": "SHRIEKING > sleep, during",
+        "first": "kali-",
+        "next": "br",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "ferr-p",
+    "count": 15,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_SKIN_PULSE_ABNORMAL_FREQUENT_ACCELERATED_ELEVATED_EXALTED_FAST_INNUMERABLE_RAPID",
+        "chapter": "SKIN",
+        "rubric": "PULSE abnormal > frequent, accelerated, elevated, exalted, fast, innumerable, rapid",
+        "first": "Ferr-",
+        "next": "p",
+        "firstGrade": 3,
+        "nextGrade": 3
+      },
+      {
+        "id": "KENT_EYE_NOISES_IN",
+        "chapter": "EYE",
+        "rubric": "NOISES in",
+        "first": "ferr-",
+        "next": "p",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EYE_TONGUE_17",
+        "chapter": "EYE",
+        "rubric": "Tongue_17",
+        "first": "ferr-",
+        "next": "p",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "chin-s",
+    "count": 14,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_RESTLESSNESS_NERVOUSNESS_EVENING",
+        "chapter": "MIND",
+        "rubric": "RESTLESSNESS , nervousness > evening",
+        "first": "chin-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_PRESSING_SEE_BURSTING_DRAWING",
+        "chapter": "FEVER",
+        "rubric": "Pressing (See Bursting, Drawing)",
+        "first": "chin-",
+        "next": "s",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_PERSPIRATION_SLEEPINESS_HEADACHE_DURING",
+        "chapter": "PERSPIRATION",
+        "rubric": "SLEEPINESS > headache, during",
+        "first": "chin-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "eup-pur",
+    "count": 14,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_FEVER_SIDES_ONE_SIDE_LEFT",
+        "chapter": "FEVER",
+        "rubric": "Sides , one side > left",
+        "first": "eup-",
+        "next": "pur",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_SIDES_23",
+        "chapter": "FEVER",
+        "rubric": "Sides_23",
+        "first": "eup-",
+        "next": "pur",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_SKIN_GLANDS_4_INTERNALLY",
+        "chapter": "SKIN",
+        "rubric": "Glands_4 > internally",
+        "first": "eup-",
+        "next": "pur",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "lact-ac",
+    "count": 14,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_FEVER_BURSTING",
+        "chapter": "FEVER",
+        "rubric": "Bursting",
+        "first": "lact-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_VERTEX_12",
+        "chapter": "FEVER",
+        "rubric": "Vertex_12",
+        "first": "lact-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EYE_SCORBUTIC_GUMS_SEE_DETACHED",
+        "chapter": "EYE",
+        "rubric": "SCORBUTIC Gums (See Detached)",
+        "first": "lact-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "crot-c",
+    "count": 13,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_DELIRIUM",
+        "chapter": "MIND",
+        "rubric": "DELIRIUM",
+        "first": "crot-",
+        "next": "c",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_PERSPIRATION_DREAMS_ABSURD_BODIES",
+        "chapter": "PERSPIRATION",
+        "rubric": "DREAMS , absurd > bodies",
+        "first": "crot-",
+        "next": "c",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_SKIN_ERUPTIONS_CARBUNCLE",
+        "chapter": "SKIN",
+        "rubric": "ERUPTIONS > carbuncle",
+        "first": "crot-",
+        "next": "c",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "verat-v",
+    "count": 13,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_MANIA_MADNESS_SEE_DELIRIUM_INSANITY_RAGE_ETC",
+        "chapter": "MIND",
+        "rubric": "MANIA , madness (See Delirium, Insanity, Rage, etc.)",
+        "first": "verat-",
+        "next": "v",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_FOREHEAD_IN_7",
+        "chapter": "FEVER",
+        "rubric": "Forehead , in_7",
+        "first": "verat-",
+        "next": "v",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_SKIN_CONSTRICTION_EXTERNALLY_OF_ORIFICES",
+        "chapter": "SKIN",
+        "rubric": "CONSTRICTION externally > of orifices",
+        "first": "verat-",
+        "next": "v",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "ran-s",
+    "count": 13,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_FEVER_ITCHING_OF_SCALP_AMEL",
+        "chapter": "FEVER",
+        "rubric": "ITCHING of scalp > amel.",
+        "first": "ran-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_FOREHEAD_IN_7_EVENING_2",
+        "chapter": "FEVER",
+        "rubric": "Forehead , in_7 > evening_2",
+        "first": "ran-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_OCCIPUT_22_EVENING",
+        "chapter": "FEVER",
+        "rubric": "Occiput_22 > evening",
+        "first": "ran-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "am-m",
+    "count": 12,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_ABSENT_MINDED_SEE_FORGETFUL",
+        "chapter": "MIND",
+        "rubric": "ABSENT-MINDED (See Forgetful)",
+        "first": "am-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EXPECTORATION_ALTERNATING_WITH_CHILLS",
+        "chapter": "EXPECTORATION",
+        "rubric": "ALTERNATING with chills",
+        "first": "Am-",
+        "next": "m",
+        "firstGrade": 3,
+        "nextGrade": 3
+      },
+      {
+        "id": "KENT_EXPECTORATION_PERSPIRATION_IN_GENERAL",
+        "chapter": "EXPECTORATION",
+        "rubric": "PERSPIRATION in general",
+        "first": "am-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "lac-d",
+    "count": 12,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_FEVER_FOREHEAD_IN_7_DURING",
+        "chapter": "FEVER",
+        "rubric": "Forehead , in_7 > during",
+        "first": "lac-",
+        "next": "d",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_FOREHEAD_IN_7_EYES_ABOVE",
+        "chapter": "FEVER",
+        "rubric": "Forehead , in_7 > eyes, above",
+        "first": "lac-",
+        "next": "d",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_SKIN_AIR_OPEN_AVERSION_TO_SENSATION_OF_AS_IF_FANNED",
+        "chapter": "SKIN",
+        "rubric": "AIR , open, aversion to > sensation of, as if fanned",
+        "first": "lac-",
+        "next": "d",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "benz-ac",
+    "count": 10,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_TONGUE_17",
+        "chapter": "EYE",
+        "rubric": "Tongue_17",
+        "first": "benz-",
+        "next": "ac",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_EYE_THIRST_EVENING",
+        "chapter": "EYE",
+        "rubric": "THIRST > evening",
+        "first": "benz-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EYE_COLOR_BLACK_BROWN",
+        "chapter": "EYE",
+        "rubric": "COLOR , black > brown",
+        "first": "Benz-",
+        "next": "ac",
+        "firstGrade": 3,
+        "nextGrade": 3
+      }
+    ]
+  },
+  {
+    "candidate": "cann-i",
+    "count": 9,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_MEMORY_ACTIVE_SEE_IDEAS_WEAKNESS_OF_SEE_MISTAKES",
+        "chapter": "MIND",
+        "rubric": "MEMORY active (See Ideas) > weakness of (See Mistakes)",
+        "first": "cann-",
+        "next": "i",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_FEVER_TEMPLES_12",
+        "chapter": "FEVER",
+        "rubric": "Temples_12",
+        "first": "cann-",
+        "next": "i",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EYE_PAIN_IN",
+        "chapter": "EYE",
+        "rubric": "PAIN , in",
+        "first": "cann-",
+        "next": "i",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "arum-t",
+    "count": 9,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_FEVER_FOREHEAD_IN_7_RIGHT_SIDE",
+        "chapter": "FEVER",
+        "rubric": "Forehead , in_7 > right side",
+        "first": "arum-",
+        "next": "t",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EXPECTORATION_DESCENDING_SEE_COLDNESS_OF_BACK",
+        "chapter": "EXPECTORATION",
+        "rubric": "DESCENDING (See Coldness of Back)",
+        "first": "arum-",
+        "next": "t",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EXPECTORATION_CONTINUED_FEVER_TYPHUS_TYPHOID",
+        "chapter": "EXPECTORATION",
+        "rubric": "CONTINUED fever , typhus, typhoid",
+        "first": "Arum-",
+        "next": "t",
+        "firstGrade": 3,
+        "nextGrade": 3
+      }
+    ]
+  },
+  {
+    "candidate": "urt-u",
+    "count": 9,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_SKIN_WRINKLED_SHRIVELLED",
+        "chapter": "SKIN",
+        "rubric": "WRINKLED , shrivelled",
+        "first": "urt-",
+        "next": "u",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_SKIN_EXTENDING_ARM_TO_SORE_BRUISED_TENDER",
+        "chapter": "SKIN",
+        "rubric": "Extending , arm, to > sore, bruised, tender",
+        "first": "urt-",
+        "next": "u",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EYE_PAIN_TOOTHACHE_IN_GENERAL_BURNING",
+        "chapter": "EYE",
+        "rubric": "PAIN , toothache in general > burning",
+        "first": "urt-",
+        "next": "u",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "card-m",
+    "count": 8,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_FORGETFUL_SEE_MEMORY",
+        "chapter": "MIND",
+        "rubric": "FORGETFUL (See Memory)",
+        "first": "card-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_MIND_SADNESS_MENTAL_DEPRESSION",
+        "chapter": "MIND",
+        "rubric": "SADNESS , mental depression",
+        "first": "card-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EYE_SENSITIVE_TENDER",
+        "chapter": "EYE",
+        "rubric": "SENSITIVE , tender",
+        "first": "card-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "ferr-ma",
+    "count": 7,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_HAUGHTY",
+        "chapter": "MIND",
+        "rubric": "HAUGHTY",
+        "first": "ferr-",
+        "next": "ma",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_STOOPING_FROM",
+        "chapter": "FEVER",
+        "rubric": "PAIN , headache in general > stooping, from",
+        "first": "ferr-",
+        "next": "ma",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_PERSPIRATION_FALLING_ASLEEP_MORNING_SITTING",
+        "chapter": "PERSPIRATION",
+        "rubric": "FALLING asleep morning > sitting",
+        "first": "ferr-",
+        "next": "ma",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "viol-o",
+    "count": 7,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_THINKING_AVERSION_TO_WANDERING",
+        "chapter": "MIND",
+        "rubric": "THINKING , aversion to > wandering",
+        "first": "viol-",
+        "next": "o",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_SKIN_SIDE_SYMPTOMS_ON_ONE_SIDE_LEFT_LOWER_AND_RIGHT_UPPER",
+        "chapter": "SKIN",
+        "rubric": "SIDE , symptoms on one side > left lower and right upper",
+        "first": "viol-",
+        "next": "o",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_SKIN_TOUCH_AGG_2",
+        "chapter": "SKIN",
+        "rubric": "TOUCH agg._2",
+        "first": "viol-",
+        "next": "o",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "rhus-v",
+    "count": 7,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_FEVER_FOREHEAD_IN_7_STOOPING_FROM",
+        "chapter": "FEVER",
+        "rubric": "Forehead , in_7 > stooping, from",
+        "first": "rhus-",
+        "next": "v",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_EYE_ERYSIPELAS_3",
+        "chapter": "EYE",
+        "rubric": "ERYSIPELAS_3",
+        "first": "rhus-",
+        "next": "v",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_EYE_TONGUE_BLACK_EDGES_2",
+        "chapter": "EYE",
+        "rubric": "Tongue , black > edges_2",
+        "first": "rhus-",
+        "next": "v",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "mag-p",
+    "count": 7,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_SKIN_CONVULSIONS_CLONIC",
+        "chapter": "SKIN",
+        "rubric": "CONVULSIONS > clonic",
+        "first": "mag-",
+        "next": "p",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_SKIN_WARM_AGG_AMEL_2",
+        "chapter": "SKIN",
+        "rubric": "WARM agg. > amel._2",
+        "first": "Mag-",
+        "next": "p",
+        "firstGrade": 3,
+        "nextGrade": 3
+      },
+      {
+        "id": "KENT_EYE_DISCOLORATION_BLACK_SEE_SOOTY_REDNESS",
+        "chapter": "EYE",
+        "rubric": "DISCOLORATION , black (See Sooty) > redness",
+        "first": "mag-",
+        "next": "p",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "am-c",
+    "count": 6,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_FEVER_FOREHEAD_IN_7",
+        "chapter": "FEVER",
+        "rubric": "Forehead , in_7",
+        "first": "Am-",
+        "next": "c",
+        "firstGrade": 3,
+        "nextGrade": 3
+      },
+      {
+        "id": "KENT_FEVER_SORE_BRUISED_SENSITIVE_TO_PRESSURE",
+        "chapter": "FEVER",
+        "rubric": "Sore bruised , sensitive to pressure",
+        "first": "am-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EYE_PAIN_6",
+        "chapter": "EYE",
+        "rubric": "PAIN_6",
+        "first": "am-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "ferr-m",
+    "count": 6,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_FEVER_TEMPLES_12_RIGHT",
+        "chapter": "FEVER",
+        "rubric": "Temples_12 > right",
+        "first": "ferr-",
+        "next": "m",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_EYE_ERUCTATIONS_EATING_AFTER_10",
+        "chapter": "EYE",
+        "rubric": "ERUCTATIONS > eating, after_10",
+        "first": "ferr-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EYE_ITCHING_8",
+        "chapter": "EYE",
+        "rubric": "ITCHING_8",
+        "first": "ferr-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "cor-r",
+    "count": 6,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_PERSPIRATION_SLEEPLESSNESS_MIDNIGHT_BEFORE",
+        "chapter": "PERSPIRATION",
+        "rubric": "SLEEPLESSNESS > midnight, before",
+        "first": "cor-",
+        "next": "r",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_SKIN_PURPURA_H_MORRHAGICA",
+        "chapter": "SKIN",
+        "rubric": "PURPURA hæmorrhagica",
+        "first": "cor-",
+        "next": "r",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EYE_DISCOLORATION_ASHY_COUGH_DURING_2",
+        "chapter": "EYE",
+        "rubric": "DISCOLORATION , ashy > cough, during_2",
+        "first": "cor-",
+        "next": "r",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "merc-cy",
+    "count": 6,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EXPECTORATION_PERSPIRATION_IN_GENERAL",
+        "chapter": "EXPECTORATION",
+        "rubric": "PERSPIRATION in general",
+        "first": "merc-",
+        "next": "cy",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_SKIN_PULSE_ABNORMAL_SLOW",
+        "chapter": "SKIN",
+        "rubric": "PULSE abnormal > slow",
+        "first": "merc-",
+        "next": "cy",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EYE_TONGUE_54_EDGES",
+        "chapter": "EYE",
+        "rubric": "Tongue_54 > edges",
+        "first": "merc-",
+        "next": "cy",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "calc-ar",
+    "count": 5,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_DULLNESS_SLUGGISHNESS_DIFFICULTY_OF_THINKING_AND_COMPREHENDING",
+        "chapter": "MIND",
+        "rubric": "DULLNESS , sluggishness, difficulty of thinking and comprehending",
+        "first": "calc-",
+        "next": "ar",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_PERSPIRATION_SLEEPINESS_EVENING",
+        "chapter": "PERSPIRATION",
+        "rubric": "SLEEPINESS > evening",
+        "first": "calc-",
+        "next": "ar",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_EXPECTORATION_EXTERNAL_HEAT_CHILLINESS_WITH",
+        "chapter": "EXPECTORATION",
+        "rubric": "EXTERNAL heat > chilliness, with",
+        "first": "calc-",
+        "next": "ar",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "sol-n",
+    "count": 5,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_STARTING_STARTLED",
+        "chapter": "MIND",
+        "rubric": "STARTING , startled",
+        "first": "sol-",
+        "next": "n",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_HEAVINESS_SEE_PRESSING_WAKING_ON_3",
+        "chapter": "FEVER",
+        "rubric": "HEAVINESS (See Pressing) > waking, on_3",
+        "first": "sol-",
+        "next": "n",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_AMEL_8",
+        "chapter": "FEVER",
+        "rubric": "PAIN , headache in general > amel._8",
+        "first": "sol-",
+        "next": "n",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "ars-h",
+    "count": 5,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_CHILL_CONGESTION_HYPER_MIA_ETC_SEE_FULLNESS_PULSATION",
+        "chapter": "CHILL",
+        "rubric": "CONGESTION , hyperæmia, etc. (See Fullness, Pulsation)",
+        "first": "ars-",
+        "next": "h",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EXPECTORATION_NIGHT_2",
+        "chapter": "EXPECTORATION",
+        "rubric": "NIGHT_2",
+        "first": "ars-",
+        "next": "h",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EYE_EXPRESSION_ANXIOUS",
+        "chapter": "EYE",
+        "rubric": "EXPRESSION , anxious",
+        "first": "ars-",
+        "next": "h",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "prun-s",
+    "count": 5,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_FEVER_OCCIPUT_38_OUTWARD",
+        "chapter": "FEVER",
+        "rubric": "Occiput_38 > outward",
+        "first": "prun-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EYE_AVERSION_TO_ACIDS_FOOD",
+        "chapter": "EYE",
+        "rubric": "AVERSION to acids > food",
+        "first": "prun-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EYE_URINATION_DRIBBLING_BY_DROPS_FORKED_STREAM",
+        "chapter": "EYE",
+        "rubric": "URINATION , dribbling (by drops) > forked stream",
+        "first": "prun-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "cupr-ar",
+    "count": 5,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_PAIN_2_RIGHT_4",
+        "chapter": "EYE",
+        "rubric": "PAIN_2 > right_4",
+        "first": "cupr-",
+        "next": "ar",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EYE_VOMITING_PREGNANCY_DURING",
+        "chapter": "EYE",
+        "rubric": "VOMITING > pregnancy, during",
+        "first": "cupr-",
+        "next": "ar",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EYE_PERINEUM_9",
+        "chapter": "EYE",
+        "rubric": "Perineum_9",
+        "first": "cupr-",
+        "next": "ar",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "ol-j",
+    "count": 5,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_THIRST_DURING",
+        "chapter": "EYE",
+        "rubric": "THIRST > during",
+        "first": "ol-",
+        "next": "j",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_SLEEP_NIGHT_5",
+        "chapter": "SLEEP",
+        "rubric": "NIGHT_5",
+        "first": "ol-",
+        "next": "j",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_SLEEP_LYING_AGG_2",
+        "chapter": "SLEEP",
+        "rubric": "LYING agg._2",
+        "first": "ol-",
+        "next": "j",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "pip-m",
+    "count": 4,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_FANCIES_ABSORBED_IN_EXALTATION_OF",
+        "chapter": "MIND",
+        "rubric": "FANCIES , absorbed in > exaltation of",
+        "first": "pip-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_FEVER_TEMPLES_12_READING_WHILE",
+        "chapter": "FEVER",
+        "rubric": "Temples_12 > reading, while",
+        "first": "pip-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_PERSPIRATION_FOREHEAD_43",
+        "chapter": "PERSPIRATION",
+        "rubric": "Forehead_43",
+        "first": "pip-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "sal-ac",
+    "count": 4,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_SKIN_LYING_AGG",
+        "chapter": "SKIN",
+        "rubric": "LYING agg.",
+        "first": "sal-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EYE_APHTHAE",
+        "chapter": "EYE",
+        "rubric": "APHTHÆ",
+        "first": "sal-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EXTREMITIES_KNEE_26_RHEUMATIC",
+        "chapter": "EXTREMITIES",
+        "rubric": "Knee_26 > rheumatic",
+        "first": "sal-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "sin-n",
+    "count": 4,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_TONGUE_34_SORE",
+        "chapter": "EYE",
+        "rubric": "Tongue_34 > sore",
+        "first": "sin-",
+        "next": "n",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EYE_TONGUE_35",
+        "chapter": "EYE",
+        "rubric": "Tongue_35",
+        "first": "sin-",
+        "next": "n",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_SLEEP_PAIN_15_EVENING",
+        "chapter": "SLEEP",
+        "rubric": "PAIN_15 > evening",
+        "first": "sin-",
+        "next": "n",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "cast-eq",
+    "count": 4,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_SLEEP_MAMM_21_NIPPLE",
+        "chapter": "SLEEP",
+        "rubric": "Mammæ_21 > nipple",
+        "first": "cast-",
+        "next": "eq",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EXTREMITIES_UPPER_LIMBS_27_NIGHT",
+        "chapter": "EXTREMITIES",
+        "rubric": "Upper limbs_27 > night",
+        "first": "cast-",
+        "next": "eq",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EXTREMITIES_LOWER_LIMBS_33",
+        "chapter": "EXTREMITIES",
+        "rubric": "Lower limbs_33",
+        "first": "cast-",
+        "next": "eq",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "jug-r",
+    "count": 3,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_TALKING_WHILE",
+        "chapter": "FEVER",
+        "rubric": "PAIN , headache in general > talking, while",
+        "first": "jug-",
+        "next": "r",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_PERSPIRATION_YAWNING",
+        "chapter": "PERSPIRATION",
+        "rubric": "YAWNING",
+        "first": "jug-",
+        "next": "r",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EYE_RUMBLING",
+        "chapter": "EYE",
+        "rubric": "RUMBLING",
+        "first": "jug-",
+        "next": "r",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "sul-thuj",
+    "count": 3,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_FEVER_BURSTING",
+        "chapter": "FEVER",
+        "rubric": "Bursting",
+        "first": "sul-",
+        "next": "thuj",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_SKIN_ULCERS_2_SUPPURATING",
+        "chapter": "SKIN",
+        "rubric": "ULCERS_2 > suppurating",
+        "first": "sul-",
+        "next": "thuj",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_VERTIGO_ULCERS_14_SUPPURATING",
+        "chapter": "VERTIGO",
+        "rubric": "ULCERS_14 > suppurating",
+        "first": "sul-",
+        "next": "thuj",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "merc-sul",
+    "count": 3,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_PAIN_ACHING_PROSOPALGIA_ETC_BURNING_SEE_HEAT",
+        "chapter": "EYE",
+        "rubric": "PAIN (aching, prosopalgia, etc.) > burning (See Heat)",
+        "first": "merc-",
+        "next": "sul",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EYE_TONGUE_37_TIP",
+        "chapter": "EYE",
+        "rubric": "Tongue_37 > tip",
+        "first": "merc-",
+        "next": "sul",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EYE_PENIS",
+        "chapter": "EYE",
+        "rubric": "Penis",
+        "first": "merc-",
+        "next": "sul",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "asc-t",
+    "count": 3,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_PAIN_TOOTHACHE_IN_GENERAL_MOLARS",
+        "chapter": "EYE",
+        "rubric": "PAIN , toothache in general > molars",
+        "first": "asc-",
+        "next": "t",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_GENITALIA_FEMALE_LARYNX_2",
+        "chapter": "GENITALIA FEMALE",
+        "rubric": "Larynx_2",
+        "first": "asc-",
+        "next": "t",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EXTREMITIES_UPPER_LIMBS_13_PIMPLES",
+        "chapter": "EXTREMITIES",
+        "rubric": "Upper limbs_13 > pimples",
+        "first": "asc-",
+        "next": "t",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "arum-d",
+    "count": 3,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EXTREMITIES_HAND_12",
+        "chapter": "EXTREMITIES",
+        "rubric": "Hand_12",
+        "first": "arum-",
+        "next": "d",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EXTREMITIES_HAND_19",
+        "chapter": "EXTREMITIES",
+        "rubric": "Hand_19",
+        "first": "arum-",
+        "next": "d",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EXTREMITIES_TOES_36",
+        "chapter": "EXTREMITIES",
+        "rubric": "Toes_36",
+        "first": "arum-",
+        "next": "d",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "rhus-r",
+    "count": 2,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_JESTING",
+        "chapter": "MIND",
+        "rubric": "JESTING",
+        "first": "rhus-",
+        "next": "r",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EXTREMITIES_LOWER_LIMBS_29_RHEUMATIC",
+        "chapter": "EXTREMITIES",
+        "rubric": "Lower limbs_29 > rheumatic",
+        "first": "rhus-",
+        "next": "r",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "jug-c",
+    "count": 2,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_RESTLESSNESS_NERVOUSNESS_AFTERNOON",
+        "chapter": "MIND",
+        "rubric": "RESTLESSNESS , nervousness > afternoon",
+        "first": "jug-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_PERSPIRATION_DREAMS_ABSURD_FRIGHTFUL",
+        "chapter": "PERSPIRATION",
+        "rubric": "DREAMS , absurd > frightful",
+        "first": "jug-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "gent-c",
+    "count": 2,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_FEVER_PAIN_HEADACHE_IN_GENERAL_AFTER_4",
+        "chapter": "FEVER",
+        "rubric": "PAIN , headache in general > after_4",
+        "first": "gent-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EYE_UMBILICAL_REGION_4_CRAMPING_GRIPING",
+        "chapter": "EYE",
+        "rubric": "Umbilical region_4 > cramping, griping",
+        "first": "gent-",
+        "next": "c",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "pic-plb",
+    "count": 2,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_SKIN_AIR_OPEN_AVERSION_TO_AMEL",
+        "chapter": "SKIN",
+        "rubric": "AIR , open, aversion to > amel.",
+        "first": "pic-",
+        "next": "plb",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_VERTIGO_AIR_OPEN_AVERSION_TO_2_AMEL",
+        "chapter": "VERTIGO",
+        "rubric": "AIR , open, aversion to_2 > amel.",
+        "first": "pic-",
+        "next": "plb",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "nux-olnd",
+    "count": 2,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_SKIN_BONES_10_EXTERNALLY",
+        "chapter": "SKIN",
+        "rubric": "Bones_10 > externally",
+        "first": "nux-",
+        "next": "olnd",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_VERTIGO_BONES_37_EXTERNALLY",
+        "chapter": "VERTIGO",
+        "rubric": "Bones_37 > externally",
+        "first": "nux-",
+        "next": "olnd",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "calc-i",
+    "count": 2,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_SKIN_SYPHILIS",
+        "chapter": "SKIN",
+        "rubric": "SYPHILIS",
+        "first": "calc-",
+        "next": "i",
+        "firstGrade": 2,
+        "nextGrade": 2
+      },
+      {
+        "id": "KENT_VERTIGO_SYPHILIS_2",
+        "chapter": "VERTIGO",
+        "rubric": "SYPHILIS_2",
+        "first": "calc-",
+        "next": "i",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "ery-a",
+    "count": 2,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_SKIN_DISCHARGES_OF_MUCUS_OR_PUS_PURULENT",
+        "chapter": "SKIN",
+        "rubric": "DISCHARGES of mucus or pus > purulent",
+        "first": "ery-",
+        "next": "a",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_SKIN_EXTENDING_ARM_TO_ACHING",
+        "chapter": "SKIN",
+        "rubric": "Extending , arm, to > aching",
+        "first": "ery-",
+        "next": "a",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "calc-f",
+    "count": 2,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_SKIN_OPACITY_OF_CORNEA_SEE_SPOTS",
+        "chapter": "SKIN",
+        "rubric": "OPACITY of cornea (See Spots)",
+        "first": "calc-",
+        "next": "f",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_SLEEP_PAROXYSMAL_2_NIGHT",
+        "chapter": "SLEEP",
+        "rubric": "PAROXYSMAL_2 > night",
+        "first": "calc-",
+        "next": "f",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "kali-cy",
+    "count": 2,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_HEARING_DIM",
+        "chapter": "HEARING",
+        "rubric": "DIM",
+        "first": "kali-",
+        "next": "cy",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_SLEEP_WEAKNESS_TIRED_FEELING_IN_SPINE",
+        "chapter": "SLEEP",
+        "rubric": "WEAKNESS (tired feeling, in spine)",
+        "first": "kali-",
+        "next": "cy",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "carb-h",
+    "count": 2,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_DISCOLORATION_ASHY_PALE",
+        "chapter": "EYE",
+        "rubric": "DISCOLORATION , ashy > pale",
+        "first": "Carb-",
+        "next": "h",
+        "firstGrade": 3,
+        "nextGrade": 3
+      },
+      {
+        "id": "KENT_EXTREMITIES_WEAKNESS_4",
+        "chapter": "EXTREMITIES",
+        "rubric": "WEAKNESS_4",
+        "first": "carb-",
+        "next": "h",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "lat-m",
+    "count": 2,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_VOMITING_BLACK",
+        "chapter": "EYE",
+        "rubric": "VOMITING > black",
+        "first": "lat-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      },
+      {
+        "id": "KENT_EXTREMITIES_TOES_36_PARALYZED_PARTS",
+        "chapter": "EXTREMITIES",
+        "rubric": "Toes_36 > paralyzed parts",
+        "first": "lat-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "mag-manc",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_MIND_TALK_DESIRES_TO_TO_SOME_ONE_INDISPOSED_TO_DESIRE_TO_BE_SILENT_TACITURN",
+        "chapter": "MIND",
+        "rubric": "TALK , desires to, to some one > indisposed to, desire to be silent, taciturn",
+        "first": "mag-",
+        "next": "manc",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "ars-m",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_CHILL_ENLARGED_SENSATION_SEE_EXPANDED_SWOLLEN",
+        "chapter": "CHILL",
+        "rubric": "ENLARGED sensation (See Expanded, Swollen)",
+        "first": "ars-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "prun-psor",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_FEVER_OCCIPUT_18",
+        "chapter": "FEVER",
+        "rubric": "Occiput_18",
+        "first": "prun-",
+        "next": "psor",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "ox-phys",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_FEVER_FOREHEAD_14",
+        "chapter": "FEVER",
+        "rubric": "Forehead_14",
+        "first": "ox-",
+        "next": "phys",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "aur-s",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_SKIN_AGGLUTINATED_MORNING",
+        "chapter": "SKIN",
+        "rubric": "AGGLUTINATED > morning",
+        "first": "aur-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "mag-meph",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_SKIN_INFLAMMATION_2",
+        "chapter": "SKIN",
+        "rubric": "INFLAMMATION_2",
+        "first": "mag-",
+        "next": "meph",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "bufo-s",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_SKIN_EXTENDING_ARM_TO_BURNING_SMARTING_BITING",
+        "chapter": "SKIN",
+        "rubric": "Extending , arm, to > burning, smarting, biting",
+        "first": "bufo-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "mag-aust",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_PAIN_2_JERKING",
+        "chapter": "EYE",
+        "rubric": "PAIN_2 > jerking",
+        "first": "mag-",
+        "next": "aust",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "calc-ac",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_TWITCHING_3",
+        "chapter": "EYE",
+        "rubric": "TWITCHING_3",
+        "first": "calc-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "kali-ma",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_CORYZA_DIPHTHERIA_DURING",
+        "chapter": "EYE",
+        "rubric": "CORYZA > diphtheria, during",
+        "first": "kali-",
+        "next": "ma",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "kali-a",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_DISCOLORATION_ASHY_RED",
+        "chapter": "EYE",
+        "rubric": "DISCOLORATION , ashy > red",
+        "first": "kali-",
+        "next": "a",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "mur-oena",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_TREMBLING_TONGUE",
+        "chapter": "EYE",
+        "rubric": "TREMBLING , Tongue",
+        "first": "mur-",
+        "next": "oena",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "chen-a",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_ENLARGEMENT_OF_TONSILS",
+        "chapter": "EYE",
+        "rubric": "ENLARGEMENT of tonsils",
+        "first": "chen-",
+        "next": "a",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "arund-d",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_SINKING_SEE_EMPTINESS",
+        "chapter": "EYE",
+        "rubric": "SINKING (See Emptiness)",
+        "first": "arund-",
+        "next": "d",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "bar-i",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_THIRST_EXTREME",
+        "chapter": "EYE",
+        "rubric": "THIRST > extreme",
+        "first": "bar-",
+        "next": "i",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "card-carl",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_HAEMORRHAGE_FROM_ANUS",
+        "chapter": "EYE",
+        "rubric": "HÆMORRHAGE from anus",
+        "first": "card-",
+        "next": "carl",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "fl-grat",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_HAEMORRHOIDS_EXTERNAL",
+        "chapter": "EYE",
+        "rubric": "HÆMORRHOIDS > external",
+        "first": "fl-",
+        "next": "grat",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "sin-a",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_PERINEUM_IN_DURING_2",
+        "chapter": "EYE",
+        "rubric": "Perineum , in > during_2",
+        "first": "sin-",
+        "next": "a",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "cupr-ac",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_PERINEUM_15_AFTER_2",
+        "chapter": "EYE",
+        "rubric": "Perineum_15 > after_2",
+        "first": "cupr-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "sul-trom",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_MUCOUS_SLIMY_BLOODY",
+        "chapter": "EYE",
+        "rubric": "MUCOUS , slimy > bloody",
+        "first": "sul-",
+        "next": "trom",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "rhus-a",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EYE_URINATION_DRIBBLING_BY_DROPS_AND_NIGHT_2",
+        "chapter": "EYE",
+        "rubric": "URINATION , dribbling (by drops) > and night_2",
+        "first": "rhus-",
+        "next": "a",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "nat-h",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_GENITALIA_FEMALE_ITCHING_11",
+        "chapter": "GENITALIA FEMALE",
+        "rubric": "ITCHING_11",
+        "first": "nat-",
+        "next": "h",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "ph-plb",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_GENITALIA_FEMALE_MENSES_DAYTIME_ONLY_COPIOUS",
+        "chapter": "GENITALIA FEMALE",
+        "rubric": "MENSES , daytime only > copious",
+        "first": "ph-",
+        "next": "plb",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "cupr-n",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_SLEEP_LOOSE",
+        "chapter": "SLEEP",
+        "rubric": "LOOSE",
+        "first": "cupr-",
+        "next": "n",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "nat-n",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_SLEEP_HEART_IN_COUGHING",
+        "chapter": "SLEEP",
+        "rubric": "Heart , in > coughing",
+        "first": "nat-",
+        "next": "n",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "sul-tab",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_SLEEP_STERNUM_16",
+        "chapter": "SLEEP",
+        "rubric": "Sternum_16",
+        "first": "sul-",
+        "next": "tab",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "lob-s",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_SLEEP_HEAT_14",
+        "chapter": "SLEEP",
+        "rubric": "HEAT_14",
+        "first": "lob-",
+        "next": "s",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "tus-p",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_SLEEP_LUMBAR_REGION_18_RISING_FROM_A_SEAT",
+        "chapter": "SLEEP",
+        "rubric": "Lumbar region_18 > rising from a seat",
+        "first": "tus-",
+        "next": "p",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "kali-lach",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_SLEEP_DORSAL_REGION_15_BETWEEN",
+        "chapter": "SLEEP",
+        "rubric": "Dorsal region_15 > between",
+        "first": "kali-",
+        "next": "lach",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "benz-n",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EXTREMITIES_HAND_BLACK_BLUENESS",
+        "chapter": "EXTREMITIES",
+        "rubric": "Hand , black > blueness",
+        "first": "benz-",
+        "next": "n",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "chr-ac",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EXTREMITIES_UPPER_LIMBS_26",
+        "chapter": "EXTREMITIES",
+        "rubric": "Upper limbs_26",
+        "first": "chr-",
+        "next": "ac",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "mang-m",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EXTREMITIES_THUMB_12",
+        "chapter": "EXTREMITIES",
+        "rubric": "Thumb_12",
+        "first": "mang-",
+        "next": "m",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "ran-a",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EXTREMITIES_KNEE_26_WANDERING",
+        "chapter": "EXTREMITIES",
+        "rubric": "Knee_26 > wandering",
+        "first": "ran-",
+        "next": "a",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "mag-arct",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EXTREMITIES_THUMB_16",
+        "chapter": "EXTREMITIES",
+        "rubric": "Thumb_16",
+        "first": "mag-",
+        "next": "arct",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "puls-n",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EXTREMITIES_LEG_39_CALF",
+        "chapter": "EXTREMITIES",
+        "rubric": "Leg_39 > calf",
+        "first": "puls-",
+        "next": "n",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  },
+  {
+    "candidate": "mag-merc",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EXTREMITIES_FOOT_54_DEMATOUS",
+        "chapter": "EXTREMITIES",
+        "rubric": "Foot_54 > œdematous",
+        "first": "mag-",
+        "next": "merc",
+        "firstGrade": 2,
+        "nextGrade": 2
+      }
+    ]
+  },
+  {
+    "candidate": "carb-o",
+    "count": 1,
+    "files": [
+      "database/kent_master_db.json"
+    ],
+    "examples": [
+      {
+        "id": "KENT_EXTREMITIES_TREMBLING_6",
+        "chapter": "EXTREMITIES",
+        "rubric": "TREMBLING_6",
+        "first": "carb-",
+        "next": "o",
+        "firstGrade": 1,
+        "nextGrade": 1
+      }
+    ]
+  }
+]

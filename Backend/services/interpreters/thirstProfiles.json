@@ -1,0 +1,40 @@
+{
+  "thirstProfiles": [
+    {
+      "name": "Thirstless",
+      "keywords": ["thirstless", "no thirst", "never thirsty"],
+      "canonicalSymptom": "Thirstlessness",
+      "primaryChapter": "Generalities",
+      "searchTerms": ["generalities; thirst; absent"],
+      "confidence": 0.9,
+      "matchType": "Exact"
+    },
+    {
+      "name": "Excessive thirst",
+      "keywords": ["excessive thirst", "very thirsty", "great thirst"],
+      "canonicalSymptom": "Thirst; excessive",
+      "primaryChapter": "Generalities",
+      "searchTerms": ["generalities; thirst; excessive"],
+      "confidence": 0.8,
+      "matchType": "Exact"
+    },
+    {
+      "name": "Drinks frequently",
+      "keywords": ["drinks frequently", "frequent drinks", "sipping"],
+      "canonicalSymptom": "Thirst; frequent; small quantities",
+      "primaryChapter": "Generalities",
+      "searchTerms": ["generalities; thirst; small quantity; frequent"],
+      "confidence": 0.7,
+      "matchType": "Pattern"
+    },
+    {
+      "name": "Small quantities often",
+      "keywords": ["small quantities often", "sips often"],
+      "canonicalSymptom": "Thirst; small quantities",
+      "primaryChapter": "Generalities",
+      "searchTerms": ["generalities; thirst; small quantity"],
+      "confidence": 0.7,
+      "matchType": "Pattern"
+    }
+  ]
+}

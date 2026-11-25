@@ -1,0 +1,9 @@
+# Ignore environment variables
+.env
+.env.*
+
+# Ignore dependencies
+node_modules/
+Backend/data/rubric-vectors.json
+Backend/database/kent_master_db.json
+Backend/services/clinicalOntologyData.json

@@ -1,0 +1,229 @@
+[
+  {
+    "name": "Night sweats",
+    "searchTerms": ["sweats at night", "night sweats", "perspiration during sleep"],
+    "canonicalSymptom": "Perspiration: night",
+    "primaryChapter": "Sleep",
+    "secondaryChapters": ["Skin"],
+    "confidence": 0.9,
+    "matchType": "direct",
+    "profiles": [
+      {
+        "quantity": "variable",
+        "time": "night",
+        "location": "general",
+        "nature": "general",
+        "modalities": []
+      }
+    ]
+  },
+  {
+    "name": "Profuse during sleep",
+    "searchTerms": ["profuse sweat during sleep", "excessive perspiration while sleeping"],
+    "canonicalSymptom": "Perspiration: profuse: sleep: during",
+    "primaryChapter": "Sleep",
+    "secondaryChapters": ["Skin"],
+    "confidence": 0.9,
+    "matchType": "direct",
+    "profiles": [
+      {
+        "quantity": "profuse",
+        "time": "sleep",
+        "location": "general",
+        "nature": "general",
+        "modalities": []
+      }
+    ]
+  },
+  {
+    "name": "Profuse perspiration",
+    "searchTerms": ["profuse sweat", "excessive perspiration", "sweating a lot", "profuse perspiration"],
+    "canonicalSymptom": "Perspiration: profuse",
+    "primaryChapter": "Skin",
+    "confidence": 0.8,
+    "matchType": "direct",
+    "profiles": [
+      {
+        "quantity": "profuse",
+        "time": "general",
+        "location": "general",
+        "nature": "general",
+        "modalities": []
+      }
+    ]
+  },
+  {
+    "name": "Cold sweat",
+    "searchTerms": ["cold sweat", "clammy perspiration", "cold and sweaty"],
+    "canonicalSymptom": "Perspiration: cold",
+    "primaryChapter": "Skin",
+    "confidence": 0.7,
+    "matchType": "direct",
+    "profiles": [
+      {
+        "quantity": "variable",
+        "time": "general",
+        "location": "general",
+        "nature": "cold",
+        "modalities": []
+      }
+    ]
+  },
+  {
+    "name": "Offensive perspiration",
+    "searchTerms": ["offensive sweat", "smelly perspiration", "fetid sweat", "foul-smelling sweat"],
+    "canonicalSymptom": "Perspiration: offensive",
+    "primaryChapter": "Skin",
+    "confidence": 0.85,
+    "matchType": "direct",
+    "profiles": [
+      {
+        "quantity": "variable",
+        "time": "general",
+        "location": "general",
+        "nature": "offensive",
+        "modalities": []
+      }
+    ]
+  },
+  {
+    "name": "Sweaty palms",
+    "searchTerms": ["sweaty palms", "perspiration of hands", "clammy hands", "my palms are sweaty"],
+    "canonicalSymptom": "Perspiration: hands",
+    "primaryChapter": "Extremities",
+    "secondaryChapters": ["Skin"],
+    "confidence": 0.75,
+    "matchType": "direct",
+    "profiles": [
+      {
+        "quantity": "variable",
+        "time": "general",
+        "location": "hands",
+        "nature": "general",
+        "modalities": []
+      }
+    ]
+  },
+  {
+    "name": "Feet perspiration",
+    "searchTerms": ["sweaty feet", "perspiration of feet", "foot sweat"],
+    "canonicalSymptom": "Perspiration: feet",
+    "primaryChapter": "Extremities",
+    "secondaryChapters": ["Skin"],
+    "confidence": 0.75,
+    "matchType": "direct",
+    "profiles": [
+      {
+        "quantity": "variable",
+        "time": "general",
+        "location": "feet",
+        "nature": "general",
+        "modalities": []
+      }
+    ]
+  },
+  {
+    "name": "Anxiety sweat",
+    "searchTerms": ["anxiety sweat", "nervous perspiration"],
+    "canonicalSymptom": "Perspiration: anxiety",
+    "primaryChapter": "Mind",
+    "secondaryChapters": ["Skin"],
+    "confidence": 0.6,
+    "matchType": "indirect",
+    "profiles": [
+      {
+        "quantity": "variable",
+        "time": "general",
+        "location": "general",
+        "nature": "general",
+        "modalities": []
+      }
+    ]
+  },
+  {
+    "name": "Localized perspiration: head",
+    "searchTerms": ["sweating on head", "head sweat", "perspiration of head"],
+    "canonicalSymptom": "Perspiration: head",
+    "primaryChapter": "Head",
+    "secondaryChapters": ["Skin"],
+    "confidence": 0.7,
+    "matchType": "direct",
+    "profiles": [
+      {
+        "quantity": "variable",
+        "time": "general",
+        "location": "head",
+        "nature": "general",
+        "modalities": []
+      }
+    ]
+  },
+  {
+    "name": "Localized perspiration: axilla",
+    "searchTerms": ["underarm sweat", "axillary perspiration", "sweating in armpits"],
+    "canonicalSymptom": "Perspiration: axilla",
+    "primaryChapter": "Skin",
+    "confidence": 0.7,
+    "matchType": "direct",
+    "profiles": [
+      {
+        "quantity": "variable",
+        "time": "general",
+        "location": "axilla",
+        "nature": "general",
+        "modalities": []
+      }
+    ]
+  },
+  {
+    "name": "Sour perspiration",
+    "searchTerms": ["sour sweat", "acidic perspiration"],
+    "canonicalSymptom": "Perspiration: sour",
+    "primaryChapter": "Skin",
+    "confidence": 0.65,
+    "matchType": "direct",
+    "profiles": [
+      {
+        "quantity": "variable",
+        "time": "general",
+        "location": "general",
+        "nature": "sour",
+        "modalities": []
+      }
+    ]
+  },
+  {
+    "name": "Partial perspiration",
+    "searchTerms": ["partial sweat", "sweating only on one part"],
+    "canonicalSymptom": "Perspiration: partial",
+    "primaryChapter": "Skin",
+    "confidence": 0.6,
+    "matchType": "direct",
+    "profiles": [
+      {
+        "quantity": "variable",
+        "time": "general",
+        "location": "general",
+        "nature": "general",
+        "modalities": []
+      }
+    ]
+  },
+  {
+    "name": "Absent perspiration",
+    "searchTerms": ["no sweat", "absent perspiration", "dry skin"],
+    "canonicalSymptom": "Perspiration: absent",
+    "primaryChapter": "Skin",
+    "confidence": 0.6,
+    "matchType": "direct",
+    "profiles": [
+      {
+        "quantity": "absent",
+        "time": "general",
+        "location": "general",
+        "nature": "general",
+        "modalities": []
+      }
+    ]
+  }
+]

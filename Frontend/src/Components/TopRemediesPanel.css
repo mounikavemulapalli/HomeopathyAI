@@ -1,0 +1,136 @@
+.remedy-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.remedy-card {
+  flex: 1 1 calc(33% - 32px);
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.remedy-card h3 {
+  margin-top: 0;
+  color: #333;
+}
+
+.remedy-card p {
+  margin: 4px 0;
+  color: #666;
+  font-size: 0.9em;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1024px) {
+  .remedy-card {
+    flex: 1 1 calc(50% - 32px);
+  }
+}
+
+@media (max-width: 600px) {
+  .remedy-card {
+    flex: 1 1 100%;
+  }
+}
+
+/* Rank Borders */
+.remedy-card.rank-1 {
+  border: 2px solid gold; /* Or a more appropriate gold color */
+}
+
+.remedy-card.rank-2 {
+  border: 2px solid silver; /* Or a more appropriate silver color */
+}
+
+.remedy-card.rank-3 {
+  border: 2px solid #cd7f32; /* Bronze color */
+}
+
+/* Thermal Match Badges */
+.thermal-badge {
+  display: inline-block;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.8em;
+  font-weight: bold;
+  color: white;
+  margin-left: 8px;
+}
+
+.thermal-badge.good {
+  background-color: green;
+}
+
+.thermal-badge.partial {
+  background-color: orange;
+}
+
+.thermal-badge.mismatch {
+  background-color: red;
+}
+
+/* Progress Bar */
+.progress-bar-container {
+  background-color: #e0e0e0;
+  border-radius: 4px;
+  height: 10px;
+  margin-top: 8px;
+  overflow: hidden;
+}
+
+.progress-bar-fill {
+  height: 100%;
+  background-color: #4CAF50; /* Green */
+  width: 0%; /* Will be set dynamically */
+  border-radius: 4px;
+  transition: width 0.5s ease-in-out;
+}
+
+/* Visually prominent top remedy card */
+.remedy-card.rank-1 {
+  transform: scale(1.05); /* Slightly larger */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* More pronounced shadow */
+  background-color: #fffbe6; /* Light gold background */
+}
+
+.remedy-card button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 10px;
+  font-size: 0.9em;
+}
+
+.remedy-card button:hover {
+  background-color: #0056b3;
+}
+
+.collapsible-content {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #eee;
+}
+
+.collapsible-content p,
+.collapsible-content ul {
+  font-size: 0.85em;
+  color: #555;
+}
+
+.collapsible-content ul {
+  padding-left: 20px;
+}
+
+.collapsible-content strong {
+  color: #333;
+}

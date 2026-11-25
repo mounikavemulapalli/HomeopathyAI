@@ -1,0 +1,89 @@
+{
+  "sleepQuality": {
+    "disturbed": {
+      "canonicalSymptom": "Sleep, disturbed",
+      "primaryChapter": "SLEEP",
+      "searchTerms": ["disturbed sleep", "sleep disturbed"],
+      "confidence": 0.9,
+      "matchType": "exact"
+    },
+    "restless": {
+      "canonicalSymptom": "Sleep, restless",
+      "primaryChapter": "SLEEP",
+      "searchTerms": ["restless sleep", "sleep restless"],
+      "confidence": 0.9,
+      "matchType": "exact"
+    },
+    "heavy": {
+      "canonicalSymptom": "Sleep, heavy",
+      "primaryChapter": "SLEEP",
+      "searchTerms": ["heavy sleep", "sleep heavy"],
+      "confidence": 0.9,
+      "matchType": "exact"
+    }
+  },
+  "insomnia": {
+    "sleeplessness": {
+      "canonicalSymptom": "Sleeplessness",
+      "primaryChapter": "SLEEP",
+      "searchTerms": ["sleeplessness", "unable to sleep"],
+      "confidence": 0.9,
+      "matchType": "exact"
+    },
+    "wakesFrequently": {
+      "canonicalSymptom": "Sleep, wakes frequently",
+      "primaryChapter": "SLEEP",
+      "searchTerms": ["wakes frequently", "frequent waking"],
+      "confidence": 0.9,
+      "matchType": "exact"
+    },
+    "wakesAt3AM": {
+      "canonicalSymptom": "Sleep, wakes at 3 AM",
+      "primaryChapter": "SLEEP",
+      "searchTerms": ["wakes at 3 AM", "waking at 3am"],
+      "confidence": 0.9,
+      "matchType": "exact"
+    }
+  },
+  "positionDuringSleep": {
+    "onBack": {
+      "canonicalSymptom": "Sleep, on back",
+      "primaryChapter": "SLEEP",
+      "searchTerms": ["sleep on back", "sleeping on back"],
+      "confidence": 0.8,
+      "matchType": "partial"
+    }
+  },
+  "eventsDuringSleep": {
+    "snoring": {
+      "canonicalSymptom": "Sleep, snoring",
+      "primaryChapter": "SLEEP",
+      "searchTerms": ["snoring", "snores"],
+      "confidence": 0.9,
+      "matchType": "exact"
+    },
+    "talking": {
+      "canonicalSymptom": "Sleep, talking in sleep",
+      "primaryChapter": "SLEEP",
+      "searchTerms": ["talking in sleep", "sleep talking"],
+      "confidence": 0.9,
+      "matchType": "exact"
+    },
+    "grindingTeeth": {
+      "canonicalSymptom": "Sleep, grinding teeth",
+      "primaryChapter": "SLEEP",
+      "searchTerms": ["grinding teeth in sleep", "bruxism", "grinding teeth"],
+      "confidence": 0.9,
+      "matchType": "exact"
+    }
+  },
+  "sleepModalities": {
+    "amelioratesFromSleep": {
+      "canonicalSymptom": "Ameliorates, from sleep",
+      "primaryChapter": "GENERALITIES",
+      "searchTerms": ["better from sleep", "sleep ameliorates"],
+      "confidence": 0.7,
+      "matchType": "partial"
+    }
+  }
+}

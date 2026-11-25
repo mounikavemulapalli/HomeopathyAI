@@ -1,0 +1,2429 @@
+[
+  {
+    "id": "KENT_EYE_PAIN_2_RIGHT_4",
+    "chapter": "EYE",
+    "rubric": "PAIN_2 > right_4",
+    "remedy": "cupr-",
+    "grade": 1,
+    "allRemedies": [
+      {
+        "name": "Am-m",
+        "grade": 1
+      },
+      {
+        "name": "bar-c",
+        "grade": 1
+      },
+      {
+        "name": "cann-i",
+        "grade": 1
+      },
+      {
+        "name": "carb-an",
+        "grade": 1
+      },
+      {
+        "name": "carb-s",
+        "grade": 1
+      },
+      {
+        "name": "caust",
+        "grade": 1
+      },
+      {
+        "name": "chel",
+        "grade": 1
+      },
+      {
+        "name": "colch",
+        "grade": 1
+      },
+      {
+        "name": "coloc",
+        "grade": 1
+      },
+      {
+        "name": "cupr-",
+        "grade": 1
+      },
+      {
+        "name": "ar",
+        "grade": 1
+      },
+      {
+        "name": "gels",
+        "grade": 1
+      },
+      {
+        "name": "hell",
+        "grade": 1
+      },
+      {
+        "name": "mag-m",
+        "grade": 1
+      },
+      {
+        "name": "mez",
+        "grade": 1
+      },
+      {
+        "name": "nicc",
+        "grade": 1
+      },
+      {
+        "name": "plb",
+        "grade": 1
+      },
+      {
+        "name": "stann",
+        "grade": 1
+      },
+      {
+        "name": "stront",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "id": "KENT_EYE_VOMITING_PREGNANCY_DURING",
+    "chapter": "EYE",
+    "rubric": "VOMITING > pregnancy, during",
+    "remedy": "cupr-",
+    "grade": 1,
+    "allRemedies": [
+      {
+        "name": "Asar",
+        "grade": 3
+      },
+      {
+        "name": "Chel",
+        "grade": 3
+      },
+      {
+        "name": "Jatr",
+        "grade": 3
+      },
+      {
+        "name": "Kreos",
+        "grade": 3
+      },
+      {
+        "name": "Lact-ac",
+        "grade": 3
+      },
+      {
+        "name": "Nat-s",
+        "grade": 3
+      },
+      {
+        "name": "Nux-m",
+        "grade": 3
+      },
+      {
+        "name": "Nux-v",
+        "grade": 3
+      },
+      {
+        "name": "Sep",
+        "grade": 3
+      },
+      {
+        "name": "Tab",
+        "grade": 3
+      },
+      {
+        "name": "ant-c",
+        "grade": 2
+      },
+      {
+        "name": "apis",
+        "grade": 2
+      },
+      {
+        "name": "ars",
+        "grade": 2
+      },
+      {
+        "name": "bry",
+        "grade": 2
+      },
+      {
+        "name": "cadm",
+        "grade": 2
+      },
+      {
+        "name": "calc",
+        "grade": 2
+      },
+      {
+        "name": "canth",
+        "grade": 2
+      },
+      {
+        "name": "caps",
+        "grade": 2
+      },
+      {
+        "name": "carb-ac",
+        "grade": 2
+      },
+      {
+        "name": "cic",
+        "grade": 2
+      },
+      {
+        "name": "colch",
+        "grade": 2
+      },
+      {
+        "name": "con",
+        "grade": 2
+      },
+      {
+        "name": "ferr-p",
+        "grade": 2
+      },
+      {
+        "name": "ferr",
+        "grade": 2
+      },
+      {
+        "name": "ip",
+        "grade": 2
+      },
+      {
+        "name": "iris",
+        "grade": 2
+      },
+      {
+        "name": "kali-bi",
+        "grade": 2
+      },
+      {
+        "name": "kali-br",
+        "grade": 2
+      },
+      {
+        "name": "lach",
+        "grade": 2
+      },
+      {
+        "name": "lil-t",
+        "grade": 2
+      },
+      {
+        "name": "lyc",
+        "grade": 2
+      },
+      {
+        "name": "mag-m",
+        "grade": 2
+      },
+      {
+        "name": "nat-m",
+        "grade": 2
+      },
+      {
+        "name": "op",
+        "grade": 2
+      },
+      {
+        "name": "ox-ac",
+        "grade": 2
+      },
+      {
+        "name": "petr",
+        "grade": 2
+      },
+      {
+        "name": "ph-ac",
+        "grade": 2
+      },
+      {
+        "name": "phos",
+        "grade": 2
+      },
+      {
+        "name": "podo",
+        "grade": 2
+      },
+      {
+        "name": "psor",
+        "grade": 2
+      },
+      {
+        "name": "puls",
+        "grade": 2
+      },
+      {
+        "name": "sil",
+        "grade": 2
+      },
+      {
+        "name": "sul-ac",
+        "grade": 2
+      },
+      {
+        "name": "sulph",
+        "grade": 2
+      },
+      {
+        "name": "verat-v",
+        "grade": 2
+      },
+      {
+        "name": "verat",
+        "grade": 2
+      },
+      {
+        "name": "Acet-ac",
+        "grade": 1
+      },
+      {
+        "name": "acon",
+        "grade": 1
+      },
+      {
+        "name": "alet",
+        "grade": 1
+      },
+      {
+        "name": "anac",
+        "grade": 1
+      },
+      {
+        "name": "card-m",
+        "grade": 1
+      },
+      {
+        "name": "cast",
+        "grade": 1
+      },
+      {
+        "name": "cinnam",
+        "grade": 1
+      },
+      {
+        "name": "cod",
+        "grade": 1
+      },
+      {
+        "name": "cupr-",
+        "grade": 1
+      },
+      {
+        "name": "ar",
+        "grade": 1
+      },
+      {
+        "name": "dios",
+        "grade": 1
+      },
+      {
+        "name": "ferr-ar",
+        "grade": 1
+      },
+      {
+        "name": "kali-c",
+        "grade": 1
+      },
+      {
+        "name": "kali-p",
+        "grade": 1
+      },
+      {
+        "name": "lac-c",
+        "grade": 1
+      },
+      {
+        "name": "lob",
+        "grade": 1
+      },
+      {
+        "name": "merc-i-f",
+        "grade": 1
+      },
+      {
+        "name": "nat-p",
+        "grade": 1
+      },
+      {
+        "name": "plat",
+        "grade": 1
+      },
+      {
+        "name": "plb",
+        "grade": 1
+      },
+      {
+        "name": "symph",
+        "grade": 1
+      },
+      {
+        "name": "tarent",
+        "grade": 1
+      },
+      {
+        "name": "zinc",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "id": "KENT_EYE_PERINEUM_9",
+    "chapter": "EYE",
+    "rubric": "Perineum_9",
+    "remedy": "cupr-",
+    "grade": 1,
+    "allRemedies": [
+      {
+        "name": "Caust",
+        "grade": 3
+      },
+      {
+        "name": "berb",
+        "grade": 2
+      },
+      {
+        "name": "canth",
+        "grade": 2
+      },
+      {
+        "name": "cycl",
+        "grade": 2
+      },
+      {
+        "name": "lyc",
+        "grade": 2
+      },
+      {
+        "name": "puls",
+        "grade": 2
+      },
+      {
+        "name": "Alum",
+        "grade": 1
+      },
+      {
+        "name": "ant-c",
+        "grade": 1
+      },
+      {
+        "name": "aur",
+        "grade": 1
+      },
+      {
+        "name": "bov",
+        "grade": 1
+      },
+      {
+        "name": "calc-p",
+        "grade": 1
+      },
+      {
+        "name": "carb-an",
+        "grade": 1
+      },
+      {
+        "name": "chel",
+        "grade": 1
+      },
+      {
+        "name": "cupr-",
+        "grade": 1
+      },
+      {
+        "name": "ar",
+        "grade": 1
+      },
+      {
+        "name": "kali-bi",
+        "grade": 1
+      },
+      {
+        "name": "nux-v",
+        "grade": 1
+      },
+      {
+        "name": "phos",
+        "grade": 1
+      },
+      {
+        "name": "plb",
+        "grade": 1
+      },
+      {
+        "name": "sel",
+        "grade": 1
+      },
+      {
+        "name": "sulph",
+        "grade": 1
+      },
+      {
+        "name": "thuj",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "id": "KENT_EYE_PERINEUM_15_TENESMUS",
+    "chapter": "EYE",
+    "rubric": "Perineum_15 > tenesmus",
+    "remedy": "cupr-",
+    "grade": 1,
+    "allRemedies": [
+      {
+        "name": "Aesc",
+        "grade": 3
+      },
+      {
+        "name": "Aloe",
+        "grade": 3
+      },
+      {
+        "name": "Apis",
+        "grade": 3
+      },
+      {
+        "name": "Caps",
+        "grade": 3
+      },
+      {
+        "name": "Colch",
+        "grade": 3
+      },
+      {
+        "name": "Lil-t",
+        "grade": 3
+      },
+      {
+        "name": "Merc-c",
+        "grade": 3
+      },
+      {
+        "name": "Merc",
+        "grade": 3
+      },
+      {
+        "name": "Nit-ac",
+        "grade": 3
+      },
+      {
+        "name": "Staph",
+        "grade": 3
+      },
+      {
+        "name": "Sulph",
+        "grade": 3
+      },
+      {
+        "name": "anac",
+        "grade": 2
+      },
+      {
+        "name": "arg-m",
+        "grade": 2
+      },
+      {
+        "name": "arn",
+        "grade": 2
+      },
+      {
+        "name": "ars",
+        "grade": 2
+      },
+      {
+        "name": "bell",
+        "grade": 2
+      },
+      {
+        "name": "bov",
+        "grade": 2
+      },
+      {
+        "name": "calc",
+        "grade": 2
+      },
+      {
+        "name": "canth",
+        "grade": 2
+      },
+      {
+        "name": "carb-v",
+        "grade": 2
+      },
+      {
+        "name": "caust",
+        "grade": 2
+      },
+      {
+        "name": "coll",
+        "grade": 2
+      },
+      {
+        "name": "coloc",
+        "grade": 2
+      },
+      {
+        "name": "corn",
+        "grade": 2
+      },
+      {
+        "name": "crot-t",
+        "grade": 2
+      },
+      {
+        "name": "cycl",
+        "grade": 2
+      },
+      {
+        "name": "eupho",
+        "grade": 2
+      },
+      {
+        "name": "ham",
+        "grade": 2
+      },
+      {
+        "name": "ip",
+        "grade": 2
+      },
+      {
+        "name": "iris",
+        "grade": 2
+      },
+      {
+        "name": "kali-bi",
+        "grade": 2
+      },
+      {
+        "name": "kali-i",
+        "grade": 2
+      },
+      {
+        "name": "kali-n",
+        "grade": 2
+      },
+      {
+        "name": "lach",
+        "grade": 2
+      },
+      {
+        "name": "lyc",
+        "grade": 2
+      },
+      {
+        "name": "lyss",
+        "grade": 2
+      },
+      {
+        "name": "mez",
+        "grade": 2
+      },
+      {
+        "name": "nat-a",
+        "grade": 2
+      },
+      {
+        "name": "nat-c",
+        "grade": 2
+      },
+      {
+        "name": "nat-m",
+        "grade": 2
+      },
+      {
+        "name": "nux-v",
+        "grade": 2
+      },
+      {
+        "name": "phyt",
+        "grade": 2
+      },
+      {
+        "name": "plat",
+        "grade": 2
+      },
+      {
+        "name": "sep",
+        "grade": 2
+      },
+      {
+        "name": "sil",
+        "grade": 2
+      },
+      {
+        "name": "stront",
+        "grade": 2
+      },
+      {
+        "name": "tarent",
+        "grade": 2
+      },
+      {
+        "name": "Acon",
+        "grade": 1
+      },
+      {
+        "name": "agar",
+        "grade": 1
+      },
+      {
+        "name": "alum",
+        "grade": 1
+      },
+      {
+        "name": "am-c",
+        "grade": 1
+      },
+      {
+        "name": "ambr",
+        "grade": 1
+      },
+      {
+        "name": "ant-c",
+        "grade": 1
+      },
+      {
+        "name": "apoc",
+        "grade": 1
+      },
+      {
+        "name": "ars-i",
+        "grade": 1
+      },
+      {
+        "name": "arum-t",
+        "grade": 1
+      },
+      {
+        "name": "asaf",
+        "grade": 1
+      },
+      {
+        "name": "atro",
+        "grade": 1
+      },
+      {
+        "name": "aur-m",
+        "grade": 1
+      },
+      {
+        "name": "bar-c",
+        "grade": 1
+      },
+      {
+        "name": "bar-m",
+        "grade": 1
+      },
+      {
+        "name": "benz",
+        "grade": 1
+      },
+      {
+        "name": "berb",
+        "grade": 1
+      },
+      {
+        "name": "brom",
+        "grade": 1
+      },
+      {
+        "name": "bry",
+        "grade": 1
+      },
+      {
+        "name": "cact",
+        "grade": 1
+      },
+      {
+        "name": "calc-s",
+        "grade": 1
+      },
+      {
+        "name": "cann-i",
+        "grade": 1
+      },
+      {
+        "name": "cann-s",
+        "grade": 1
+      },
+      {
+        "name": "carb-an",
+        "grade": 1
+      },
+      {
+        "name": "carb-s",
+        "grade": 1
+      },
+      {
+        "name": "cham",
+        "grade": 1
+      },
+      {
+        "name": "chin-s",
+        "grade": 1
+      },
+      {
+        "name": "cob",
+        "grade": 1
+      },
+      {
+        "name": "cocc",
+        "grade": 1
+      },
+      {
+        "name": "con",
+        "grade": 1
+      },
+      {
+        "name": "cupr-",
+        "grade": 1
+      },
+      {
+        "name": "ar",
+        "grade": 1
+      },
+      {
+        "name": "cupr",
+        "grade": 1
+      },
+      {
+        "name": "der",
+        "grade": 1
+      },
+      {
+        "name": "dig",
+        "grade": 1
+      },
+      {
+        "name": "dios",
+        "grade": 1
+      },
+      {
+        "name": "dirc",
+        "grade": 1
+      },
+      {
+        "name": "eup-per",
+        "grade": 1
+      },
+      {
+        "name": "eupi",
+        "grade": 1
+      },
+      {
+        "name": "fago",
+        "grade": 1
+      },
+      {
+        "name": "ferr-ar",
+        "grade": 1
+      },
+      {
+        "name": "ferr-i",
+        "grade": 1
+      },
+      {
+        "name": "ferr-",
+        "grade": 1
+      },
+      {
+        "name": "m",
+        "grade": 1
+      },
+      {
+        "name": "ferr-p",
+        "grade": 1
+      },
+      {
+        "name": "ferr",
+        "grade": 1
+      },
+      {
+        "name": "gamb",
+        "grade": 1
+      },
+      {
+        "name": "gels",
+        "grade": 1
+      },
+      {
+        "name": "graph",
+        "grade": 1
+      },
+      {
+        "name": "grat",
+        "grade": 1
+      },
+      {
+        "name": "hep",
+        "grade": 1
+      },
+      {
+        "name": "hyos",
+        "grade": 1
+      },
+      {
+        "name": "ign",
+        "grade": 1
+      },
+      {
+        "name": "iod",
+        "grade": 1
+      },
+      {
+        "name": "kali-ar",
+        "grade": 1
+      },
+      {
+        "name": "kali-c",
+        "grade": 1
+      },
+      {
+        "name": "kreos",
+        "grade": 1
+      },
+      {
+        "name": "lac-c",
+        "grade": 1
+      },
+      {
+        "name": "lact",
+        "grade": 1
+      },
+      {
+        "name": "laur",
+        "grade": 1
+      },
+      {
+        "name": "lycps",
+        "grade": 1
+      },
+      {
+        "name": "mag-s",
+        "grade": 1
+      },
+      {
+        "name": "manc",
+        "grade": 1
+      },
+      {
+        "name": "merc-cy",
+        "grade": 1
+      },
+      {
+        "name": "mill",
+        "grade": 1
+      },
+      {
+        "name": "mur-ac",
+        "grade": 1
+      },
+      {
+        "name": "nat-",
+        "grade": 1
+      },
+      {
+        "name": "p",
+        "grade": 1
+      },
+      {
+        "name": "nicc",
+        "grade": 1
+      },
+      {
+        "name": "nux-m",
+        "grade": 1
+      },
+      {
+        "name": "oena",
+        "grade": 1
+      },
+      {
+        "name": "ol-an",
+        "grade": 1
+      },
+      {
+        "name": "op",
+        "grade": 1
+      },
+      {
+        "name": "ox-ac",
+        "grade": 1
+      },
+      {
+        "name": "petr",
+        "grade": 1
+      },
+      {
+        "name": "ph-ac",
+        "grade": 1
+      },
+      {
+        "name": "phel",
+        "grade": 1
+      },
+      {
+        "name": "phos",
+        "grade": 1
+      },
+      {
+        "name": "phys",
+        "grade": 1
+      },
+      {
+        "name": "pic-ac",
+        "grade": 1
+      },
+      {
+        "name": "plb",
+        "grade": 1
+      },
+      {
+        "name": "podo",
+        "grade": 1
+      },
+      {
+        "name": "psor",
+        "grade": 1
+      },
+      {
+        "name": "ptel",
+        "grade": 1
+      },
+      {
+        "name": "puls",
+        "grade": 1
+      },
+      {
+        "name": "rat",
+        "grade": 1
+      },
+      {
+        "name": "rheum",
+        "grade": 1
+      },
+      {
+        "name": "rhod",
+        "grade": 1
+      },
+      {
+        "name": "rhus-t",
+        "grade": 1
+      },
+      {
+        "name": "rumx",
+        "grade": 1
+      },
+      {
+        "name": "ruta",
+        "grade": 1
+      },
+      {
+        "name": "sang",
+        "grade": 1
+      },
+      {
+        "name": "sel",
+        "grade": 1
+      },
+      {
+        "name": "senec",
+        "grade": 1
+      },
+      {
+        "name": "sol-n",
+        "grade": 1
+      },
+      {
+        "name": "sol-t-ae",
+        "grade": 1
+      },
+      {
+        "name": "spig",
+        "grade": 1
+      },
+      {
+        "name": "spong",
+        "grade": 1
+      },
+      {
+        "name": "squil",
+        "grade": 1
+      },
+      {
+        "name": "stann",
+        "grade": 1
+      },
+      {
+        "name": "sumb",
+        "grade": 1
+      },
+      {
+        "name": "tab",
+        "grade": 1
+      },
+      {
+        "name": "ter",
+        "grade": 1
+      },
+      {
+        "name": "thuj",
+        "grade": 1
+      },
+      {
+        "name": "trom",
+        "grade": 1
+      },
+      {
+        "name": "verat-v",
+        "grade": 1
+      },
+      {
+        "name": "verat",
+        "grade": 1
+      },
+      {
+        "name": "vip",
+        "grade": 1
+      },
+      {
+        "name": "zinc",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "id": "KENT_EYE_PERINEUM_15_AFTER_2",
+    "chapter": "EYE",
+    "rubric": "Perineum_15 > after_2",
+    "remedy": "cupr-",
+    "grade": 1,
+    "allRemedies": [
+      {
+        "name": "Agar",
+        "grade": 3
+      },
+      {
+        "name": "Merc-c",
+        "grade": 3
+      },
+      {
+        "name": "Merc",
+        "grade": 3
+      },
+      {
+        "name": "Puls",
+        "grade": 3
+      },
+      {
+        "name": "Sulph",
+        "grade": 3
+      },
+      {
+        "name": "Aeth",
+        "grade": 2
+      },
+      {
+        "name": "apis",
+        "grade": 2
+      },
+      {
+        "name": "bell",
+        "grade": 2
+      },
+      {
+        "name": "canth",
+        "grade": 2
+      },
+      {
+        "name": "caps",
+        "grade": 2
+      },
+      {
+        "name": "cocc",
+        "grade": 2
+      },
+      {
+        "name": "colch",
+        "grade": 2
+      },
+      {
+        "name": "ign",
+        "grade": 2
+      },
+      {
+        "name": "kali-bi",
+        "grade": 2
+      },
+      {
+        "name": "kali-s",
+        "grade": 2
+      },
+      {
+        "name": "mag-c",
+        "grade": 2
+      },
+      {
+        "name": "mag-m",
+        "grade": 2
+      },
+      {
+        "name": "mez",
+        "grade": 2
+      },
+      {
+        "name": "nat-m",
+        "grade": 2
+      },
+      {
+        "name": "podo",
+        "grade": 2
+      },
+      {
+        "name": "rheum",
+        "grade": 2
+      },
+      {
+        "name": "rhus-t",
+        "grade": 2
+      },
+      {
+        "name": "trom",
+        "grade": 2
+      },
+      {
+        "name": "am-m",
+        "grade": 1
+      },
+      {
+        "name": "ambr",
+        "grade": 1
+      },
+      {
+        "name": "ant-t",
+        "grade": 1
+      },
+      {
+        "name": "apoc",
+        "grade": 1
+      },
+      {
+        "name": "ars",
+        "grade": 1
+      },
+      {
+        "name": "aster",
+        "grade": 1
+      },
+      {
+        "name": "bapt",
+        "grade": 1
+      },
+      {
+        "name": "bov",
+        "grade": 1
+      },
+      {
+        "name": "calc-p",
+        "grade": 1
+      },
+      {
+        "name": "calc-s",
+        "grade": 1
+      },
+      {
+        "name": "cob",
+        "grade": 1
+      },
+      {
+        "name": "corn",
+        "grade": 1
+      },
+      {
+        "name": "cupr-",
+        "grade": 1
+      },
+      {
+        "name": "ac",
+        "grade": 1
+      },
+      {
+        "name": "dios",
+        "grade": 1
+      },
+      {
+        "name": "dros",
+        "grade": 1
+      },
+      {
+        "name": "dulc",
+        "grade": 1
+      },
+      {
+        "name": "erig",
+        "grade": 1
+      },
+      {
+        "name": "fago",
+        "grade": 1
+      },
+      {
+        "name": "fl-ac",
+        "grade": 1
+      },
+      {
+        "name": "gamb",
+        "grade": 1
+      },
+      {
+        "name": "gins",
+        "grade": 1
+      },
+      {
+        "name": "grat",
+        "grade": 1
+      },
+      {
+        "name": "hell",
+        "grade": 1
+      },
+      {
+        "name": "Ind",
+        "grade": 1
+      },
+      {
+        "name": "indg",
+        "grade": 1
+      },
+      {
+        "name": "ip",
+        "grade": 1
+      },
+      {
+        "name": "jug-c",
+        "grade": 1
+      },
+      {
+        "name": "kali-ar",
+        "grade": 1
+      },
+      {
+        "name": "kali-c",
+        "grade": 1
+      },
+      {
+        "name": "kali-n",
+        "grade": 1
+      },
+      {
+        "name": "kali-p",
+        "grade": 1
+      },
+      {
+        "name": "lach",
+        "grade": 1
+      },
+      {
+        "name": "laur",
+        "grade": 1
+      },
+      {
+        "name": "lil-t",
+        "grade": 1
+      },
+      {
+        "name": "lyc",
+        "grade": 1
+      },
+      {
+        "name": "lyss",
+        "grade": 1
+      },
+      {
+        "name": "mag-s",
+        "grade": 1
+      },
+      {
+        "name": "manc",
+        "grade": 1
+      },
+      {
+        "name": "merc-i-r",
+        "grade": 1
+      },
+      {
+        "name": "nicc",
+        "grade": 1
+      },
+      {
+        "name": "ph-ac",
+        "grade": 1
+      },
+      {
+        "name": "phel",
+        "grade": 1
+      },
+      {
+        "name": "phys",
+        "grade": 1
+      },
+      {
+        "name": "plat",
+        "grade": 1
+      },
+      {
+        "name": "plb",
+        "grade": 1
+      },
+      {
+        "name": "ptel",
+        "grade": 1
+      },
+      {
+        "name": "sars",
+        "grade": 1
+      },
+      {
+        "name": "tab",
+        "grade": 1
+      },
+      {
+        "name": "zinc",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "id": "KENT_SLEEP_LOOSE",
+    "chapter": "SLEEP",
+    "rubric": "LOOSE",
+    "remedy": "cupr-",
+    "grade": 1,
+    "allRemedies": [
+      {
+        "name": "Ars",
+        "grade": 3
+      },
+      {
+        "name": "Puls",
+        "grade": 3
+      },
+      {
+        "name": "arg-m",
+        "grade": 2
+      },
+      {
+        "name": "ars-i",
+        "grade": 2
+      },
+      {
+        "name": "calc",
+        "grade": 2
+      },
+      {
+        "name": "carb-v",
+        "grade": 2
+      },
+      {
+        "name": "chel",
+        "grade": 2
+      },
+      {
+        "name": "coc-c",
+        "grade": 2
+      },
+      {
+        "name": "con",
+        "grade": 2
+      },
+      {
+        "name": "dulc",
+        "grade": 2
+      },
+      {
+        "name": "phos",
+        "grade": 2
+      },
+      {
+        "name": "senec",
+        "grade": 2
+      },
+      {
+        "name": "sep",
+        "grade": 2
+      },
+      {
+        "name": "sil",
+        "grade": 2
+      },
+      {
+        "name": "stann",
+        "grade": 2
+      },
+      {
+        "name": "Acet-ac",
+        "grade": 1
+      },
+      {
+        "name": "agar",
+        "grade": 1
+      },
+      {
+        "name": "alum",
+        "grade": 1
+      },
+      {
+        "name": "am-c",
+        "grade": 1
+      },
+      {
+        "name": "am-m",
+        "grade": 1
+      },
+      {
+        "name": "anac",
+        "grade": 1
+      },
+      {
+        "name": "ant-t",
+        "grade": 1
+      },
+      {
+        "name": "apis",
+        "grade": 1
+      },
+      {
+        "name": "apoc",
+        "grade": 1
+      },
+      {
+        "name": "arum-d",
+        "grade": 1
+      },
+      {
+        "name": "arum-t",
+        "grade": 1
+      },
+      {
+        "name": "asaf",
+        "grade": 1
+      },
+      {
+        "name": "aur-m",
+        "grade": 1
+      },
+      {
+        "name": "bell",
+        "grade": 1
+      },
+      {
+        "name": "bism",
+        "grade": 1
+      },
+      {
+        "name": "brom",
+        "grade": 1
+      },
+      {
+        "name": "bry",
+        "grade": 1
+      },
+      {
+        "name": "calc-s",
+        "grade": 1
+      },
+      {
+        "name": "carb-an",
+        "grade": 1
+      },
+      {
+        "name": "carb-s",
+        "grade": 1
+      },
+      {
+        "name": "carl",
+        "grade": 1
+      },
+      {
+        "name": "cench",
+        "grade": 1
+      },
+      {
+        "name": "cham",
+        "grade": 1
+      },
+      {
+        "name": "chin-a",
+        "grade": 1
+      },
+      {
+        "name": "chin-s",
+        "grade": 1
+      },
+      {
+        "name": "chin",
+        "grade": 1
+      },
+      {
+        "name": "cic",
+        "grade": 1
+      },
+      {
+        "name": "cina",
+        "grade": 1
+      },
+      {
+        "name": "cocc",
+        "grade": 1
+      },
+      {
+        "name": "coloc",
+        "grade": 1
+      },
+      {
+        "name": "cub",
+        "grade": 1
+      },
+      {
+        "name": "cupr-",
+        "grade": 1
+      },
+      {
+        "name": "n",
+        "grade": 1
+      },
+      {
+        "name": "dig",
+        "grade": 1
+      },
+      {
+        "name": "dros",
+        "grade": 1
+      },
+      {
+        "name": "elaps",
+        "grade": 1
+      },
+      {
+        "name": "eup-per",
+        "grade": 1
+      },
+      {
+        "name": "eupho",
+        "grade": 1
+      },
+      {
+        "name": "eupi",
+        "grade": 1
+      },
+      {
+        "name": "ferr-ar",
+        "grade": 1
+      },
+      {
+        "name": "ferr-i",
+        "grade": 1
+      },
+      {
+        "name": "ferr-p",
+        "grade": 1
+      },
+      {
+        "name": "ferr",
+        "grade": 1
+      },
+      {
+        "name": "graph",
+        "grade": 1
+      },
+      {
+        "name": "hep",
+        "grade": 1
+      },
+      {
+        "name": "hydr",
+        "grade": 1
+      },
+      {
+        "name": "ign",
+        "grade": 1
+      },
+      {
+        "name": "iod",
+        "grade": 1
+      },
+      {
+        "name": "jab",
+        "grade": 1
+      },
+      {
+        "name": "kali-ar",
+        "grade": 1
+      },
+      {
+        "name": "kali-c",
+        "grade": 1
+      },
+      {
+        "name": "kali-p",
+        "grade": 1
+      },
+      {
+        "name": "kali-s",
+        "grade": 1
+      },
+      {
+        "name": "kreos",
+        "grade": 1
+      },
+      {
+        "name": "lappa-a",
+        "grade": 1
+      },
+      {
+        "name": "lyc",
+        "grade": 1
+      },
+      {
+        "name": "mag-s",
+        "grade": 1
+      },
+      {
+        "name": "merc-c",
+        "grade": 1
+      },
+      {
+        "name": "merc-",
+        "grade": 1
+      },
+      {
+        "name": "i-f",
+        "grade": 1
+      },
+      {
+        "name": "merc",
+        "grade": 1
+      },
+      {
+        "name": "mur-ac",
+        "grade": 1
+      },
+      {
+        "name": "nat-a",
+        "grade": 1
+      },
+      {
+        "name": "nat-c",
+        "grade": 1
+      },
+      {
+        "name": "nat-s",
+        "grade": 1
+      },
+      {
+        "name": "nit-ac",
+        "grade": 1
+      },
+      {
+        "name": "nux-m",
+        "grade": 1
+      },
+      {
+        "name": "ol-j",
+        "grade": 1
+      },
+      {
+        "name": "ph-ac",
+        "grade": 1
+      },
+      {
+        "name": "podo",
+        "grade": 1
+      },
+      {
+        "name": "ruta",
+        "grade": 1
+      },
+      {
+        "name": "sabad",
+        "grade": 1
+      },
+      {
+        "name": "sacc",
+        "grade": 1
+      },
+      {
+        "name": "sec",
+        "grade": 1
+      },
+      {
+        "name": "seneg",
+        "grade": 1
+      },
+      {
+        "name": "spong",
+        "grade": 1
+      },
+      {
+        "name": "squil",
+        "grade": 1
+      },
+      {
+        "name": "staph",
+        "grade": 1
+      },
+      {
+        "name": "stict",
+        "grade": 1
+      },
+      {
+        "name": "still",
+        "grade": 1
+      },
+      {
+        "name": "sul-ac",
+        "grade": 1
+      },
+      {
+        "name": "sulph",
+        "grade": 1
+      },
+      {
+        "name": "tarent",
+        "grade": 1
+      },
+      {
+        "name": "tell",
+        "grade": 1
+      },
+      {
+        "name": "thuj",
+        "grade": 1
+      },
+      {
+        "name": "verat-v",
+        "grade": 1
+      },
+      {
+        "name": "daytime",
+        "grade": 1
+      },
+      {
+        "name": "See",
+        "grade": 1
+      },
+      {
+        "name": "Expectoration",
+        "grade": 1
+      },
+      {
+        "name": "Dry",
+        "grade": 1
+      },
+      {
+        "name": "Cough",
+        "grade": 1
+      }
+    ]
+  },
+  {
+    "id": "KENT_EXTREMITIES_COLDNESS_14",
+    "chapter": "EXTREMITIES",
+    "rubric": "COLDNESS_14",
+    "remedy": "cupr-",
+    "grade": 1,
+    "allRemedies": [
+      {
+        "name": "Ant-t",
+        "grade": 3
+      },
+      {
+        "name": "Ars",
+        "grade": 3
+      },
+      {
+        "name": "Calc",
+        "grade": 3
+      },
+      {
+        "name": "Camph",
+        "grade": 3
+      },
+      {
+        "name": "Carb-v",
+        "grade": 3
+      },
+      {
+        "name": "Colch",
+        "grade": 3
+      },
+      {
+        "name": "Cupr",
+        "grade": 3
+      },
+      {
+        "name": "Dig",
+        "grade": 3
+      },
+      {
+        "name": "Sec",
+        "grade": 3
+      },
+      {
+        "name": "Stram",
+        "grade": 3
+      },
+      {
+        "name": "Verat",
+        "grade": 3
+      },
+      {
+        "name": "Acon",
+        "grade": 2
+      },
+      {
+        "name": "agar",
+        "grade": 2
+      },
+      {
+        "name": "ant-c",
+        "grade": 2
+      },
+      {
+        "name": "apis",
+        "grade": 2
+      },
+      {
+        "name": "arg-n",
+        "grade": 2
+      },
+      {
+        "name": "ars-h",
+        "grade": 2
+      },
+      {
+        "name": "ars-",
+        "grade": 2
+      },
+      {
+        "name": "i",
+        "grade": 2
+      },
+      {
+        "name": "aur-m",
+        "grade": 2
+      },
+      {
+        "name": "cact",
+        "grade": 2
+      },
+      {
+        "name": "calc-p",
+        "grade": 2
+      },
+      {
+        "name": "canth",
+        "grade": 2
+      },
+      {
+        "name": "caps",
+        "grade": 2
+      },
+      {
+        "name": "carb-h",
+        "grade": 2
+      },
+      {
+        "name": "carb-s",
+        "grade": 2
+      },
+      {
+        "name": "cham",
+        "grade": 2
+      },
+      {
+        "name": "chel",
+        "grade": 2
+      },
+      {
+        "name": "cic",
+        "grade": 2
+      },
+      {
+        "name": "coff",
+        "grade": 2
+      },
+      {
+        "name": "coloc",
+        "grade": 2
+      },
+      {
+        "name": "croc",
+        "grade": 2
+      },
+      {
+        "name": "crot-h",
+        "grade": 2
+      },
+      {
+        "name": "crot-t",
+        "grade": 2
+      },
+      {
+        "name": "dulc",
+        "grade": 2
+      },
+      {
+        "name": "eup-per",
+        "grade": 2
+      },
+      {
+        "name": "ferr-p",
+        "grade": 2
+      },
+      {
+        "name": "gamb",
+        "grade": 2
+      },
+      {
+        "name": "gels",
+        "grade": 2
+      },
+      {
+        "name": "ham",
+        "grade": 2
+      },
+      {
+        "name": "hyos",
+        "grade": 2
+      },
+      {
+        "name": "iod",
+        "grade": 2
+      },
+      {
+        "name": "iris",
+        "grade": 2
+      },
+      {
+        "name": "kali-bi",
+        "grade": 2
+      },
+      {
+        "name": "kali-br",
+        "grade": 2
+      },
+      {
+        "name": "kali-c",
+        "grade": 2
+      },
+      {
+        "name": "kali-p",
+        "grade": 2
+      },
+      {
+        "name": "kalm",
+        "grade": 2
+      },
+      {
+        "name": "lach",
+        "grade": 2
+      },
+      {
+        "name": "laur",
+        "grade": 2
+      },
+      {
+        "name": "led",
+        "grade": 2
+      },
+      {
+        "name": "lept",
+        "grade": 2
+      },
+      {
+        "name": "lyc",
+        "grade": 2
+      },
+      {
+        "name": "lycps",
+        "grade": 2
+      },
+      {
+        "name": "med",
+        "grade": 2
+      },
+      {
+        "name": "merc-c",
+        "grade": 2
+      },
+      {
+        "name": "merc",
+        "grade": 2
+      },
+      {
+        "name": "mez",
+        "grade": 2
+      },
+      {
+        "name": "mur-ac",
+        "grade": 2
+      },
+      {
+        "name": "nat-c",
+        "grade": 2
+      },
+      {
+        "name": "nat-m",
+        "grade": 2
+      },
+      {
+        "name": "nux-v",
+        "grade": 2
+      },
+      {
+        "name": "op",
+        "grade": 2
+      },
+      {
+        "name": "ox-ac",
+        "grade": 2
+      },
+      {
+        "name": "ph-ac",
+        "grade": 2
+      },
+      {
+        "name": "phos",
+        "grade": 2
+      },
+      {
+        "name": "phyt",
+        "grade": 2
+      },
+      {
+        "name": "pic-ac",
+        "grade": 2
+      },
+      {
+        "name": "puls",
+        "grade": 2
+      },
+      {
+        "name": "rhus-t",
+        "grade": 2
+      },
+      {
+        "name": "sabad",
+        "grade": 2
+      },
+      {
+        "name": "sil",
+        "grade": 2
+      },
+      {
+        "name": "tab",
+        "grade": 2
+      },
+      {
+        "name": "verat-v",
+        "grade": 2
+      },
+      {
+        "name": "zinc",
+        "grade": 2
+      },
+      {
+        "name": "aeth",
+        "grade": 1
+      },
+      {
+        "name": "alum",
+        "grade": 1
+      },
+      {
+        "name": "alumn",
+        "grade": 1
+      },
+      {
+        "name": "anthr",
+        "grade": 1
+      },
+      {
+        "name": "atro",
+        "grade": 1
+      },
+      {
+        "name": "bell",
+        "grade": 1
+      },
+      {
+        "name": "bism",
+        "grade": 1
+      },
+      {
+        "name": "both",
+        "grade": 1
+      },
+      {
+        "name": "bry",
+        "grade": 1
+      },
+      {
+        "name": "bufo",
+        "grade": 1
+      },
+      {
+        "name": "calc-s",
+        "grade": 1
+      },
+      {
+        "name": "cann-",
+        "grade": 1
+      },
+      {
+        "name": "i",
+        "grade": 1
+      },
+      {
+        "name": "cann-s",
+        "grade": 1
+      },
+      {
+        "name": "carb-ac",
+        "grade": 1
+      },
+      {
+        "name": "carb-an",
+        "grade": 1
+      },
+      {
+        "name": "caust",
+        "grade": 1
+      },
+      {
+        "name": "cedr",
+        "grade": 1
+      },
+      {
+        "name": "chen-a",
+        "grade": 1
+      },
+      {
+        "name": "chin-a",
+        "grade": 1
+      },
+      {
+        "name": "chin-s",
+        "grade": 1
+      },
+      {
+        "name": "chin",
+        "grade": 1
+      },
+      {
+        "name": "cocc",
+        "grade": 1
+      },
+      {
+        "name": "con",
+        "grade": 1
+      },
+      {
+        "name": "cupr-",
+        "grade": 1
+      },
+      {
+        "name": "ar",
+        "grade": 1
+      },
+      {
+        "name": "cycl",
+        "grade": 1
+      },
+      {
+        "name": "dros",
+        "grade": 1
+      },
+      {
+        "name": "echi",
+        "grade": 1
+      },
+      {
+        "name": "ferr-ar",
+        "grade": 1
+      },
+      {
+        "name": "ferr",
+        "grade": 1
+      },
+      {
+        "name": "gins",
+        "grade": 1
+      },
+      {
+        "name": "glon",
+        "grade": 1
+      },
+      {
+        "name": "hell",
+        "grade": 1
+      },
+      {
+        "name": "helon",
+        "grade": 1
+      },
+      {
+        "name": "hep",
+        "grade": 1
+      },
+      {
+        "name": "hydr-ac",
+        "grade": 1
+      },
+      {
+        "name": "ip",
+        "grade": 1
+      },
+      {
+        "name": "jatr",
+        "grade": 1
+      },
+      {
+        "name": "jug-r",
+        "grade": 1
+      },
+      {
+        "name": "kali-chl",
+        "grade": 1
+      },
+      {
+        "name": "kali-n",
+        "grade": 1
+      },
+      {
+        "name": "kali-s",
+        "grade": 1
+      },
+      {
+        "name": "lil-t",
+        "grade": 1
+      },
+      {
+        "name": "lyss",
+        "grade": 1
+      },
+      {
+        "name": "manc",
+        "grade": 1
+      },
+      {
+        "name": "morph",
+        "grade": 1
+      },
+      {
+        "name": "naja",
+        "grade": 1
+      },
+      {
+        "name": "nat-p",
+        "grade": 1
+      },
+      {
+        "name": "nit-ac",
+        "grade": 1
+      },
+      {
+        "name": "nux-m",
+        "grade": 1
+      },
+      {
+        "name": "olnd",
+        "grade": 1
+      },
+      {
+        "name": "paeon",
+        "grade": 1
+      },
+      {
+        "name": "pall",
+        "grade": 1
+      },
+      {
+        "name": "petr",
+        "grade": 1
+      },
+      {
+        "name": "phys",
+        "grade": 1
+      },
+      {
+        "name": "plb",
+        "grade": 1
+      },
+      {
+        "name": "raph",
+        "grade": 1
+      },
+      {
+        "name": "ruta",
+        "grade": 1
+      },
+      {
+        "name": "sabin",
+        "grade": 1
+      },
+      {
+        "name": "sarr",
+        "grade": 1
+      },
+      {
+        "name": "spig",
+        "grade": 1
+      },
+      {
+        "name": "spong",
+        "grade": 1
+      },
+      {
+        "name": "stann",
+        "grade": 1
+      },
+      {
+        "name": "stront",
+        "grade": 1
+      },
+      {
+        "name": "stry",
+        "grade": 1
+      },
+      {
+        "name": "sul-ac",
+        "grade": 1
+      },
+      {
+        "name": "sulph",
+        "grade": 1
+      },
+      {
+        "name": "tarent",
+        "grade": 1
+      },
+      {
+        "name": "ter",
+        "grade": 1
+      },
+      {
+        "name": "verb",
+        "grade": 1
+      },
+      {
+        "name": "vip",
+        "grade": 1
+      }
+    ]
+  }
+]

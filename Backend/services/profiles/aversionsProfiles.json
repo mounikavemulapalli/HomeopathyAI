@@ -1,0 +1,26 @@
+[
+  {
+    "canonicalName": "Aversion, milk",
+    "synonyms": ["milk", "dairy"],
+    "searchTerms": ["aversion milk", "dislikes milk", "hates milk", "milk aversion"],
+    "commonExpressions": ["cannot tolerate milk", "averse to milk", "milk disagrees"],
+    "suggestedPrimaryChapter": "FOOD AND DRINKS",
+    "suggestedSecondaryChapters": ["STOMACH", "GENERALITIES"]
+  },
+  {
+    "canonicalName": "Aversion, meat",
+    "synonyms": ["meat", "flesh"],
+    "searchTerms": ["aversion meat", "dislikes meat"],
+    "commonExpressions": ["cannot eat meat", "hates meat"],
+    "suggestedPrimaryChapter": "FOOD AND DRINKS",
+    "suggestedSecondaryChapters": ["STOMACH", "GENERALITIES"]
+  },
+  {
+    "canonicalName": "Aversion, sweets",
+    "synonyms": ["sweets", "sugar", "candy"],
+    "searchTerms": ["aversion sweets", "dislikes sweets", "hates sugar"],
+    "commonExpressions": ["cannot stand sweets"],
+    "suggestedPrimaryChapter": "FOOD AND DRINKS",
+    "suggestedSecondaryChapters": ["STOMACH", "GENERALITIES"]
+  }
+]

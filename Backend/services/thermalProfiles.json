@@ -1,0 +1,98 @@
+{
+  "HOT": {
+    "canonicalName": "Hot Patient",
+    "synonyms": [
+      "Warm-blooded",
+      "Sensation of heat",
+      "Cannot tolerate heat",
+      "Desires open air",
+      "Aggravation from heat"
+    ],
+    "commonPatientExpressions": [
+      "I am a warm person.",
+      "I always feel hot.",
+      "I can't stand warm rooms.",
+      "I throw off the covers at night.",
+      "Heat makes me worse."
+    ],
+    "repertoryChapter": "GENERALITIES",
+    "physicianInterpretation": "Indicates a general thermal sensitivity to heat, often desiring cool environments and open air.",
+    "classicalRemedyList": [
+      "Pulsatilla",
+      "Sulphur",
+      "Apis mellifica",
+      "Belladonna",
+      "Lachesis mutus",
+      "Sepia",
+      "Nux vomica (often hot externally, chilly internally)"
+    ],
+    "constitutionalHints": [
+      "Often robust constitution",
+      "Red face/flushes",
+      "Desire for cold drinks",
+      "Dislikes stuffy rooms",
+      "May feel faint from heat"
+    ]
+  },
+  "CHILLY": {
+    "canonicalName": "Chilly Patient",
+    "synonyms": [
+      "Cold-blooded",
+      "Sensation of cold",
+      "Cannot tolerate cold",
+      "Desires warmth",
+      "Aggravation from cold"
+    ],
+    "commonPatientExpressions": [
+      "I am a cold person.",
+      "I always feel cold.",
+      "I can't get warm.",
+      "I need extra blankets.",
+      "Cold makes me worse."
+    ],
+    "repertoryChapter": "GENERALITIES",
+    "physicianInterpretation": "Indicates a general thermal sensitivity to cold, often desiring warm environments and covers.",
+    "classicalRemedyList": [
+      "Arsenicum album",
+      "Nux vomica",
+      "Silicea",
+      "Calcarea carbonica",
+      "Hepar sulphuris",
+      "Rhus toxicodendron",
+      "Mercurius vivus"
+    ],
+    "constitutionalHints": [
+      "Often delicate constitution",
+      "Pale complexion",
+      "Chills easily",
+      "Desires warm drinks",
+      "Aggravation from drafts"
+    ]
+  },
+  "AMBITHERMAL": {
+    "canonicalName": "Ambithermal Patient",
+    "synonyms": [
+      "Neither hot nor chilly",
+      "Sensitive to both heat and cold",
+      "Changeable thermal reaction"
+    ],
+    "commonPatientExpressions": [
+      "I'm sensitive to both heat and cold.",
+      "I feel hot sometimes, cold others.",
+      "Weather changes affect me a lot."
+    ],
+    "repertoryChapter": "GENERALITIES",
+    "physicianInterpretation": "Indicates a patient with a variable or balanced thermal reaction, sensitive to both extremes or alternating.",
+    "classicalRemedyList": [
+      "Phosphorus",
+      "Sulphur (can be ambithermal, though predominantly hot)",
+      "Sepia (can be ambithermal, though predominantly hot)",
+      "Natrum muriaticum"
+    ],
+    "constitutionalHints": [
+      "Variable symptoms",
+      "May have conflicting thermal desires",
+      "Often reactive to environmental changes"
+    ]
+  }
+}

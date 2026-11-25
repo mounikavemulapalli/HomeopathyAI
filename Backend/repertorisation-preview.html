@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Repertorisation Matrix Preview</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 0; background: #f8fafc; color: #1e293b; }
+  .topbar { background: #0284c7; color: #fff; padding: 14px 20px; font-size: 18px; font-weight: 600; display: flex; justify-content: space-between; align-items: center; }
+  .subbar { background: #0369a1; color: #e0f2fe; padding: 8px 20px; font-size: 14px; }
+  .wrap { overflow-x: auto; background: #fff; }
+  table { border-collapse: collapse; width: 100%; min-width: 920px; }
+  th, td { border: 1px solid #e2e8f0; padding: 10px 12px; font-size: 13px; }
+  th { background: #f1f5f9; color: #0f172a; font-weight: 700; text-align: center; position: sticky; top: 0; }
+  th.rubric-col, td.rubric-col { text-align: left; min-width: 340px; max-width: 440px; position: sticky; left: 0; background: #fff; z-index: 2; }
+  th.rubric-col { background: #f1f5f9; color: #0284c7; z-index: 3; }
+  .totality-row td { background: #f8fafc; color: #0284c7; font-weight: 700; text-align: center; }
+  .totality-row td.rubric-col { text-align: left; color: #0284c7; }
+  .tag { font-weight: 700; color: #0f172a; }
+  .count { color: #64748b; font-weight: 600; }
+  td.cell { text-align: center; font-weight: 700; width: 68px; }
+  td.g3 { background: #fca5a5; color: #7f1d1d; }
+  td.g2 { background: #fde047; color: #713f12; }
+  td.g1 { background: #bbf7d0; color: #14532d; }
+</style>
+</head>
+<body>
+  <div class="topbar">
+    <span>Repertorisation</span>
+    <span>Symptoms: 3 &nbsp;|&nbsp; Remedies: 3</span>
+  </div>
+  <div class="subbar">
+    Test Case: back pain • lumbar back ache • radiating to right leg • throbbing type of pain • worse rising from sitting • better pressure
+  </div>
+  <div class="wrap">
+    <table>
+      <thead>
+        <tr>
+          <th class="rubric-col">Remedy Name</th>
+          <th>Rhus toxicodendron</th><th>NUX VOMICA</th><th>COLOCYNTHIS</th>
+        </tr>
+        <tr class="totality-row">
+          <td class="rubric-col">Totality / Symptom Covered</td>
+          <td>6 / 2</td><td>5 / 2</td><td>1 / 1</td>
+        </tr>
+      </thead>
+      <tbody>
+        
+        <tr>
+          <td class="rubric-col">
+            <span class="tag">[confirmatory_rubrics]</span>
+            <span class="tag">[Back, pain, lumbar region, rising from sitting, agg.]</span>
+            <span class="rubric-text">Back, pain, lumbar region, rising from sitting, agg.</span>
+            <span class="count">(1)</span>
+          </td>
+          <td class="cell g3">3</td><td class="cell "></td><td class="cell "></td>
+        </tr>
+
+        <tr>
+          <td class="rubric-col">
+            <span class="tag">[clarke]</span>
+            <span class="tag">[CLINICAL_CLARKE_SCIATICA_BACKRADIATION]</span>
+            <span class="rubric-text">Sciatic pain radiating from low back to right leg</span>
+            <span class="count">(2)</span>
+          </td>
+          <td class="cell "></td><td class="cell g3">3</td><td class="cell g1">1</td>
+        </tr>
+
+        <tr>
+          <td class="rubric-col">
+            <span class="tag">[confirmatory_gpt]</span>
+            <span class="tag">[BACK]</span>
+            <span class="rubric-text">Back, pain, lumbar, after exertion</span>
+            <span class="count">(2)</span>
+          </td>
+          <td class="cell g3">3</td><td class="cell g2">2</td><td class="cell "></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</body>
+</html>
