@@ -96,10 +96,12 @@ app.use(
       "https://www.srisuryahomeoai.com",
     ],
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    allowedHeaders: ["Content-Type", "Authorization"],
     credentials: true,
   }),
 );
-
+app.use(cors(corsOptions));
+app.options(/.*/, cors(corsOptions));
 // --- PARSERS & STATIC ASSETS ---
 app.use(express.json({ limit: "100mb" }));
 app.use(express.urlencoded({ extended: true, limit: "100mb" }));
